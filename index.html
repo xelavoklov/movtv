@@ -140,10 +140,14 @@
 
       const meta = document.createElement('div');
       meta.className = 'meta';
-      // --- Кружок-аватар ---
-      if(p.person_id){
+      // --- Кружок-аватар и имя ---
+      let personId = p.person_id || p.sender_id || p.from_id;
+      const authorBlock = document.createElement('span');
+      authorBlock.style.display = 'inline-flex';
+      authorBlock.style.alignItems = 'center';
+      if(personId){
         const avatar = document.createElement('img');
-        avatar.src = `https://aye.monster/media/person/${p.person_id}.jpg`;
+        avatar.src = `https://aye.monster/media/person/${personId}.jpg`;
         avatar.alt = p.person_name || '';
         avatar.style.width = '28px';
         avatar.style.height = '28px';
@@ -151,15 +155,16 @@
         avatar.style.objectFit = 'cover';
         avatar.style.marginRight = '6px';
         avatar.style.verticalAlign = 'middle';
-        meta.appendChild(avatar);
+        avatar.style.marginBottom = '0px'; // убираем большой отступ
+        authorBlock.appendChild(avatar);
       }
-      // --- Гиперссылка на автора ---
       const sender = document.createElement('a');
       sender.className = 'sender';
       sender.href = p.link || '#';
       sender.textContent = p.person_name || p.sender_id || '';
       sender.target = '_blank';
-      meta.appendChild(sender);
+      authorBlock.appendChild(sender);
+      meta.appendChild(authorBlock);
       // ---
       const date = document.createElement('span'); date.textContent = p.date || '';
       meta.appendChild(date);
@@ -168,30 +173,46 @@
       if(p.forward){
         const f = document.createElement('div'); f.className='forward';
         // --- Кружок-аватар для forward ---
-        if(p.forward.person_id){
+        let fwdPersonId = p.forward.person_id || p.forward.sender_id || p.forward.from_id;
+        let fwdName = p.forward.person_name || p.forward.post_author || p.forward.from_id || '';
+        let fwdLink = p.forward.link || '';
+        // --- Внешний контейнер для строки ---
+        const fwdLine = document.createElement('span');
+        fwdLine.style.display = 'inline-flex';
+        fwdLine.style.alignItems = 'center';
+        fwdLine.style.marginLeft = '0';
+        fwdLine.style.marginTop = '0';
+        fwdLine.style.marginBottom = '0';
+        fwdLine.style.padding = '0';
+        fwdLine.appendChild(document.createTextNode('Forwarded from '));
+        if(fwdPersonId){
           const avatarFwd = document.createElement('img');
-          avatarFwd.src = `https://aye.monster/media/person/${p.forward.person_id}.jpg`;
-          avatarFwd.alt = p.forward.person_name || '';
+          avatarFwd.src = `https://aye.monster/media/person/${fwdPersonId}.jpg`;
+          avatarFwd.alt = fwdName;
           avatarFwd.style.width = '20px';
           avatarFwd.style.height = '20px';
           avatarFwd.style.borderRadius = '50%';
           avatarFwd.style.objectFit = 'cover';
-          avatarFwd.style.marginRight = '4px';
+          avatarFwd.style.marginRight = '6px';
           avatarFwd.style.verticalAlign = 'middle';
-          f.appendChild(avatarFwd);
+          fwdLine.appendChild(avatarFwd);
         }
-        let fwdName = p.forward.person_name || p.forward.post_author || p.forward.from_id || '';
-        let fwdLink = p.forward.link || '';
         if(fwdLink && fwdName){
           const fwdA = document.createElement('a');
           fwdA.href = fwdLink;
           fwdA.textContent = fwdName;
           fwdA.target = '_blank';
-          f.textContent = 'Forwarded from ';
-          f.appendChild(fwdA);
+          fwdA.style.fontWeight = 'bold';
+          fwdA.style.color = '#3390ec';
+          fwdLine.appendChild(fwdA);
         } else {
-          f.textContent = 'Forwarded from ' + fwdName;
+          const fwdSpan = document.createElement('span');
+          fwdSpan.textContent = fwdName;
+          fwdSpan.style.fontWeight = 'bold';
+          fwdSpan.style.color = '#3390ec';
+          fwdLine.appendChild(fwdSpan);
         }
+        f.appendChild(fwdLine);
         d.appendChild(f);
       }
 
