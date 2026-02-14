@@ -4,18 +4,6 @@
   "id": 2387659347,
   "messages": [
     {
-      "id": 1,
-      "type": "service",
-      "date": "2024-10-01T20:25:09",
-      "date_unixtime": "1727803509",
-      "actor": "xelavoklovlive",
-      "actor_id": "channel2387659347",
-      "action": "create_channel",
-      "title": "xelavoklovlive",
-      "text": "",
-      "text_entities": []
-    },
-    {
       "id": 2,
       "type": "message",
       "date": "2024-10-01T20:42:35",

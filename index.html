@@ -109,14 +109,32 @@
   color: white;
   font-size: 14px;
 }
+#sentinel.hidden {
+  visibility: hidden;
+  height: 40px;
+}
+#status { display: none; }
   </style>
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=106831120', 'ym');
+
+    ym(106831120, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/106831120" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
 </head>
 <body>
   <div class="container">
     <h2>Лента канала</h2>
     <div id="status">Загружено: <span id="count">0</span></div>
     <div id="feed"></div>
-    <div id="sentinel" class="loading">Загрузка…</div>
+    <div id="sentinel" class="loading hidden">Загрузка…</div>
   </div>
 
   <script>
@@ -347,6 +365,7 @@
     function loadNext(){
       if(index >= posts.length) {
         document.getElementById('sentinel').textContent = 'Все посты загружены';
+        document.getElementById('status').textContent = 'Все посты загружены';
         console.log('loadNext: nothing to load, index', index, 'posts.length', posts.length);
         return;
       }
@@ -359,6 +378,9 @@
       }
       index = to;
       document.getElementById('count').textContent = index;
+      if(index >= posts.length){
+        document.getElementById('status').textContent = 'Все посты загружены';
+      }
       try{console.log('loadNext done, new index', index)}catch(e){}
       if(index >= posts.length){
         document.getElementById('sentinel').textContent = 'Все посты загружены';
