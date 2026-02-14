@@ -127,11 +127,22 @@
 
     function escapeHtml(s){
       if(!s) return '';
-      return s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+      // support arrays (some messages have text as array) and non-string values
+      if(Array.isArray(s)){
+        s = s.map(it => typeof it === 'string' ? it : (it && it.text) || '').join('');
+      } else if (typeof s !== 'string') {
+        s = String(s);
+      }
+      return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
     }
 
     function isImage(name){
       return /\.(jpg|jpeg|png|gif|webp)$/i.test(name);
+    }
+    function isPlaceholder(name){
+      if(!name) return true;
+      if(typeof name !== 'string') return false;
+      return name.trim().startsWith('(File not included');
     }
 
     function renderPost(p){
@@ -160,9 +171,16 @@
       }
       const sender = document.createElement('a');
       sender.className = 'sender';
-      sender.href = p.link || '#';
-      sender.textContent = p.person_name || p.sender_id || '';
+      // display name from `from`, link constructed from `from_id` as requested
+      const fromDisplay = p.from || p.person_name || p.sender || '';
+      const fromId = p.from_id || p.sender_id || p.person_id || '';
+      sender.textContent = fromDisplay;
       sender.target = '_blank';
+      if(fromId) {
+        sender.href = 'https://t.me/' + fromId;
+      } else {
+        sender.href = p.link || '#';
+      }
       authorBlock.appendChild(sender);
       meta.appendChild(authorBlock);
       // ---
@@ -170,13 +188,13 @@
       meta.appendChild(date);
       d.appendChild(meta);
 
-      if(p.forward){
+      // Поддержка пересылок: некоторые экспорты используют `forwarded_from` поля
+      if(p.forward || p.forwarded_from || p.forwarded_from_id){
         const f = document.createElement('div'); f.className='forward';
         // --- Кружок-аватар для forward ---
-        let fwdPersonId = p.forward.person_id || p.forward.sender_id || p.forward.from_id;
-        let fwdName = p.forward.person_name || p.forward.post_author || p.forward.from_id || '';
-        let fwdLink = p.forward.link || '';
-        // --- Внешний контейнер для строки ---
+        let fwdPersonId = (p.forward && (p.forward.person_id || p.forward.sender_id || p.forward.from_id)) || p.forwarded_from_id;
+        let fwdName = (p.forward && (p.forward.person_name || p.forward.post_author || p.forward.from)) || p.forwarded_from || '';
+        let fwdId = (p.forward && (p.forward.from_id || p.forward.sender_id)) || p.forwarded_from_id || '';
         const fwdLine = document.createElement('span');
         fwdLine.style.display = 'inline-flex';
         fwdLine.style.alignItems = 'center';
@@ -197,9 +215,17 @@
           avatarFwd.style.verticalAlign = 'middle';
           fwdLine.appendChild(avatarFwd);
         }
-        if(fwdLink && fwdName){
+        if(fwdId){
           const fwdA = document.createElement('a');
-          fwdA.href = fwdLink;
+          fwdA.href = 'https://t.me/' + fwdId;
+          fwdA.textContent = fwdName || fwdId;
+          fwdA.target = '_blank';
+          fwdA.style.fontWeight = 'bold';
+          fwdA.style.color = '#3390ec';
+          fwdLine.appendChild(fwdA);
+        } else if((p.forward && p.forward.link) && fwdName){
+          const fwdA = document.createElement('a');
+          fwdA.href = p.forward.link;
           fwdA.textContent = fwdName;
           fwdA.target = '_blank';
           fwdA.style.fontWeight = 'bold';
@@ -220,33 +246,77 @@
       bubble.innerHTML = escapeHtml(p.text || '');
       d.appendChild(bubble);
 
-      if(p.media){
+      if(p.media || (p.file_name && !isPlaceholder(p.file_name)) || (p.photo && !isPlaceholder(p.photo))){
         const mediaWrap = document.createElement('div'); mediaWrap.className='media';
-        // Используем real_filename для подстановки реального имени файла, если оно есть
-        let fname = '';
-        if (p.real_filename && typeof p.real_filename === 'string' && p.real_filename.trim()) {
-          fname = p.real_filename.trim();
-        } else {
-          fname = p.media ? p.media.trim() : '';
+        // Формируем список медиа по приоритету: file_name -> real_media_path -> media
+        let mediaList = [];
+        if (p && p.id === 2) console.log('DEBUG renderPost start id=2', p);
+        if (Array.isArray(p.file_name)) {
+          mediaList = p.file_name.filter(x=>!isPlaceholder(x));
+        } else if (typeof p.file_name === 'string' && p.file_name.trim() && !isPlaceholder(p.file_name)) {
+          mediaList = [p.file_name.trim()];
+        } else if (p.photo && typeof p.photo === 'string' && /\.[a-z0-9]{2,6}$/i.test(p.photo)) {
+          if(!isPlaceholder(p.photo)) mediaList = [p.photo.trim()];
+        } else if (Array.isArray(p.real_media_path)) {
+          mediaList = p.real_media_path.filter(x=>!isPlaceholder(x));
+        } else if (typeof p.real_media_path === 'string' && p.real_media_path.trim()) {
+          if(!isPlaceholder(p.real_media_path)) mediaList = [p.real_media_path.trim()];
+        } else if (p.media) {
+          if(!isPlaceholder(p.media)) mediaList = [p.media.trim()];
         }
-        let href;
-        if(isImage(fname)){
-          href = 'https://aye.monster/' + fname;
-          const img = document.createElement('img'); img.src = href; img.alt = fname;
-          mediaWrap.appendChild(img);
-        } else if(/\.(mp4|webm|ogg)$/i.test(fname)){
-          // Видео: добавляем media/videos/
-          href = 'https://aye.monster/media/videos/' + fname;
-          const video = document.createElement('video');
-          video.src = href;
-          video.controls = true;
-          video.style.maxWidth = '100%';
-          video.style.borderRadius = '8px';
-          mediaWrap.appendChild(video);
-        } else {
-          href = 'https://aye.monster/' + fname;
-          const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
-          mediaWrap.appendChild(a);
+        if (p && p.id === 2) console.log('DEBUG mediaList for id=2', mediaList);
+
+        for (const fname of mediaList) {
+          if(!fname) continue;
+          // Поддержка значений вида "photos/xxx.jpg" — если путь содержит папку,
+          // считаем его относительным к /media и кодируем только сегменты пути.
+          let href;
+          if (fname.includes('/')) {
+            const parts = fname.split('/').filter(Boolean);
+            const root = parts[0].toLowerCase();
+            const allowed = ['photos','videos','audio','files','person'];
+            const encoded = parts.map(p => encodeURIComponent(p)).join('/');
+            if (allowed.includes(root)) {
+              href = 'https://aye.monster/media/' + encoded;
+            } else {
+              // если неизвестный префикс — помещаем в files
+              href = 'https://aye.monster/media/files/' + encoded;
+            }
+          } else {
+            const enc = encodeURIComponent(fname);
+            if(isImage(fname)){
+              href = 'https://aye.monster/media/photos/' + enc;
+            } else if(/\.(mp4|webm|ogg)$/i.test(fname)){
+              href = 'https://aye.monster/media/videos/' + enc;
+            } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)){
+              href = 'https://aye.monster/media/audio/' + enc;
+            } else {
+              href = 'https://aye.monster/media/files/' + enc;
+            }
+          }
+
+          // Вставляем соответствующий элемент
+          if(isImage(fname) || href.toLowerCase().includes('/photos/')){
+            const img = document.createElement('img'); img.src = href; img.alt = fname;
+            mediaWrap.appendChild(img);
+          } else if(/\.(mp4|webm|ogg)$/i.test(fname) || href.toLowerCase().includes('/videos/')){
+            const video = document.createElement('video');
+            video.src = href;
+            video.controls = true;
+            video.style.maxWidth = '100%';
+            video.style.borderRadius = '8px';
+            mediaWrap.appendChild(video);
+          } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname) || href.toLowerCase().includes('/audio/')){
+            const audio = document.createElement('audio');
+            audio.src = href;
+            audio.controls = true;
+            audio.style.display = 'block';
+            audio.style.marginTop = '8px';
+            mediaWrap.appendChild(audio);
+          } else {
+            const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
+            mediaWrap.appendChild(a);
+          }
         }
         d.appendChild(mediaWrap);
       }
@@ -258,7 +328,16 @@
       try{
         const resp = await fetch('channel.json');
         if(!resp.ok) throw new Error('HTTP ' + resp.status);
-        posts = await resp.json();
+        const data = await resp.json();
+        // Поддерживаем оба формата: либо файл — массив сообщений, либо объект { messages: [...] }
+        if (Array.isArray(data)) {
+          posts = data;
+        } else if (data && Array.isArray(data.messages)) {
+          posts = data.messages;
+        } else {
+          posts = [];
+          throw new Error('channel.json has no messages array');
+        }
       }catch(e){
         document.getElementById('sentinel').textContent = 'Не удалось загрузить channel.json: ' + e.message;
         console.error(e);
@@ -268,16 +347,19 @@
     function loadNext(){
       if(index >= posts.length) {
         document.getElementById('sentinel').textContent = 'Все посты загружены';
+        console.log('loadNext: nothing to load, index', index, 'posts.length', posts.length);
         return;
       }
       const feed = document.getElementById('feed');
       const to = Math.min(index + BATCH, posts.length);
+      try{console.log('loadNext start', {index, to, total: posts.length, ids: posts.slice(index,to).map(x=>x && x.id)})}catch(e){}
       for(let i = index; i < to; i++){
         const el = renderPost(posts[i]);
         feed.appendChild(el);
       }
       index = to;
       document.getElementById('count').textContent = index;
+      try{console.log('loadNext done, new index', index)}catch(e){}
       if(index >= posts.length){
         document.getElementById('sentinel').textContent = 'Все посты загружены';
       }
