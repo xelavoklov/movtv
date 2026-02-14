@@ -222,13 +222,21 @@
 
       if(p.media){
         const mediaWrap = document.createElement('div'); mediaWrap.className='media';
-        const fname = p.media ? p.media.trim() : '';
-        const href = 'https://aye.monster/' + fname;
+        // Используем real_filename для подстановки реального имени файла, если оно есть
+        let fname = '';
+        if (p.real_filename && typeof p.real_filename === 'string' && p.real_filename.trim()) {
+          fname = p.real_filename.trim();
+        } else {
+          fname = p.media ? p.media.trim() : '';
+        }
+        let href;
         if(isImage(fname)){
+          href = 'https://aye.monster/' + fname;
           const img = document.createElement('img'); img.src = href; img.alt = fname;
           mediaWrap.appendChild(img);
         } else if(/\.(mp4|webm|ogg)$/i.test(fname)){
-          // Видео: без автостарта
+          // Видео: добавляем media/videos/
+          href = 'https://aye.monster/media/videos/' + fname;
           const video = document.createElement('video');
           video.src = href;
           video.controls = true;
@@ -236,6 +244,7 @@
           video.style.borderRadius = '8px';
           mediaWrap.appendChild(video);
         } else {
+          href = 'https://aye.monster/' + fname;
           const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
           mediaWrap.appendChild(a);
         }
