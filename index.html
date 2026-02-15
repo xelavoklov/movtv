@@ -326,12 +326,27 @@
             video.style.borderRadius = '8px';
             mediaWrap.appendChild(video);
           } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname) || href.toLowerCase().includes('/audio/')){
+            // Контейнер для аудио и названия файла
+            const audioContainer = document.createElement('div');
+            audioContainer.style.display = 'flex';
+            audioContainer.style.alignItems = 'center';
+            audioContainer.style.marginTop = '8px';
+
             const audio = document.createElement('audio');
             audio.src = href;
             audio.controls = true;
             audio.style.display = 'block';
-            audio.style.marginTop = '8px';
-            mediaWrap.appendChild(audio);
+            audio.style.marginRight = '12px';
+
+            const fnameSpan = document.createElement('span');
+            fnameSpan.textContent = fname;
+            fnameSpan.style.fontSize = '13px';
+            fnameSpan.style.color = '#555';
+            fnameSpan.style.wordBreak = 'break-all';
+
+            audioContainer.appendChild(audio);
+            audioContainer.appendChild(fnameSpan);
+            mediaWrap.appendChild(audioContainer);
           } else {
             const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
             mediaWrap.appendChild(a);
