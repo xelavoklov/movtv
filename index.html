@@ -18,8 +18,8 @@
     #status{font-size:13px;color:#666;margin-bottom:10px}
     .sender{font-weight:600;color:#1a73e8;margin-right:8px}
     body {
-  background-color: #7195ba; /* Классический фон Telegram */
-  background-image: url('https://www.transparenttextures.com'); /* Легкий паттерн */
+  background-color: #fff; /* Белый фон для светлой темы */
+  background-image: none;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   display: flex;
   flex-direction: column;
@@ -37,7 +37,7 @@
 }
 
 .post {
-  background: #fafbfc;
+  background: #f5f6fa; /* Более светлый фон поста для контраста */
   border: 1px solid #e5e7eb;
   padding: 8px 12px;
   border-radius: 12px;
@@ -169,7 +169,28 @@
     color: #fff;
   }
 }
+  /* Кастомная тема для tippy.js, чтобы pop-up был читаем и в тёмной теме */
+  .tippy-box[data-theme~="light-border"].tippy-box[data-theme~="darkfix"] {
+    background-color: #23272f;
+    color: #fff;
+    border: 1px solid #444;
+  }
+  .tippy-box[data-theme~="light-border"].tippy-box[data-theme~="darkfix"] .tippy-arrow {
+    color: #23272f;
+  }
+  @media (prefers-color-scheme: dark) {
+    .tippy-box[data-theme~="light-border"], .tippy-box[data-theme~="darkfix"] {
+      background-color: #23272f;
+      color: #fff;
+      border: 1px solid #444;
+    }
+    .tippy-box[data-theme~="light-border"] .tippy-arrow, .tippy-box[data-theme~="darkfix"] .tippy-arrow {
+      color: #23272f;
+    }
+  }
   </style>
+  <!-- Tippy.js CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css" />
   <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
     (function(m,e,t,r,i,k,a){
@@ -183,7 +204,10 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/106831120" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
-</head>
+  <!-- Tippy.js и Popper.js -->
+  <script src="https://unpkg.com/@popperjs/core@2"></script>
+  <script src="https://unpkg.com/tippy.js@6"></script>
+  </head>
 <body>
   <div class="container">
     <h2>ауе228.рф</h2>
@@ -244,6 +268,7 @@
       }
       const sender = document.createElement('a');
       sender.className = 'sender';
+      // Не задаём title, чтобы не мешать tippy.js
       const fromDisplay = p.from || p.person_name || p.sender || '';
       const fromId = p.from_id || p.sender_id || p.person_id || '';
       sender.textContent = fromDisplay;
@@ -267,10 +292,9 @@
       // Поддержка пересылок: некоторые экспорты используют `forwarded_from` поля
       if(p.forward || p.forwarded_from || p.forwarded_from_id){
         const f = document.createElement('div'); f.className='forward';
-        // --- Кружок-аватар для forward ---
         let fwdPersonId = (p.forward && (p.forward.person_id || p.forward.sender_id || p.forward.from_id)) || p.forwarded_from_id;
         let fwdName = (p.forward && (p.forward.person_name || p.forward.post_author || p.forward.from)) || p.forwarded_from || '';
-        let fwdId = (p.forward && (p.forward.from_id || p.forward.sender_id)) || p.forwarded_from_id || '';
+        let fwdFromName = p.forwarded_from_name;
         const fwdLine = document.createElement('span');
         fwdLine.style.display = 'inline-flex';
         fwdLine.style.alignItems = 'center';
@@ -291,20 +315,16 @@
           avatarFwd.style.verticalAlign = 'middle';
           fwdLine.appendChild(avatarFwd);
         }
-        if(fwdId){
-          // Удаляем user из начала, если есть
-          let cleanId = fwdId;
-          if(cleanId.startsWith('user')){
-            cleanId = cleanId.slice(4);
-          }
-          cleanId = cleanId.replace(/^_+|_+$/g, ''); // удаляем ведущие/концевые подчёркивания
-          let userHref = cleanId.match(/^[0-9]+$/) ? 'tg://user?id=' + cleanId : 'https://t.me/' + cleanId;
+        if(fwdPersonId && fwdName){
           const fwdA = document.createElement('a');
-          fwdA.href = userHref;
-          fwdA.textContent = fwdName || cleanId;
+          fwdA.href = 'https://t.me/' + encodeURIComponent(fwdName);
+          fwdA.textContent = fwdName;
           fwdA.target = '_blank';
           fwdA.style.fontWeight = 'bold';
           fwdA.style.color = '#3390ec';
+          fwdA.setAttribute('data-person-id', fwdPersonId);
+          fwdA.setAttribute('data-person-name', fwdName);
+          fwdA.setAttribute('data-forwarded-from-name', fwdFromName);
           fwdLine.appendChild(fwdA);
         } else if((p.forward && p.forward.link) && fwdName){
           const fwdA = document.createElement('a');
@@ -321,7 +341,6 @@
           fwdSpan.style.color = '#3390ec';
           fwdLine.appendChild(fwdSpan);
         }
-        // --- Добавляем forward_date сразу после имени ---
         if (p.forward_date) {
           const fdInline = document.createElement('span');
           let fd = p.forward_date;
@@ -576,6 +595,38 @@ function restorePostIndex() {
       }
       setTimeout(restoreScroll, 400);
       setTimeout(restorePostIndex, 300);
+      // Единственная инициализация tippy.js pop-up для всех <a>, только через data-атрибуты
+      setTimeout(() => {
+        if (typeof tippy !== 'undefined') {
+          document.querySelectorAll('a').forEach(el => {
+            if (el._tippy) el._tippy.destroy();
+          });
+          tippy(document.querySelectorAll('a'), {
+            allowHTML: true,
+            content(reference) {
+              const pid = reference.getAttribute('data-person-id');
+              const pname = reference.getAttribute('data-person-name');
+              const pusername = reference.getAttribute('data-person-username') || pname;
+              const forwardedFromName = reference.getAttribute('data-forwarded-from-name');
+              if (pid && pname) {
+                const avatarUrl = `https://aye.monster/media/person/${pid}.jpg`;
+                return `
+                  <div style="display:flex;flex-direction:column;align-items:center;min-width:170px;max-width:240px;padding:8px 0;">
+                    <img src="${avatarUrl}" alt="${escapeHtml(pname)}" style="width:126px;height:126px;border-radius:50%;object-fit:cover;box-shadow:0 2px 12px #0004;margin-bottom:16px;">
+                    <span style="font-weight:bold;font-size:20px;line-height:1.2;margin-bottom:10px;text-align:center;">${escapeHtml(pname)}</span>
+                    <span style="color:#3390ec;font-size:17px;font-family:monospace;">@${escapeHtml(forwardedFromName)}</span>
+                  </div>
+                `;
+              }
+              // Для остальных ссылок — просто href
+              return reference.getAttribute('href') || 'Нет href';
+            },
+            placement: 'top',
+            theme: 'light-border darkfix',
+            delay: [50, 0],
+          });
+        }
+      }, 1200);
     })();
   </script>
 </body>
