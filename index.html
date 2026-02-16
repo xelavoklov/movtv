@@ -37,13 +37,14 @@
 }
 
 .post {
-  background: white;
+  background: #fafbfc;
+  border: 1px solid #e5e7eb;
   padding: 8px 12px;
   border-radius: 12px;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
   position: relative;
   max-width: 90%;
-  align-self: flex-start; /* В канале посты обычно прижаты к левому краю */
+  align-self: flex-start;
   margin: 0 10px;
 }
 
@@ -115,6 +116,59 @@
   height: 40px;
 }
 #status { display: none; }
+@media (prefers-color-scheme: dark) {
+      /* Тёмная тема: современный стиль */
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #181a20;
+          background-image: none;
+        }
+        .container {
+          background: none;
+        }
+        .post {
+          background: #191b1e;
+          border: 1px solid #2c2f34;
+          color: #ececec;
+        }
+        .bubble, .meta, .forward, .sender {
+          color: #ececec !important;
+        }
+        .forward {
+          border-left: 2px solid #3390ec;
+        }
+        .media img {
+          filter: brightness(0.85);
+        }
+        #sentinel {
+          color: #ececec;
+        }
+          .media span {
+            color: #cccccc !important;
+          }
+      }
+  body {
+    background-color: #111;
+    background-image: none;
+  }
+  .container {
+    background: none;
+  }
+  .post {
+    background: #222;
+    border: 1px solid #2c2f34;
+    color: #fff;
+  }
+  .bubble, .meta, .forward, .sender {
+    color: #fff !important;
+  }
+  .forward {
+    border-left: 2px solid #fff;
+  }
+  #sentinel {
+    color: #fff;
+  }
+}
   </style>
   <!-- Yandex.Metrika counter -->
 <script type="text/javascript">
@@ -205,6 +259,8 @@
       // ---
       const date = document.createElement('span'); date.textContent = p.date || '';
       meta.appendChild(date);
+
+      // forward_date теперь выводится в блоке forward ниже
       d.appendChild(meta);
 
       // Поддержка пересылок: некоторые экспорты используют `forwarded_from` поля
@@ -256,6 +312,25 @@
           fwdSpan.style.fontWeight = 'bold';
           fwdSpan.style.color = '#3390ec';
           fwdLine.appendChild(fwdSpan);
+        }
+        // --- Добавляем forward_date сразу после имени ---
+        if (p.forward_date) {
+          const fdInline = document.createElement('span');
+          let fd = p.forward_date;
+          try {
+            const dt = new Date(fd);
+            if (!isNaN(dt.getTime())) {
+              fd = dt.toLocaleString('ru-RU', {
+                year: 'numeric', month: '2-digit', day: '2-digit',
+                hour: '2-digit', minute: '2-digit', second: '2-digit'
+              });
+            }
+          } catch(e){}
+          fdInline.textContent = ` (${fd})`;
+          fdInline.style.color = '#a8a8a8';
+          fdInline.style.fontSize = '11px';
+          fdInline.style.marginLeft = '6px';
+          fwdLine.appendChild(fdInline);
         }
         f.appendChild(fwdLine);
         d.appendChild(f);
