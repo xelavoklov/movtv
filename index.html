@@ -244,15 +244,16 @@
       }
       const sender = document.createElement('a');
       sender.className = 'sender';
-      // display name from `from`, link constructed from `from_id` as requested
       const fromDisplay = p.from || p.person_name || p.sender || '';
       const fromId = p.from_id || p.sender_id || p.person_id || '';
       sender.textContent = fromDisplay;
       sender.target = '_blank';
-      if(fromId) {
-        sender.href = 'https://t.me/' + fromId;
-      } else {
+      if(fromDisplay) {
+        sender.href = 'https://t.me/' + fromDisplay;
+      } else if(fromId) {
         sender.href = p.link || '#';
+      } else {
+        sender.href = '#';
       }
       authorBlock.appendChild(sender);
       meta.appendChild(authorBlock);
@@ -291,9 +292,16 @@
           fwdLine.appendChild(avatarFwd);
         }
         if(fwdId){
+          // Удаляем user из начала, если есть
+          let cleanId = fwdId;
+          if(cleanId.startsWith('user')){
+            cleanId = cleanId.slice(4);
+          }
+          cleanId = cleanId.replace(/^_+|_+$/g, ''); // удаляем ведущие/концевые подчёркивания
+          let userHref = cleanId.match(/^[0-9]+$/) ? 'tg://user?id=' + cleanId : 'https://t.me/' + cleanId;
           const fwdA = document.createElement('a');
-          fwdA.href = 'https://t.me/' + fwdId;
-          fwdA.textContent = fwdName || fwdId;
+          fwdA.href = userHref;
+          fwdA.textContent = fwdName || cleanId;
           fwdA.target = '_blank';
           fwdA.style.fontWeight = 'bold';
           fwdA.style.color = '#3390ec';
@@ -422,6 +430,20 @@
             audioContainer.appendChild(audio);
             audioContainer.appendChild(fnameSpan);
             mediaWrap.appendChild(audioContainer);
+          } else if(/\.pdf$/i.test(fname) || href.toLowerCase().includes('.pdf')){
+            // Встраиваем PDF-документ как окно
+            const pdfFrame = document.createElement('iframe');
+            pdfFrame.src = href;
+            pdfFrame.style.width = '100%';
+            pdfFrame.style.height = '480px';
+            pdfFrame.style.border = 'none';
+            pdfFrame.setAttribute('loading','lazy');
+            mediaWrap.appendChild(pdfFrame);
+            // Дополнительно ссылка на файл
+            const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
+            a.style.display = 'block';
+            a.style.marginTop = '8px';
+            mediaWrap.appendChild(a);
           } else {
             const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
             mediaWrap.appendChild(a);
@@ -453,11 +475,36 @@
       }
     }
 
+    // --- Сохранение индекса последнего видимого поста ---
+function saveVisiblePostIndex() {
+  const postsEls = document.querySelectorAll('.post');
+  let idx = 0;
+  for(let i=0; i<postsEls.length; i++) {
+    const rect = postsEls[i].getBoundingClientRect();
+    if(rect.top >= 0 && rect.bottom <= window.innerHeight) {
+      idx = i;
+    }
+  }
+  localStorage.setItem('postIndex', idx);
+}
+window.addEventListener('scroll', saveVisiblePostIndex);
+
+function restorePostIndex() {
+  const n = +localStorage.getItem('postIndex');
+  if(n > 0) {
+    const postsEls = document.querySelectorAll('.post');
+    if(postsEls[n]) {
+      postsEls[n].scrollIntoView({behavior:'auto',block:'start'});
+    }
+  }
+}
+
     function loadNext(){
       if(index >= posts.length) {
         document.getElementById('sentinel').textContent = 'Все посты загружены';
         document.getElementById('status').textContent = 'Все посты загружены';
         console.log('loadNext: nothing to load, index', index, 'posts.length', posts.length);
+        setTimeout(restorePostIndex, 200);
         return;
       }
       const feed = document.getElementById('feed');
@@ -471,10 +518,12 @@
       document.getElementById('count').textContent = index;
       if(index >= posts.length){
         document.getElementById('status').textContent = 'Все посты загружены';
+        setTimeout(restorePostIndex, 200);
       }
       try{console.log('loadNext done, new index', index)}catch(e){}
       if(index >= posts.length){
         document.getElementById('sentinel').textContent = 'Все посты загружены';
+        setTimeout(restorePostIndex, 200);
       }
     }
 
@@ -503,11 +552,30 @@
 
     (async function(){
       await loadJson();
-      // загрузим первую пачку
-      loadNext();
+      // Подгружаем пачки до нужного поста только после полной очистки ленты
+      const feed = document.getElementById('feed');
+      feed.innerHTML = '';
+      index = 0;
+      const n = +localStorage.getItem('postIndex');
+      let target = n > 0 ? n : 0;
+      while(index < posts.length && index < target + 1) {
+        loadNext();
+      }
       // наблюдаем sentinel
       const s = document.getElementById('sentinel');
       observer.observe(s);
+      // --- Сохранение позиции скролла ---
+      window.addEventListener('scroll', function() {
+        localStorage.setItem('scrollY', window.scrollY);
+      });
+      function restoreScroll() {
+        const y = +localStorage.getItem('scrollY');
+        if (y > 0) {
+          window.scrollTo(0, y);
+        }
+      }
+      setTimeout(restoreScroll, 400);
+      setTimeout(restorePostIndex, 300);
     })();
   </script>
 </body>
