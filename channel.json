@@ -62,6 +62,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Павел Иванович, как будет время, сообщите пожалуйста, я подойду",
       "text_entities": [
@@ -70,8 +71,7 @@
           "text": "Павел Иванович, как будет время, сообщите пожалуйста, я подойду"
         }
       ],
-      "forward_date": "2019-04-09T10:03:31",
-      "forwarded_from_name": "xelavoklov"
+      "forward_date": "2019-04-09T10:03:31"
     },
     {
       "id": 6,
@@ -81,6 +81,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "угу",
       "text_entities": [
@@ -89,8 +90,7 @@
           "text": "угу"
         }
       ],
-      "forward_date": "2019-04-09T10:16:42",
-      "forwarded_from_name": "pkudriavtsev"
+      "forward_date": "2019-04-09T10:16:42"
     },
     {
       "id": 7,
@@ -100,6 +100,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "освободился",
       "text_entities": [
@@ -108,8 +109,7 @@
           "text": "освободился"
         }
       ],
-      "forward_date": "2019-04-09T10:26:38",
-      "forwarded_from_name": "pkudriavtsev"
+      "forward_date": "2019-04-09T10:26:38"
     },
     {
       "id": 8,
@@ -119,6 +119,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Павел Иванович, заранее извините за не скромный вопрос да и самому стыдно, можете денег занять?",
       "text_entities": [
@@ -127,8 +128,7 @@
           "text": "Павел Иванович, заранее извините за не скромный вопрос да и самому стыдно, можете денег занять?"
         }
       ],
-      "forward_date": "2019-04-29T11:09:29",
-      "forwarded_from_name": "xelavoklov"
+      "forward_date": "2019-04-29T11:09:29"
     },
     {
       "id": 9,
@@ -138,6 +138,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "можете Павел Иванович?",
       "text_entities": [
@@ -146,8 +147,7 @@
           "text": "можете Павел Иванович?"
         }
       ],
-      "forward_date": "2019-04-29T12:47:52",
-      "forwarded_from_name": "xelavoklov"
+      "forward_date": "2019-04-29T12:47:52"
     },
     {
       "id": 10,
@@ -157,6 +157,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Видишь ли, Саш\nтеоретически то я могу, да\nно не считаю это правильным\nу меня почему то с тобой, как с сотрудником, наибольшее количество проблем\nне хочется добавлять ещё одну",
       "text_entities": [
@@ -165,8 +166,7 @@
           "text": "Видишь ли, Саш\nтеоретически то я могу, да\nно не считаю это правильным\nу меня почему то с тобой, как с сотрудником, наибольшее количество проблем\nне хочется добавлять ещё одну"
         }
       ],
-      "forward_date": "2019-04-29T13:51:12",
-      "forwarded_from_name": "pkudriavtsev"
+      "forward_date": "2019-04-29T13:51:12"
     },
     {
       "id": 11,
@@ -176,6 +176,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Нет у меня проблем",
       "text_entities": [
@@ -194,6 +195,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Павел Иванович, увеличьте пожалуйста мне зарплату. Я как никак сделал валидную подпись смев3 алгоритмом ГОСТ 2012. Может я и самый проблемный, зато самый талантливый",
       "text_entities": [
@@ -212,6 +214,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Саш, у нас, насколько я знаю, все выполняют какие-то задачи\n\nкто-то побыстрее - тот зарабатывает больше\nкто-то помедленнее - тот меньше\nнадеюсь, что у нас нет таких людей, которые получают зарплату за факт своего присутствия\nпоэтому размер зарплаты зависит от скорости/качества написания кода\n\nтак вот, твой уровень зарплаты сильно превышает количество/качества/сложности решённых задач относительно других разработчиков\nещё раз скажу, что для тебя повысить уровень заработной платы реально сменой места работы",
       "text_entities": [
@@ -230,6 +233,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Да на этом заработаете",
       "text_entities": [
@@ -248,6 +252,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "ну если ты знаешь как заработать, то для тебя было бы эффективнее открыть собственную компанию\nтам размер заработка неограничен\nно это не точно",
       "text_entities": [
@@ -266,6 +271,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Можете у Насти урезать",
       "text_entities": [
@@ -284,6 +290,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "тот же совет\nбудешь устанавливать уровень зарплаты своих сотрудников по своему желанию",
       "text_entities": [
@@ -302,6 +309,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Я честный",
       "text_entities": [
@@ -320,6 +328,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "и компания будет самая честная и успешная",
       "text_entities": [
@@ -338,6 +347,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ну так деньги нужны на компанию",
       "text_entities": [
@@ -356,6 +366,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "у меня их не было на старте\nсначала один программил, потом начал нанимать сотрудников потихоньку",
       "text_entities": [
@@ -374,6 +385,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "В любом случае я достоин большего и вы это знаете",
       "text_entities": [
@@ -392,6 +404,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "так ещё раз - это же легко доказуемо\nты открываешь компанию и зарабатываешь существенно больше, чем сейчас",
       "text_entities": [
@@ -410,6 +423,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Я сейчас должен больше зарабатывать",
       "text_entities": [
@@ -428,6 +442,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Настя только в зеркало и телефон смотрела давай не будем",
       "text_entities": [
@@ -446,6 +461,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Давайте",
       "text_entities": [
@@ -464,6 +480,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Извините",
       "text_entities": [
@@ -482,6 +499,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Т9",
       "text_entities": [
@@ -500,6 +518,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "И вы ей платили",
       "text_entities": [
@@ -518,6 +537,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "ну слушай, если твоя уверенность небезосновательна, и причиной низкой зарплаты являюсь я один, то в соседней компании ты легко докажешь как я ошибался",
       "text_entities": [
@@ -536,6 +556,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Я не могу уйти без своего",
       "text_entities": [
@@ -554,6 +575,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Т.к честный",
       "text_entities": [
@@ -572,6 +594,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "я сейчас запросил статистику твоих входов-выходов на проходной\nэто ни разу не показатель качества твоей работы, но показатель исполнения трудовой дисциплины\nнадеюсь там подтвердится, что ты честный и согласно трудовому договору отрабатывал по 8 часов",
       "text_entities": [
@@ -590,6 +613,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ну вы же знаете что даже эта разработа много вам принесет",
       "text_entities": [
@@ -608,6 +632,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Это мой стиль",
       "text_entities": [
@@ -626,6 +651,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Хотите чтобы я вам в ноги кланялся? Скажите, буду",
       "text_entities": [
@@ -644,6 +670,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Ну приведи расчёт то..\nэта разработка - один из винтиков большой системы\nЯ не говорю, что он не важный, но тем не менее\nИ я не уверен, что другой разработчик сделал бы этот винтик медленнее, чем ты",
       "text_entities": [
@@ -662,6 +689,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "reply_to_message_id": 36,
       "text": "никто из зарабатывающих больше тебя не кланяется\nты меня не слышишь\nзарплата зависит только от объёма/сложности/качества кода",
@@ -681,6 +709,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "никто не приходит ко мне с вопросом - я написал фичу, вы на ней много заработаете, повысьте мне зарплату\nэто какой то твой фирменный стиль\nи он не работает",
       "text_entities": [
@@ -699,6 +728,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Могу приходить к 8 и тупо втыкать в монитор 8 часов",
       "text_entities": [
@@ -717,6 +747,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Я делаю реальные вещи",
       "text_entities": [
@@ -735,6 +766,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "если почитать трудовой договор, то там написано, что сотрудник выполняет поручения\nневыполнение трудового договора - это прямой путь к увольнению",
       "text_entities": [
@@ -753,6 +785,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Павел Иванович извините, давайте закончим. Ну серьезно ну не я же это все начал.",
       "text_entities": [
@@ -771,6 +804,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Саш, ты белый и пушистый, способный и производительный\nя эти качества оцениваю в гораздо меньшую сумму, чем ты сейчас зарабатываешь\nпоэтому давай действительно на этом закончим",
       "text_entities": [
@@ -789,6 +823,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Волков 1.xls",
@@ -811,6 +846,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "что мне сделать чотбы вы меня простили? могу выходить по выходным",
       "text_entities": [
@@ -829,6 +865,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "я всё же настоятельно тебе рекомендую поискать другую работу",
       "text_entities": [
@@ -847,6 +884,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ясно",
       "text_entities": [
@@ -865,6 +903,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "трудишься, стараешься... а когда цель достигнута выбрасывают как расходный материал",
       "text_entities": [
@@ -883,6 +922,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Саш, не надо испытывать мои нервы",
       "text_entities": [
@@ -901,6 +941,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ну хоть выходное дайте тогда за подпись",
       "text_entities": [
@@ -919,6 +960,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "всё по честному же",
       "text_entities": [
@@ -937,6 +979,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "я тебя по статье уволю, если по честному хочешь",
       "text_entities": [
@@ -955,6 +998,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "я тут просто так перед тобой распинаюсь чтоли? ты пытаешься хоть что-то извлечь из моих слов?",
       "text_entities": [
@@ -973,6 +1017,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "попробуй почитать и понять, что я тебе пишу",
       "text_entities": [
@@ -991,6 +1036,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "мне в любом случае нужно посоветоваться",
       "text_entities": [
@@ -1009,6 +1055,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "и да, если бы я был настроен персонально против твоей личности, я бы не глядя уволил тебя\nа я тут няньчусь с тобой, что-то пытаюсь до тебя донести",
       "text_entities": [
@@ -1027,6 +1074,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "хорошо, что мне нужно сделать?",
       "text_entities": [
@@ -1045,6 +1093,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "работу искать",
       "text_entities": [
@@ -1063,6 +1112,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "и потом увольняться, я серьезно не разбираюсь в этих вопросах",
       "text_entities": [
@@ -1081,6 +1131,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "либо ты продолжаешь делать поставленные задачи, ищешь работу и как найдёшь увольняешься\nлибо, если ты больше не намерен писать, то можешь сразу заявление писать",
       "text_entities": [
@@ -1099,6 +1150,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "давайте начну искать работу, пока продолжу делать задачи",
       "text_entities": [
@@ -1117,6 +1169,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "давай",
       "text_entities": [
@@ -1150,6 +1203,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Привет\nА не подскажешь, с чем связано твоё отсутствие?",
       "text_entities": [
@@ -1168,6 +1222,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "Але, гараж",
       "text_entities": [
@@ -1220,6 +1275,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Гараж, будешь про меня чето кукарекать не по делу подам на тебя в суд",
       "text_entities": [
@@ -1238,6 +1294,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Понял?",
       "text_entities": [
@@ -1256,6 +1313,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "169517314",
       "text": "You are wellcome!",
       "text_entities": [
@@ -1274,6 +1332,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ясно не умеешь ты по-другому)",
       "text_entities": [
@@ -1292,6 +1351,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Хотя чёрт с тобой кукарекай",
       "text_entities": [
@@ -1310,6 +1370,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ты сам знаешь как в госсекторе любят шум",
       "text_entities": [
@@ -1377,6 +1438,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Саня, ты счастливчик",
       "text_entities": [
@@ -1394,6 +1456,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Джокер в качестве вышел",
       "text_entities": [
@@ -1411,6 +1474,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "я принципиально не буду его смотреть",
       "text_entities": [
@@ -1429,6 +1493,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Ты ебанутый?",
       "text_entities": [
@@ -1447,6 +1512,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ну как бы да",
       "text_entities": [
@@ -1465,6 +1531,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Я его пересматривать буду",
       "text_entities": [
@@ -1483,6 +1550,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Ещё пару раз наверное",
       "text_entities": [
@@ -1501,6 +1569,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "это тож погятно",
       "text_entities": [
@@ -1519,6 +1588,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Бля, ты там вообще все мозги скурил?",
       "text_entities": [
@@ -1537,6 +1607,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "у меня ты есть че переживать то об этом",
       "text_entities": [
@@ -1555,6 +1626,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Че?",
       "text_entities": [
@@ -1573,6 +1645,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ты же не куришь и не скуришь значит",
       "text_entities": [
@@ -1591,6 +1664,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "логика еб",
       "text_entities": [
@@ -1609,6 +1683,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Ну так то да",
       "text_entities": [
@@ -1627,6 +1702,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Но бля, это же джокер",
       "text_entities": [
@@ -1645,6 +1721,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Как ты можешь держаться?",
       "text_entities": [
@@ -1663,6 +1740,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
       "forwarded_from_id": "174188214",
       "text": "Я наверное даже в оригинале буду его смотреть",
       "text_entities": [
@@ -1681,6 +1759,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "как от дрочки держусь постоянно",
       "text_entities": [
@@ -1699,6 +1778,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "закалка еб",
       "text_entities": [
@@ -3025,7 +3105,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Здравствуйте. Могу предложить работу. Актуально?",
       "text_entities": [
@@ -3043,6 +3124,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Да",
       "text_entities": [
@@ -3050,8 +3132,7 @@
           "type": "plain",
           "text": "Да"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 170,
@@ -3061,6 +3142,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Здравствуйте",
       "text_entities": [
@@ -3068,8 +3150,7 @@
           "type": "plain",
           "text": "Здравствуйте"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 171,
@@ -3078,7 +3159,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Подскажите в каком городе находитесь и сколько вам лет, что-бы понимал какой спектр могу вам предложить",
       "text_entities": [
@@ -3096,6 +3178,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Чебоксары 34 загадки не буду говорю сразу",
       "text_entities": [
@@ -3103,8 +3186,7 @@
           "type": "plain",
           "text": "Чебоксары 34 загадки не буду говорю сразу"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 173,
@@ -3114,6 +3196,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "делать",
       "text_entities": [
@@ -3121,8 +3204,7 @@
           "type": "plain",
           "text": "делать"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 174,
@@ -3131,7 +3213,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "У вас есть водительские права?",
       "text_entities": [
@@ -3149,6 +3232,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Нет",
       "text_entities": [
@@ -3156,8 +3240,7 @@
           "type": "plain",
           "text": "Нет"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 176,
@@ -3167,6 +3250,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Если что-то с перемещением воом нет",
       "text_entities": [
@@ -3174,8 +3258,7 @@
           "type": "plain",
           "text": "Если что-то с перемещением воом нет"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 177,
@@ -3184,7 +3267,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Тогда предложу закладки.\n70-100к в неделю на дороге не валяются брат\nВсе для комфортной, безопасной и прибыльной работы мы тебе предоставим",
       "text_entities": [
@@ -3202,6 +3286,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Класс",
       "text_entities": [
@@ -3209,8 +3294,7 @@
           "type": "plain",
           "text": "Класс"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 179,
@@ -3220,6 +3304,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Мне тупо лень если честно",
       "text_entities": [
@@ -3227,8 +3312,7 @@
           "type": "plain",
           "text": "Мне тупо лень если честно"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 180,
@@ -3237,7 +3321,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Так работа и не сильно энерго затратная",
       "text_entities": [
@@ -3254,7 +3339,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Чуть прогуляешься и все, 10к в день уже в кармане",
       "text_entities": [
@@ -3272,6 +3358,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Да не я уже попадал в наркоконтроль при подъёме",
       "text_entities": [
@@ -3279,8 +3366,7 @@
           "type": "plain",
           "text": "Да не я уже попадал в наркоконтроль при подъёме"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 183,
@@ -3289,7 +3375,8 @@
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Каким образом?",
       "text_entities": [
@@ -3307,6 +3394,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Да баба бывшая сдала ну и я только поднял грамм гаша и из-за угла двое",
       "text_entities": [
@@ -3314,8 +3402,7 @@
           "type": "plain",
           "text": "Да баба бывшая сдала ну и я только поднял грамм гаша и из-за угла двое"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 185,
@@ -3324,7 +3411,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "В курсе что такое фейк подъем и как он делается?",
       "text_entities": [
@@ -3342,6 +3430,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Нет",
       "text_entities": [
@@ -3349,8 +3438,7 @@
           "type": "plain",
           "text": "Нет"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 187,
@@ -3359,7 +3447,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Созвонится можешь? \nОбговорим кое какие моменты, и примешь для себя решение",
       "text_entities": [
@@ -3377,6 +3466,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Прям сейчас",
       "text_entities": [
@@ -3384,8 +3474,7 @@
           "type": "plain",
           "text": "Прям сейчас"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 189,
@@ -3394,7 +3483,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Можем прям сейчас",
       "text_entities": [
@@ -3411,7 +3501,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Можем позже",
       "text_entities": [
@@ -3428,7 +3519,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Просто в тексте это немного долго писать",
       "text_entities": [
@@ -3446,6 +3538,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Да давай в 21 по мск",
       "text_entities": [
@@ -3453,8 +3546,7 @@
           "type": "plain",
           "text": "Да давай в 21 по мск"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 193,
@@ -3463,7 +3555,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Хорошо брат, давай в 21:00",
       "text_entities": [
@@ -3481,6 +3574,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Напиши я номер скину",
       "text_entities": [
@@ -3488,8 +3582,7 @@
           "type": "plain",
           "text": "Напиши я номер скину"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 195,
@@ -3498,7 +3591,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "В телеге созвонимся",
       "text_entities": [
@@ -3516,6 +3610,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ок",
       "text_entities": [
@@ -3523,8 +3618,7 @@
           "type": "plain",
           "text": "Ок"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 197,
@@ -3533,7 +3627,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Такие вещи обсуждать по сотовой связи, так себе идея)",
       "text_entities": [
@@ -3551,6 +3646,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Для кого как)",
       "text_entities": [
@@ -3558,8 +3654,7 @@
           "type": "plain",
           "text": "Для кого как)"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 199,
@@ -3569,6 +3664,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "На вашем месте я бы вообще сигнал предложил",
       "text_entities": [
@@ -3576,8 +3672,7 @@
           "type": "plain",
           "text": "На вашем месте я бы вообще сигнал предложил"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 200,
@@ -3586,7 +3681,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Согнал есть, но это для других позиций в работе используется)",
       "text_entities": [
@@ -3604,6 +3700,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Я считаю если никто не сдавал тебя и никто никогда слушать и читать не будет",
       "text_entities": [
@@ -3611,8 +3708,7 @@
           "type": "plain",
           "text": "Я считаю если никто не сдавал тебя и никто никогда слушать и читать не будет"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 202,
@@ -3621,7 +3717,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Ну брат, сам понимаешь, о том что ты работаешь знать никто не должен, что-бы тебя никто не сдал",
       "text_entities": [
@@ -3638,7 +3735,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Сарафанное радио сильная штука, каждый каждому по \"секрету\"  скажет, и появится наводки",
       "text_entities": [
@@ -3656,6 +3754,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Но это не вожно",
       "text_entities": [
@@ -3663,8 +3762,7 @@
           "type": "plain",
           "text": "Но это не вожно"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 205,
@@ -3674,6 +3772,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Чтобы никто не знал",
       "text_entities": [
@@ -3681,8 +3780,7 @@
           "type": "plain",
           "text": "Чтобы никто не знал"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 206,
@@ -3691,7 +3789,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Важно на самом деле.\nТебя твоя баба сдала же, ибо знала что идешь поднимать вес",
       "text_entities": [
@@ -3708,7 +3807,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "А это типо близкий человек",
       "text_entities": [
@@ -3726,6 +3826,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Бывшая же говорю обиженная",
       "text_entities": [
@@ -3733,8 +3834,7 @@
           "type": "plain",
           "text": "Бывшая же говорю обиженная"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 209,
@@ -3744,6 +3844,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Она не знала она сказала моему директору тот посадил за мной сотрудника следить она всё время пас мой монитор и когда я купил и поехал в обед вот тогда меня и цепанули",
       "text_entities": [
@@ -3751,8 +3852,7 @@
           "type": "plain",
           "text": "Она не знала она сказала моему директору тот посадил за мной сотрудника следить она всё время пас мой монитор и когда я купил и поехал в обед вот тогда меня и цепанули"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 210,
@@ -3762,6 +3862,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Скала просто что упртребляю",
       "text_entities": [
@@ -3769,8 +3870,7 @@
           "type": "plain",
           "text": "Скала просто что упртребляю"
         }
-      ],
-      "forwarded_from_name": "xelavoklov"
+      ]
     },
     {
       "id": 211,
@@ -3779,7 +3879,8 @@
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Сейчас употребляешь что-то?",
       "text_entities": [
@@ -3797,6 +3898,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ну да гашиш",
       "text_entities": [
@@ -3814,6 +3916,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Или шишки",
       "text_entities": [
@@ -3831,6 +3934,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Лсд могу ебануль",
       "text_entities": [
@@ -3848,6 +3952,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ну если кто кокаином угостит то без проблем",
       "text_entities": [
@@ -3864,7 +3969,8 @@
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Окей бро, не проблема. Но ты должен понимать что на работе нужно быть трезвым, вне работы расслабляйся как хочешь",
       "text_entities": [
@@ -3882,6 +3988,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Так мы ещё ничего не обсудили и не о чем не договаривались",
       "text_entities": [
@@ -3898,7 +4005,8 @@
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Это я на будущее уже говорю)",
       "text_entities": [
@@ -3916,6 +4024,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Лан вечером посмотрим если я очень сильно сомневаюсь что соглашусь",
       "text_entities": [
@@ -3933,6 +4042,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "честно",
       "text_entities": [
@@ -3949,7 +4059,8 @@
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Поговорим, примешь решение",
       "text_entities": [
@@ -3967,6 +4078,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Ну да",
       "text_entities": [
@@ -3984,6 +4096,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Если чё в 21 15 сразу набери я возьму",
       "text_entities": [
@@ -4000,7 +4113,8 @@
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Ок",
       "text_entities": [
@@ -4017,7 +4131,8 @@
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Через 10 минут наберу",
       "text_entities": [
@@ -4035,6 +4150,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ага",
       "text_entities": [
@@ -4052,6 +4168,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "ну че?",
       "text_entities": [
@@ -4068,7 +4185,8 @@
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
       "from_id": "2387659347",
-      "forwarded_from": null,
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
       "forwarded_from_id": "7622010700",
       "text": "Да, сейчас",
       "text_entities": [
@@ -4693,6 +4811,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Передай ему что я шлю его на хуй",
       "text_entities": [
@@ -4710,6 +4829,7 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
       "forwarded_from_id": "400860208",
       "text": "Петух ты сука печальный",
       "text_entities": [
@@ -4818,10 +4938,10 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
-      "file_name": "1_偖 €.�. 彅� 慝_庒.pdf",
+      "file_name": "FSFM_wo_sig.pdf",
       "file_size": 211291,
       "mime_type": "application/pdf",
-      "text": "",
+      "text": "Это документ который мне прислало отделение росфинмониторинга по ПФО на запрос о том что кудрявцев через свю фирму финансирует терроризм ну по сути же так и есть он без электронной подписи",
       "text_entities": []
     },
     {
@@ -4832,10 +4952,10 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
-      "file_name": "3_偖 €.�. 彅� 慝_姰キ鈅彯くㄡ�.p7s",
+      "file_name": "FSFM.p7s",
       "file_size": 5431,
       "mime_type": "application/pkcs7-signature",
-      "text": "",
+      "text": "Это их отпечаток подписи",
       "text_entities": []
     },
     {
@@ -4846,10 +4966,10 @@
       "from": "xelavoklovlive",
       "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
-      "file_name": "2_偖 €.�. 彅� 慝_姰キ�.pdf",
+      "file_name": "FSFM_w_sig.pdf",
       "file_size": 129752,
       "mime_type": "application/pdf",
-      "text": "",
+      "text": "Это тот же документ только уже подписанный я не помню конкретную причтну но не проходит короче подпись можете сами проверить",
       "text_entities": []
     },
     {

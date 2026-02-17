@@ -333,9 +333,29 @@
           fwdA.target = '_blank';
           fwdA.style.fontWeight = 'bold';
           fwdA.style.color = '#3390ec';
-          fwdA.setAttribute('data-person-id', fwdPersonId);
-          fwdA.setAttribute('data-person-name', fwdName);
-          fwdA.setAttribute('data-forwarded-from-name', fwdFromName);
+          tippy(fwdA, {
+            allowHTML: true,
+            content(reference){
+              const pid = reference.getAttribute('data-person-id');
+              const pname = reference.getAttribute('data-person-name');
+              const pusername = reference.getAttribute('data-person-username') || pname;
+              const forwardedFromName = reference.getAttribute('data-forwarded-from-name');
+              if (pid && pname) {
+                const avatarUrl = 'media/person/' + fwdPersonId + '.jpg';
+                return `
+                  <div style="display:flex;flex-direction:column;align-items:center;min-width:170px;max-width:240px;padding:8px 0;">
+                    <img src="${avatarUrl}" alt="${escapeHtml(fwdName)}" style="width:126px;height:126px;border-radius:50%;object-fit:cover;box-shadow:0 2px 12px #0004;margin-bottom:16px;">
+                    <span style="font-weight:bold;font-size:20px;line-height:1.2;margin-bottom:10px;text-align:center;">${escapeHtml(fwdName)}</span> 
+                    <span style="color:#3390ec;font-size:17px;font-family:monospace;">@${escapeHtml(forwardedFromName)}</span>
+                  </div>
+                `;
+              }
+              return reference.getAttribute('href') || 'Нет href';
+            },
+            placement: 'top',
+            theme: 'light-border darkfix',
+            delay: [50,0]
+          });
           fwdLine.appendChild(fwdA);
         } else if((p.forward && p.forward.link) && fwdName){
           const fwdA = document.createElement('a');
@@ -525,6 +545,8 @@ function restorePostIndex() {
         const el = renderPost(posts[i]);
         feed.appendChild(el);
       }
+        // Инициализировать попапы для только что добавленных ссылок
+        try { if (typeof initTippy === 'function') initTippy(); }catch(e){}
       index = to;
       document.getElementById('count').textContent = index;
       if(index >= posts.length){
@@ -587,38 +609,6 @@ function restorePostIndex() {
       }
       setTimeout(restoreScroll, 400);
       setTimeout(restorePostIndex, 300);
-      // Единственная инициализация tippy.js pop-up для всех <a>, только через data-атрибуты
-      setTimeout(() => {
-        if (typeof tippy !== 'undefined') {
-          document.querySelectorAll('a').forEach(el => {
-            if (el._tippy) el._tippy.destroy();
-          });
-          tippy(document.querySelectorAll('a'), {
-            allowHTML: true,
-            content(reference) {
-              const pid = reference.getAttribute('data-person-id');
-              const pname = reference.getAttribute('data-person-name');
-              const pusername = reference.getAttribute('data-person-username') || pname;
-              const forwardedFromName = reference.getAttribute('data-forwarded-from-name');
-              if (pid && pname) {
-                const avatarUrl = 'media/person/' + pid + '.jpg';
-                return `
-                  <div style="display:flex;flex-direction:column;align-items:center;min-width:170px;max-width:240px;padding:8px 0;">
-                    <img src="${avatarUrl}" alt="${escapeHtml(pname)}" style="width:126px;height:126px;border-radius:50%;object-fit:cover;box-shadow:0 2px 12px #0004;margin-bottom:16px;">
-                    <span style="font-weight:bold;font-size:20px;line-height:1.2;margin-bottom:10px;text-align:center;">${escapeHtml(pname)}</span>
-                    <span style="color:#3390ec;font-size:17px;font-family:monospace;">@${escapeHtml(forwardedFromName)}</span>
-                  </div>
-                `;
-              }
-              // Для остальных ссылок — просто href
-              return reference.getAttribute('href') || 'Нет href';
-            },
-            placement: 'top',
-            theme: 'light-border darkfix',
-            delay: [50, 0],
-          });
-        }
-      }, 1200);
     })();
   </script>
 </body>
