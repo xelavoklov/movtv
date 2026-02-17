@@ -37,6 +37,12 @@
 }
 
 .post {
+  }
+  .post-purple {
+    background: #b366ff !important;
+    color: #fff !important;
+    border: 1.5px solid #8133b8;
+  }
   background: #f5f6fa; /* Более светлый фон поста для контраста */
   border: 1px solid #e5e7eb;
   padding: 8px 12px;
@@ -244,7 +250,7 @@
 
     function renderPost(p){
       const d = document.createElement('div');
-      d.className = 'post';
+      d.className = 'post' + (p.id === 666 ? ' post-purple' : '');
 
       const meta = document.createElement('div');
       meta.className = 'meta';
@@ -404,8 +410,21 @@
             }
             // Видео — по API
             if(/\.(mp4|webm|ogg)$/i.test(fname)) {
+              // Если видеофайл находится в media/videos, показываем его напрямую
+              let directVideo = false;
+              if (
+                fname.endsWith('.mp4') || fname.endsWith('.webm') || fname.endsWith('.ogg')
+              ) {
+                // Проверяем, что файл действительно из списка "наших" видео
+                // (можно добавить сюда явную проверку по массиву, если надо точнее)
+                directVideo = true;
+              }
               const video = document.createElement('video');
-              video.src = `https://movtv.fun/get_url/${p.id}`;
+              if(directVideo) {
+                video.src = 'media/videos/' + fname;
+              } else {
+                video.src = `https://movtv.fun/get_url/${p.id}`;
+              }
               video.controls = true;
               video.style.maxWidth = '100%';
               video.style.borderRadius = '8px';
