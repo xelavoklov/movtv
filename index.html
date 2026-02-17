@@ -53,26 +53,34 @@
   align-self: flex-start;
   margin: 0 10px;
 }
+.post .meta span:last-child {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  color: #a8a8a8;
+  font-size: 11px;
+  margin: 0;
+  text-align: right;
+  background: transparent;
+  z-index: 2;
+}
 
 /* Мета-данные (Имя отправителя и дата) */
 .meta {
   display: flex;
-  justify-content: space-between;
   align-items: center;
   margin-bottom: 4px;
 }
-
+.meta span:last-child {
+  color: #a8a8a8;
+  font-size: 11px;
+  margin-left: auto;
+}
 .sender {
   color: #3390ec; /* Тот самый синий цвет ТГ */
   font-weight: bold;
   font-size: 14px;
   cursor: pointer;
-}
-
-.meta span:last-child {
-  color: #a8a8a8;
-  font-size: 11px;
-  margin-left: 10px;
 }
 
 /* Пересланные сообщения */
@@ -251,10 +259,9 @@
     function renderPost(p){
       const d = document.createElement('div');
       d.className = 'post' + (p.id === 666 ? ' post-purple' : '');
-
+      // .meta: flex, только два потомка — authorBlock и дата
       const meta = document.createElement('div');
       meta.className = 'meta';
-      // --- Кружок-аватар и имя ---
       let personId = p.person_id || p.sender_id || p.from_id;
       const authorBlock = document.createElement('span');
       authorBlock.style.display = 'inline-flex';
@@ -274,7 +281,6 @@
       }
       const sender = document.createElement('a');
       sender.className = 'sender';
-      // Не задаём title, чтобы не мешать tippy.js
       const fromDisplay = p.from || p.person_name || p.sender || '';
       const fromId = p.from_id || p.sender_id || p.person_id || '';
       sender.textContent = fromDisplay;
@@ -287,12 +293,11 @@
         sender.href = '#';
       }
       authorBlock.appendChild(sender);
+      // Только authorBlock и дата!
       meta.appendChild(authorBlock);
-      // ---
-      const date = document.createElement('span'); date.textContent = p.date || '';
+      const date = document.createElement('span');
+      date.textContent = p.date || '';
       meta.appendChild(date);
-
-      // forward_date теперь выводится в блоке forward ниже
       d.appendChild(meta);
 
       // Поддержка пересылок: некоторые экспорты используют `forwarded_from` поля
