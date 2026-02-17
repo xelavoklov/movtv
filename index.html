@@ -261,7 +261,7 @@
       authorBlock.style.alignItems = 'center';
       if(personId){
         const avatar = document.createElement('img');
-        avatar.src = `https://aye.monster/media/person/${personId}.jpg`;
+        avatar.src = 'media/person/' + personId + '.jpg';
         avatar.alt = p.person_name || '';
         avatar.style.width = '28px';
         avatar.style.height = '28px';
@@ -311,7 +311,7 @@
         fwdLine.appendChild(document.createTextNode('Forwarded from '));
         if(fwdPersonId){
           const avatarFwd = document.createElement('img');
-          avatarFwd.src = `https://aye.monster/media/person/${fwdPersonId}.jpg`;
+          avatarFwd.src = 'media/person/' + fwdPersonId + '.jpg';
           avatarFwd.alt = fwdName;
           avatarFwd.style.width = '20px';
           avatarFwd.style.height = '20px';
@@ -323,7 +323,7 @@
         }
         if(fwdPersonId && fwdName){
           const fwdA = document.createElement('a');
-          fwdA.href = 'https://t.me/' + encodeURIComponent(fwdName);
+          fwdA.href = 'https://t.me/' + encodeURIComponent(fwdFromName);
           fwdA.textContent = fwdName;
           fwdA.target = '_blank';
           fwdA.style.fontWeight = 'bold';
@@ -410,24 +410,12 @@
             }
             // Видео — по API
             if(/\.(mp4|webm|ogg)$/i.test(fname)) {
-              // Если видеофайл находится в media/videos, показываем его напрямую
-              let directVideo = false;
-              if (
-                fname.endsWith('.mp4') || fname.endsWith('.webm') || fname.endsWith('.ogg')
-              ) {
-                // Проверяем, что файл действительно из списка "наших" видео
-                // (можно добавить сюда явную проверку по массиву, если надо точнее)
-                directVideo = true;
-              }
+              // Теперь все видео локальные
               const video = document.createElement('video');
-              if(directVideo) {
-                video.src = 'media/videos/' + fname;
-              } else {
-                video.src = `https://movtv.fun/get_url/${p.id}`;
-              }
               video.controls = true;
               video.style.maxWidth = '100%';
               video.style.borderRadius = '8px';
+              video.src = 'media/videos/' + fname;
               mediaWrap.appendChild(video);
             } else if(isImage(fname)) {
               const img = document.createElement('img'); img.src = localHref; img.alt = fname;
@@ -608,7 +596,7 @@ function restorePostIndex() {
               const pusername = reference.getAttribute('data-person-username') || pname;
               const forwardedFromName = reference.getAttribute('data-forwarded-from-name');
               if (pid && pname) {
-                const avatarUrl = `https://aye.monster/media/person/${pid}.jpg`;
+                const avatarUrl = 'media/person/' + pid + '.jpg';
                 return `
                   <div style="display:flex;flex-direction:column;align-items:center;min-width:170px;max-width:240px;padding:8px 0;">
                     <img src="${avatarUrl}" alt="${escapeHtml(pname)}" style="width:126px;height:126px;border-radius:50%;object-fit:cover;box-shadow:0 2px 12px #0004;margin-bottom:16px;">
