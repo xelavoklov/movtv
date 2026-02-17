@@ -9,7 +9,7 @@
       "date": "2024-10-01T20:42:35",
       "date_unixtime": "1727804555",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-01_17-42-35.jpg",
       "photo_file_size": 61015,
       "width": 830,
@@ -30,7 +30,7 @@
       "edited": "2024-10-04T09:46:34",
       "edited_unixtime": "1728024394",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Для меня всё началось всё 18 марта 2019 когда я работал в компании ООО \"Фастек\" на меня прямо в обед наехало управление по контролю за оборотом наркотиков но после милой беседы меня отпустили, но уже 5 апреля того же года на меня опять прямо на остановке уже наезжает следственный комитет и тоже отпускает даже дают свой номер +7 967 472-88-20 сказал зовут Рома, звание майор",
       "text_entities": [
         {
@@ -45,7 +45,7 @@
       "date": "2024-10-01T21:08:32",
       "date_unixtime": "1727806112",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "После довольно продолжительных размышлений, если честно мне тупо намекнули, я конечно от тупости и от злости начинаю типо тролить Кудрявцева, вообщем далее наша с ним переписка с 9 апреля по 27 мая 2019",
       "text_entities": [
         {
@@ -60,9 +60,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Павел Иванович, как будет время, сообщите пожалуйста, я подойду",
       "text_entities": [
         {
@@ -70,8 +70,8 @@
           "text": "Павел Иванович, как будет время, сообщите пожалуйста, я подойду"
         }
       ],
-      "forward_date": "2019-04-09T10:03:31"
-      ,"forwarded_from_name": "xelavoklov"
+      "forward_date": "2019-04-09T10:03:31",
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 6,
@@ -79,9 +79,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "угу",
       "text_entities": [
         {
@@ -89,8 +89,8 @@
           "text": "угу"
         }
       ],
-      "forward_date": "2019-04-09T10:16:42"
-      ,"forwarded_from_name": "pkudriavtsev"
+      "forward_date": "2019-04-09T10:16:42",
+      "forwarded_from_name": "pkudriavtsev"
     },
     {
       "id": 7,
@@ -98,9 +98,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "освободился",
       "text_entities": [
         {
@@ -108,8 +108,8 @@
           "text": "освободился"
         }
       ],
-      "forward_date": "2019-04-09T10:26:38"
-      ,"forwarded_from_name": "pkudriavtsev"
+      "forward_date": "2019-04-09T10:26:38",
+      "forwarded_from_name": "pkudriavtsev"
     },
     {
       "id": 8,
@@ -117,9 +117,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Павел Иванович, заранее извините за не скромный вопрос да и самому стыдно, можете денег занять?",
       "text_entities": [
         {
@@ -127,8 +127,8 @@
           "text": "Павел Иванович, заранее извините за не скромный вопрос да и самому стыдно, можете денег занять?"
         }
       ],
-      "forward_date": "2019-04-29T11:09:29"
-      ,"forwarded_from_name": "xelavoklov"
+      "forward_date": "2019-04-29T11:09:29",
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 9,
@@ -136,9 +136,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "можете Павел Иванович?",
       "text_entities": [
         {
@@ -146,8 +146,8 @@
           "text": "можете Павел Иванович?"
         }
       ],
-      "forward_date": "2019-04-29T12:47:52"
-      ,"forwarded_from_name": "xelavoklov"
+      "forward_date": "2019-04-29T12:47:52",
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 10,
@@ -155,9 +155,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Видишь ли, Саш\nтеоретически то я могу, да\nно не считаю это правильным\nу меня почему то с тобой, как с сотрудником, наибольшее количество проблем\nне хочется добавлять ещё одну",
       "text_entities": [
         {
@@ -165,8 +165,8 @@
           "text": "Видишь ли, Саш\nтеоретически то я могу, да\nно не считаю это правильным\nу меня почему то с тобой, как с сотрудником, наибольшее количество проблем\nне хочется добавлять ещё одну"
         }
       ],
-      "forward_date": "2019-04-29T13:51:12"
-      ,"forwarded_from_name": "pkudriavtsev"
+      "forward_date": "2019-04-29T13:51:12",
+      "forwarded_from_name": "pkudriavtsev"
     },
     {
       "id": 11,
@@ -174,9 +174,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Нет у меня проблем",
       "text_entities": [
         {
@@ -192,9 +192,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Павел Иванович, увеличьте пожалуйста мне зарплату. Я как никак сделал валидную подпись смев3 алгоритмом ГОСТ 2012. Может я и самый проблемный, зато самый талантливый",
       "text_entities": [
         {
@@ -210,9 +210,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Саш, у нас, насколько я знаю, все выполняют какие-то задачи\n\nкто-то побыстрее - тот зарабатывает больше\nкто-то помедленнее - тот меньше\nнадеюсь, что у нас нет таких людей, которые получают зарплату за факт своего присутствия\nпоэтому размер зарплаты зависит от скорости/качества написания кода\n\nтак вот, твой уровень зарплаты сильно превышает количество/качества/сложности решённых задач относительно других разработчиков\nещё раз скажу, что для тебя повысить уровень заработной платы реально сменой места работы",
       "text_entities": [
         {
@@ -228,9 +228,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Да на этом заработаете",
       "text_entities": [
         {
@@ -246,9 +246,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "ну если ты знаешь как заработать, то для тебя было бы эффективнее открыть собственную компанию\nтам размер заработка неограничен\nно это не точно",
       "text_entities": [
         {
@@ -264,9 +264,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Можете у Насти урезать",
       "text_entities": [
         {
@@ -282,9 +282,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "тот же совет\nбудешь устанавливать уровень зарплаты своих сотрудников по своему желанию",
       "text_entities": [
         {
@@ -300,9 +300,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Я честный",
       "text_entities": [
         {
@@ -318,9 +318,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "и компания будет самая честная и успешная",
       "text_entities": [
         {
@@ -336,9 +336,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ну так деньги нужны на компанию",
       "text_entities": [
         {
@@ -354,9 +354,9 @@
       "date": "2024-10-01T21:10:12",
       "date_unixtime": "1727806212",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "у меня их не было на старте\nсначала один программил, потом начал нанимать сотрудников потихоньку",
       "text_entities": [
         {
@@ -372,9 +372,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "В любом случае я достоин большего и вы это знаете",
       "text_entities": [
         {
@@ -390,9 +390,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "так ещё раз - это же легко доказуемо\nты открываешь компанию и зарабатываешь существенно больше, чем сейчас",
       "text_entities": [
         {
@@ -408,9 +408,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Я сейчас должен больше зарабатывать",
       "text_entities": [
         {
@@ -426,9 +426,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Настя только в зеркало и телефон смотрела давай не будем",
       "text_entities": [
         {
@@ -444,9 +444,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Давайте",
       "text_entities": [
         {
@@ -462,9 +462,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Извините",
       "text_entities": [
         {
@@ -480,9 +480,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Т9",
       "text_entities": [
         {
@@ -498,9 +498,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "И вы ей платили",
       "text_entities": [
         {
@@ -516,9 +516,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "ну слушай, если твоя уверенность небезосновательна, и причиной низкой зарплаты являюсь я один, то в соседней компании ты легко докажешь как я ошибался",
       "text_entities": [
         {
@@ -534,9 +534,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Я не могу уйти без своего",
       "text_entities": [
         {
@@ -552,9 +552,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Т.к честный",
       "text_entities": [
         {
@@ -570,9 +570,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "я сейчас запросил статистику твоих входов-выходов на проходной\nэто ни разу не показатель качества твоей работы, но показатель исполнения трудовой дисциплины\nнадеюсь там подтвердится, что ты честный и согласно трудовому договору отрабатывал по 8 часов",
       "text_entities": [
         {
@@ -588,9 +588,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ну вы же знаете что даже эта разработа много вам принесет",
       "text_entities": [
         {
@@ -606,9 +606,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Это мой стиль",
       "text_entities": [
         {
@@ -624,9 +624,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Хотите чтобы я вам в ноги кланялся? Скажите, буду",
       "text_entities": [
         {
@@ -642,9 +642,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Ну приведи расчёт то..\nэта разработка - один из винтиков большой системы\nЯ не говорю, что он не важный, но тем не менее\nИ я не уверен, что другой разработчик сделал бы этот винтик медленнее, чем ты",
       "text_entities": [
         {
@@ -660,9 +660,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "reply_to_message_id": 36,
       "text": "никто из зарабатывающих больше тебя не кланяется\nты меня не слышишь\nзарплата зависит только от объёма/сложности/качества кода",
       "text_entities": [
@@ -679,9 +679,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "никто не приходит ко мне с вопросом - я написал фичу, вы на ней много заработаете, повысьте мне зарплату\nэто какой то твой фирменный стиль\nи он не работает",
       "text_entities": [
         {
@@ -697,9 +697,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Могу приходить к 8 и тупо втыкать в монитор 8 часов",
       "text_entities": [
         {
@@ -715,9 +715,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Я делаю реальные вещи",
       "text_entities": [
         {
@@ -733,9 +733,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "если почитать трудовой договор, то там написано, что сотрудник выполняет поручения\nневыполнение трудового договора - это прямой путь к увольнению",
       "text_entities": [
         {
@@ -751,9 +751,9 @@
       "date": "2024-10-01T21:10:13",
       "date_unixtime": "1727806213",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Павел Иванович извините, давайте закончим. Ну серьезно ну не я же это все начал.",
       "text_entities": [
         {
@@ -769,9 +769,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Саш, ты белый и пушистый, способный и производительный\nя эти качества оцениваю в гораздо меньшую сумму, чем ты сейчас зарабатываешь\nпоэтому давай действительно на этом закончим",
       "text_entities": [
         {
@@ -787,9 +787,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Волков 1.xls",
       "file_size": 90624,
@@ -809,9 +809,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "что мне сделать чотбы вы меня простили? могу выходить по выходным",
       "text_entities": [
         {
@@ -827,9 +827,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "я всё же настоятельно тебе рекомендую поискать другую работу",
       "text_entities": [
         {
@@ -845,9 +845,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ясно",
       "text_entities": [
         {
@@ -863,9 +863,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "трудишься, стараешься... а когда цель достигнута выбрасывают как расходный материал",
       "text_entities": [
         {
@@ -881,9 +881,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Саш, не надо испытывать мои нервы",
       "text_entities": [
         {
@@ -899,9 +899,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ну хоть выходное дайте тогда за подпись",
       "text_entities": [
         {
@@ -917,9 +917,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "всё по честному же",
       "text_entities": [
         {
@@ -935,9 +935,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "я тебя по статье уволю, если по честному хочешь",
       "text_entities": [
         {
@@ -953,9 +953,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "я тут просто так перед тобой распинаюсь чтоли? ты пытаешься хоть что-то извлечь из моих слов?",
       "text_entities": [
         {
@@ -971,9 +971,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "попробуй почитать и понять, что я тебе пишу",
       "text_entities": [
         {
@@ -989,9 +989,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "мне в любом случае нужно посоветоваться",
       "text_entities": [
         {
@@ -1007,9 +1007,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "и да, если бы я был настроен персонально против твоей личности, я бы не глядя уволил тебя\nа я тут няньчусь с тобой, что-то пытаюсь до тебя донести",
       "text_entities": [
         {
@@ -1025,9 +1025,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "хорошо, что мне нужно сделать?",
       "text_entities": [
         {
@@ -1043,9 +1043,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "работу искать",
       "text_entities": [
         {
@@ -1061,9 +1061,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "и потом увольняться, я серьезно не разбираюсь в этих вопросах",
       "text_entities": [
         {
@@ -1079,9 +1079,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "либо ты продолжаешь делать поставленные задачи, ищешь работу и как найдёшь увольняешься\nлибо, если ты больше не намерен писать, то можешь сразу заявление писать",
       "text_entities": [
         {
@@ -1097,9 +1097,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "давайте начну искать работу, пока продолжу делать задачи",
       "text_entities": [
         {
@@ -1115,9 +1115,9 @@
       "date": "2024-10-01T21:10:14",
       "date_unixtime": "1727806214",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "давай",
       "text_entities": [
         {
@@ -1133,7 +1133,7 @@
       "date": "2024-10-01T21:15:50",
       "date_unixtime": "1727806550",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "а с 28 мая того же 2019 я вообще перестал ходить на работу",
       "text_entities": [
         {
@@ -1148,9 +1148,9 @@
       "date": "2024-10-01T21:15:50",
       "date_unixtime": "1727806550",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Привет\nА не подскажешь, с чем связано твоё отсутствие?",
       "text_entities": [
         {
@@ -1166,9 +1166,9 @@
       "date": "2024-10-01T21:15:50",
       "date_unixtime": "1727806550",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "Але, гараж",
       "text_entities": [
         {
@@ -1184,7 +1184,7 @@
       "date": "2024-10-01T21:17:00",
       "date_unixtime": "1727806620",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-01_18-17-00.jpg",
       "photo_file_size": 174733,
       "width": 960,
@@ -1203,7 +1203,7 @@
       "date": "2024-10-01T21:27:22",
       "date_unixtime": "1727807242",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "И сразу начал искать работу но особо не перло сходил на несколько собеседований везде не подходил и так до середины июля 2019 пока из компании \"Алькона\" мне не дали задание я выполнил, 18 июля пришел на собеседование ну и канечно разговор у нас был только о Кудрявцеве и канечно мне было абсолютно похуй причастен он к этому или нет ну и вот наши последние и по сей день с ним сообщения",
       "text_entities": [
         {
@@ -1218,9 +1218,9 @@
       "date": "2024-10-01T21:27:37",
       "date_unixtime": "1727807257",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Гараж, будешь про меня чето кукарекать не по делу подам на тебя в суд",
       "text_entities": [
         {
@@ -1236,9 +1236,9 @@
       "date": "2024-10-01T21:27:37",
       "date_unixtime": "1727807257",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Понял?",
       "text_entities": [
         {
@@ -1254,9 +1254,9 @@
       "date": "2024-10-01T21:27:37",
       "date_unixtime": "1727807257",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Петух Ебаный",
-      "forwarded_from_id": "user169517314",
+      "forwarded_from_id": "169517314",
       "text": "You are wellcome!",
       "text_entities": [
         {
@@ -1272,9 +1272,9 @@
       "date": "2024-10-01T21:27:37",
       "date_unixtime": "1727807257",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ясно не умеешь ты по-другому)",
       "text_entities": [
         {
@@ -1290,9 +1290,9 @@
       "date": "2024-10-01T21:27:37",
       "date_unixtime": "1727807257",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Хотя чёрт с тобой кукарекай",
       "text_entities": [
         {
@@ -1308,9 +1308,9 @@
       "date": "2024-10-01T21:27:37",
       "date_unixtime": "1727807257",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ты сам знаешь как в госсекторе любят шум",
       "text_entities": [
         {
@@ -1326,7 +1326,7 @@
       "date": "2024-10-01T21:46:36",
       "date_unixtime": "1727808396",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "5 августа 2019 года когда мой отец уехал на север а мать в деревню в Ульяновской области в соседнею 17 квартиру пришла тётя Сорокина Людмила и что-то приготовила с бабушкой, какая-то картошка с чем-то, я поел поехал в бассейн и мне прямо в душевой стало так плохо что я упал, у меня потемнело в глазах и я думал что сейчас умру, но через пару минут я собрался и смог доползти до туалета",
       "text_entities": [
         {
@@ -1341,7 +1341,7 @@
       "date": "2024-10-01T21:52:57",
       "date_unixtime": "1727808777",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-01_18-52-57.jpg",
       "photo_file_size": 79496,
       "width": 576,
@@ -1360,7 +1360,7 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Но вот 21 ноября Паша Алехин пишет мне следующее, если вчитаетесь то поймете что я тогда уже всё понимал",
       "text_entities": [
         {
@@ -1375,9 +1375,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Саня, ты счастливчик",
       "text_entities": [
         {
@@ -1392,9 +1392,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Джокер в качестве вышел",
       "text_entities": [
         {
@@ -1409,9 +1409,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "я принципиально не буду его смотреть",
       "text_entities": [
         {
@@ -1427,9 +1427,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Ты ебанутый?",
       "text_entities": [
         {
@@ -1445,9 +1445,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ну как бы да",
       "text_entities": [
         {
@@ -1463,9 +1463,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Я его пересматривать буду",
       "text_entities": [
         {
@@ -1481,9 +1481,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Ещё пару раз наверное",
       "text_entities": [
         {
@@ -1499,9 +1499,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "это тож погятно",
       "text_entities": [
         {
@@ -1517,9 +1517,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Бля, ты там вообще все мозги скурил?",
       "text_entities": [
         {
@@ -1535,9 +1535,9 @@
       "date": "2024-10-01T22:01:01",
       "date_unixtime": "1727809261",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "у меня ты есть че переживать то об этом",
       "text_entities": [
         {
@@ -1553,9 +1553,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Че?",
       "text_entities": [
         {
@@ -1571,9 +1571,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ты же не куришь и не скуришь значит",
       "text_entities": [
         {
@@ -1589,9 +1589,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "логика еб",
       "text_entities": [
         {
@@ -1607,9 +1607,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Ну так то да",
       "text_entities": [
         {
@@ -1625,9 +1625,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Но бля, это же джокер",
       "text_entities": [
         {
@@ -1643,9 +1643,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Как ты можешь держаться?",
       "text_entities": [
         {
@@ -1661,9 +1661,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Павел Алехин",
-      "forwarded_from_id": "user174188214",
+      "forwarded_from_id": "174188214",
       "text": "Я наверное даже в оригинале буду его смотреть",
       "text_entities": [
         {
@@ -1679,9 +1679,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "как от дрочки держусь постоянно",
       "text_entities": [
         {
@@ -1697,9 +1697,9 @@
       "date": "2024-10-01T22:01:02",
       "date_unixtime": "1727809262",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "закалка еб",
       "text_entities": [
         {
@@ -1717,7 +1717,7 @@
       "edited": "2024-10-04T10:20:10",
       "edited_unixtime": "1728026410",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Вроде ничего такого да? Да только как он собрался смотреть Джокера в оригинале если он элементарно не знает английский т.к. учил немецкий, я даже не говорю насколько надменным стал стиль его письма",
       "text_entities": [
         {
@@ -1733,7 +1733,7 @@
       "date": "2024-10-01T22:06:38",
       "date_unixtime": "1727809598",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-01_19-06-38.jpg",
       "photo_file_size": 149680,
       "width": 960,
@@ -1809,7 +1809,7 @@
       "edited": "2024-10-02T04:47:56",
       "edited_unixtime": "1727833676",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_01-45-25.jpg",
       "photo_file_size": 157673,
       "width": 960,
@@ -1828,7 +1828,7 @@
       "date": "2024-10-02T05:04:20",
       "date_unixtime": "1727834660",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_02-04-20.jpg",
       "photo_file_size": 90229,
       "width": 750,
@@ -1849,7 +1849,7 @@
       "edited": "2024-10-02T05:31:38",
       "edited_unixtime": "1727836298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_02-12-34.jpg",
       "photo_file_size": 140125,
       "width": 724,
@@ -1870,7 +1870,7 @@
       "edited": "2024-10-02T05:40:05",
       "edited_unixtime": "1727836805",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_02-23-04.jpg",
       "photo_file_size": 131243,
       "width": 745,
@@ -1889,7 +1889,7 @@
       "date": "2024-10-02T05:45:08",
       "date_unixtime": "1727837108",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_02-45-08.jpg",
       "photo_file_size": 82013,
       "width": 725,
@@ -1908,7 +1908,7 @@
       "date": "2024-10-02T09:06:28",
       "date_unixtime": "1727849188",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_06-06-28.jpg",
       "photo_file_size": 82472,
       "width": 747,
@@ -1927,7 +1927,7 @@
       "date": "2024-10-02T09:06:28",
       "date_unixtime": "1727849188",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_06-06-28.jpg",
       "photo_file_size": 147610,
       "width": 750,
@@ -1941,7 +1941,7 @@
       "date": "2024-10-02T09:32:45",
       "date_unixtime": "1727850765",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "VID_20200605_132003.mp4",
       "file_size": 197970007,
@@ -1966,7 +1966,7 @@
       "date": "2024-10-02T09:52:39",
       "date_unixtime": "1727851959",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@007 908 302-(0079083028270)_20200605163221.mp3",
       "file_size": 362400,
@@ -1987,7 +1987,7 @@
       "date": "2024-10-02T09:58:16",
       "date_unixtime": "1727852296",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@Валя(0079083028270)_20200606155446 (1).mp3",
       "file_size": 3947040,
@@ -2008,7 +2008,7 @@
       "date": "2024-10-02T10:12:01",
       "date_unixtime": "1727853121",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "VID_20200613_075040.mp4",
       "file_size": 341951519,
@@ -2035,7 +2035,7 @@
       "edited": "2024-10-02T10:40:29",
       "edited_unixtime": "1727854829",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "VID_20200614_080039.mp4",
       "file_size": 190304386,
@@ -2060,7 +2060,7 @@
       "date": "2024-10-02T10:46:35",
       "date_unixtime": "1727855195",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_07-46-35.jpg",
       "photo_file_size": 124513,
       "width": 1280,
@@ -2079,7 +2079,7 @@
       "date": "2024-10-02T12:10:50",
       "date_unixtime": "1727860250",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "VID_20200816_230107 - Trim.mp4",
       "file_size": 1709902208,
@@ -2104,7 +2104,7 @@
       "date": "2024-10-02T12:30:17",
       "date_unixtime": "1727861417",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "коптер_стэйбл.mp4",
       "file_size": 90013847,
@@ -2129,7 +2129,7 @@
       "date": "2024-10-02T12:57:23",
       "date_unixtime": "1727863043",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "звонотцунараб.mp4",
       "file_size": 95586205,
@@ -2156,7 +2156,7 @@
       "edited": "2024-10-02T13:12:30",
       "edited_unixtime": "1727863950",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "А да пропустил параллельно этому с начала сентября я начинаю дико хуесосить Ниночку Скляр это та которая и придумала эту херню с наркоконтролем за то что я позволил себе написать ей смс где говорил что для неё важнее член чем человек и ладно бы я это выдумал и правильно всё бы это заслужил, всё взято из её разговоров которые она годами вела за моей спиной. Ну я просто ахуеваю от размера короны этой барышни не могу себя сдержать и пишу её мужу, её матери кто она такая, у себя во вконтакте, грязь короче поэтому без картинок",
       "text_entities": [
         {
@@ -2173,7 +2173,7 @@
       "edited": "2024-10-02T16:31:44",
       "edited_unixtime": "1727875904",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_12-44-23.jpg",
       "photo_file_size": 60690,
       "width": 931,
@@ -2192,7 +2192,7 @@
       "date": "2024-10-02T16:37:12",
       "date_unixtime": "1727876232",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@Андреев_Вяч0079876641845_20201103140614.mp3",
       "file_size": 246528,
@@ -2215,7 +2215,7 @@
       "edited": "2024-10-02T16:45:42",
       "edited_unixtime": "1727876742",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@8(800)100-84(88001008402)_20201103141234.mp3",
       "file_size": 1345440,
@@ -2236,7 +2236,7 @@
       "date": "2024-10-02T17:00:08",
       "date_unixtime": "1727877608",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "А вот далее в этот же день начинается реально какая-то мистика, приходит мать точнее заходит в мою квартиру у неё соседняя и заносит мне тортик и пакетик с творожными сырками, говорит это тебе я говорю оставь и перед выходом такая говорит сегодня день казанской иконы божей матери поэтому обязательно надо поесть понял? я говорю хорошо поем и я смотрю в окно и прямо у меня на глазах весь город покрывается туманом и я впадаю в какой-то ступор я забываю об этом тортике и сырках и в итоге просто ложусь спать",
       "text_entities": [
         {
@@ -2253,7 +2253,7 @@
       "edited": "2024-10-02T17:12:01",
       "edited_unixtime": "1727878321",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Наступает 4-е ноября 2020 я просыпаюсь и думаю что-бы поесть да канешно сырки, открываю пакет достаю сырок хочу открыть а смотрю он уже приоткрытый, я думаю ладно достаю другой он тоже и потом смотрю все и они все приоткрытые. Я набираю в интернете день казанской иконы божей матери и вижу что он сегодня а не вчера как говорила мать. Вроде это все вызовы которые в тот день сделал пока матери не было дома никто не приехал",
       "text_entities": [
         {
@@ -2268,7 +2268,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@8495667-74-4(84956677447)_20201104151324.mp3",
       "file_size": 439776,
@@ -2284,7 +2284,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@8(800)100-84(88001008402)_20201104151553.mp3",
       "file_size": 523680,
@@ -2300,7 +2300,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@8(800)100-84(88001008402)_20201104151819.mp3",
       "file_size": 592128,
@@ -2316,7 +2316,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@8(800)100-84(88001008402)_20201104171314.mp3",
       "file_size": 962688,
@@ -2332,7 +2332,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@102(102)_20201104143123.mp3",
       "file_size": 241440,
@@ -2348,7 +2348,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@102(102)_20201104152202.mp3",
       "file_size": 644640,
@@ -2364,7 +2364,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@102(102)_20201104162613.mp3",
       "file_size": 837888,
@@ -2380,7 +2380,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@112Экстренный_номер_20201104131706.mp3",
       "file_size": 552480,
@@ -2396,7 +2396,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@112Экстренный_номер_20201104134843.mp3",
       "file_size": 334176,
@@ -2412,7 +2412,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@112Экстренный_номер_20201104140736.mp3",
       "file_size": 233088,
@@ -2428,7 +2428,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@222-41-1(222411)_20201104160148.mp3",
       "file_size": 422496,
@@ -2444,7 +2444,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@392-05-8(392058)_20201104141221.mp3",
       "file_size": 386688,
@@ -2460,7 +2460,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@620-47-6(620476)_20201104143911.mp3",
       "file_size": 473088,
@@ -2476,7 +2476,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@620-47-6(620476)_20201104160504.mp3",
       "file_size": 255456,
@@ -2492,7 +2492,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@621-50-0(621500)_20201104142751.mp3",
       "file_size": 470496,
@@ -2508,7 +2508,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@624-65-8(624658)_20201104142122.mp3",
       "file_size": 9696,
@@ -2524,7 +2524,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@624-65-8(624658)_20201104142204.mp3",
       "file_size": 781536,
@@ -2540,7 +2540,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@620476(620476)_20201104160749.mp3",
       "file_size": 928800,
@@ -2556,7 +2556,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@007835224-20(0078352242005)_20201104132153.mp3",
       "file_size": 443040,
@@ -2572,7 +2572,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@007835224-38(0078352243890)_20201104152812.mp3",
       "file_size": 252288,
@@ -2588,7 +2588,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@007835224-38(0078352243890)_20201104153022.mp3",
       "file_size": 178080,
@@ -2604,7 +2604,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@007903358-10(0079033581015)_20201104163918.mp3",
       "file_size": 171648,
@@ -2620,7 +2620,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@007927667-40(0079276674086)_20201104144140.mp3",
       "file_size": 218400,
@@ -2636,7 +2636,7 @@
       "date": "2024-10-02T17:11:22",
       "date_unixtime": "1727878282",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@8495667-74-4(84956677447)_20201104145458.mp3",
       "file_size": 620256,
@@ -2652,7 +2652,7 @@
       "date": "2024-10-02T17:23:23",
       "date_unixtime": "1727879003",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "index-f5-v1-a1.mp4",
       "file_size": 25225212,
@@ -2677,7 +2677,7 @@
       "date": "2024-10-02T17:36:03",
       "date_unixtime": "1727879763",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Вызов@Кудрявцев0079176578762_20201104155659_1.mp3",
       "file_size": 135168,
@@ -2698,7 +2698,7 @@
       "date": "2024-10-02T17:51:52",
       "date_unixtime": "1727880712",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-10-02_14-51-52.jpg",
       "photo_file_size": 74750,
       "width": 982,
@@ -2717,7 +2717,7 @@
       "date": "2024-10-02T18:06:33",
       "date_unixtime": "1727881593",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "И примерно первого марта 2021 я решаю обратиться к юристам чтобы они мне помогли разобраться во всей этой ситуации, тупо в гугле беру первую ссылку и звоню это оказалась кантора под названием \"единый центр защиты\" блять, заплатил им 110 штук. Естественно к этому времени со мной уже никто не общался, разве что Кудрявцев  периодически с их страниц, канечно тупо ради инфы как себя чувствую о чем думаю ничего ли не замышляю в крайне надменной и высокомерной манере. И я естевенно уже соскучился по спокойной нормальной жизни и даже забиваю на всё это на мусоров на дурку на юристов тупо хожу на работу и всё но чувства того что меня оставили в покое всё рано почемуто не было",
       "text_entities": [
         {
@@ -2732,7 +2732,7 @@
       "date": "2024-11-25T00:49:54",
       "date_unixtime": "1732484994",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Наступает октябрь 2021 и юристы говорят что им в любом случае нужно что-то сделать по договору который подписали, я сказал для начала сделать запрос в МВД почему не приехали. Эти чуть позже говорят сделали МВД ответило что к вам пришел помощник участкового я говорю и это всё? они говорят ну это же МВД им посути на всё пофиг, я сказал давайте тогда разбирать с шизофренией моей, те начали думать в итоге говорят  надо независимую экспетизу сделать чтобы хотябы вариант появился выйти в суд, я её сделал почти за 40 косарей, побеседовали 5 минут, попросили пописать немного от руки и всё дали заключение что шизофрении нет. Юристы начинают делать запросы документов в дурку сначала историю болезни потом ещё чето на каждый уходит по месяцу. В итоге только 14.01.2022 я со своим \"юристом\" Сапожниковой Яной Владимировной получаю разрешение на проведение \"комиссии\", там Сафронов точно был остальных не знаю, предоставили заключение независимой комиссии о том что нет у меня никакой шизофрении. буквально 3-4 минуты и они говорят тут точно нет. А забыл когда мы сидели в ожидании в коридоре с этим \"юристом\" я ей говорю что  я оцениваю свои моральные страдания в миллион.",
       "text_entities": [
         {
@@ -2747,7 +2747,7 @@
       "date": "2024-11-25T01:06:35",
       "date_unixtime": "1732485995",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Проходит наверное где-то неделя мне сначала позвонила бабушка и спрашивает что за миллион ты там хочешь взыскать с больницы я никакое значение этому не придал примерно в эти же дни при общении по рабочим вопросам с одним коллегой на работе он просто пишет блять и блокирует меня в телеграмме, через несколько дней после рабочей планерки на фуршете он же с техническим руководителем Неонилиным чето шепчутся смотрят на меня и слышу слово кокаин. Наступает 30 января 2022 воскресенье мне крайне не комфортно было находиться дома из-за поведения родителей и я решаю поехать в офис посидеть там заказать еду, по приезду туда охранник дико занервничал сказал звони хуй пойми кому я ваще этого человека хоть уже 2 года работал тот начал втирать что это режимный объект но в тоге пустили и подхожу я к своему компьютеру и там открыта моя страница вконтакте хоть и я отлично помню что так не оставлял. 31 января 2022 я сначала звоню своим юристам и говорю готовьтесь я в обед к вам заеду пидарасы потом прихожу в офис и первым делом прошу записи с камеры которая направлена прямо на мой компьютер, мне говорят ок, проходит часа 2 ко мне подходит начальник службы охраны и говорит пойдем поговорим заводит меня в подвал в помещение где естественно камер нет, там сидят мои родители они вместе с эти долбаёбом на меня набрасываются вкалывают какуюто хуйню прямо в шею и потом говорят езжай домой. По приезду в наш район я говорю дайте за сигаретами схожу и начинаю убегать, мать бежит за мой орёт ДЕРЖИТЕ ВОРА, я пробежал метров 100 упал и еле встал, кое как доковылял до магазина вызвал такси и поехал в гостиницу, 2 дня просто лежал в кровати ничего не мог делать после чего поехал домой.",
       "text_entities": [
         {
@@ -2762,7 +2762,7 @@
       "date": "2024-11-25T01:09:22",
       "date_unixtime": "1732486162",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "В ту же  неделю мне позвонили из уголовного розыска по поводу моего последнего заявления Тимур Аверин я также находился в тумане полном приехал но посути не мог связать и двух слов. Ему было похуй он уже отлично знал кто я, т.к. уже был у них с просьбой проверить ноутбук который они типо проверили. Сука уголовный розыск нахуй кучка ебанных долбаебов которые только таких же долбаебов и могут довить.",
       "text_entities": [
         {
@@ -2779,7 +2779,7 @@
       "edited": "2024-11-25T14:15:26",
       "edited_unixtime": "1732533326",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Проходит месяц 3 марта 2022 вечер я прихожу в себя и понимаю что произошло, моя мать закрывает дверь в свою квартиру естественно по указанию петуха кудрявцева мной овладевает ненависть и я вызываю ментов и дурку гворя что мать закрылась и не отрывает дверь. Они приезжают типо опрашивают мать я понимаю что ни к чему хорошему это не ведет и ухожу из дома и еду в 1-ый отдел полиции и пишу заявление с просьбой проверить те самые камеры изза которых мне чето вкололи и я месяц не мог  прийти в себя, возвращаюсь домой уже 4-го где-то в 1 час ночи и ложусь спать, проходит минут 20 слышу как мать выбегает из своей квартиры, открывает общую дверь ко мне заваливаются 2 мусора, прямо в трусах меня хватают волокут вниз и засовывают в скорую и меня вновь увозят в дурку на 4.5 ебанных месяца, я полностью тогда смирился с мыслью что я сумасшедший и что всё это было реально плод моего больного воображения.",
       "text_entities": [
         {
@@ -2796,7 +2796,7 @@
       "edited": "2024-11-25T01:48:44",
       "edited_unixtime": "1732488524",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "Выхожу только в середине лета 22-го, пью таблетки, мать делает уколы, устраиваюсь на работу в НПП \"Динамика\" естественно с разрешения павла ивановича ну они позвонили к нему он им разрешил меня взять потомучто на собеседовании у меня спросили только про него да мне было похуй я ваще хуево соображал в то время. И наступает май 2023 я казалось вытянул счастливый билет и устроился в Роснефть на огромную зарплату ну 120 тысяч для меня были большие деньги, отказываюсь от таблеток и уколов и вроде работаю никого не трогаю и в ноябре 2023 мне говорят что на рабочем компьютере моём вирус и просят отослать его обратно, я отсылаю они говорят ты там на порно сайте чето подхватил это нарушение требований информационной безопасности пиши заявление, я говорю ладно, написал. потом думаю че за сука бред нахуй и забрал заявление, может я и смотрю порнуху но я отлично знаю как это делать без следов и уж тем более ещё чето от туда скачивать. Проходит несколько дней, звонит опять хуй знает кто какой-то начальник которого я первый раз слышал и говорит расшифровали твой телеграмм ты там наркоту покупал. Ок я признаю наркоту я покупал если гашиш и марихуану можно назвать наркотой но опять же я не такой долбаёб чтобы покупать их через телеграмм и говорю ничего писать не буду, он уже начал говорить ну пойми Александр дальше мы уже нормально работать не сможем и говорю хуй с вами пишу.",
       "text_entities": [
         {
@@ -2811,7 +2811,7 @@
       "date": "2024-11-25T01:52:50",
       "date_unixtime": "1732488770",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "27 декабря 2023 у меня подзаканчиваются деньги и я принимаю не самое умное решение поехать в ту юридическую кантору которая кинула меня на 150 косарей и попытаться что-то с них вытрясти, естественно ничего не получается и я разбиваю им стекло. Мне звонят мусора говорят приезжай объяснение дашь, я думаю ну прав то посути я призжаю опять в этот ебаннй 1-ый ОП даю объянение туда заваливается дурка меня скручивают и вновь увозят уже в 4-ый раз.",
       "text_entities": [
         {
@@ -2828,7 +2828,7 @@
       "edited": "2025-09-15T23:05:46",
       "edited_unixtime": "1757966746",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "16 февраля вроде 2024 я вновь выхожу опять думая что я сумасшедший естественно из-за действия таблеток, но после выхода довольно быстро прихожу в себя и 25 марта 2024 пишу заявление на имя Шметкова министра МВД Чуваши. Вот содержание дословно: \"Ты знаешь значение слова беспредел если нет то посмотри сам. Короче Кудрявцев Павел Иванович директор ООО \"Фастек\", либо поедет он либо поедете вы оба. И давайте попробуйте троньте меня у вас долбаёбов мозгов хватит\". Да наверное я и в правду немного сумасшедший. Короче 1-го апреля мне становится хуево но как вы наверное уже все поняли у меня очень выносливый закаленный всякими запрещенными веществами организм и я начинаю звонить в МВД по всем номерам звонил даже на горячую линию в москву трубку нигде не взяли, они кстати по сей день не берут трубки с моих номеров, они и прокуратура, обычно просто сбрасывают. А и я могу всё подтвердить у меня есть на почте все ответные письма от МВД о принятии моих заявлений.",
       "text_entities": [
         {
@@ -2852,7 +2852,7 @@
       "edited": "2024-12-22T03:01:14",
       "edited_unixtime": "1734825674",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_size": 33999875,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -2878,7 +2878,7 @@
       "edited": "2024-12-11T19:47:12",
       "edited_unixtime": "1733935632",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-11-24_23-56-34.jpg",
       "photo_file_size": 199820,
       "width": 960,
@@ -2897,7 +2897,7 @@
       "date": "2024-11-25T02:56:34",
       "date_unixtime": "1732492594",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Сердитая Чувашия",
       "forwarded_from_id": "channel1129711355",
       "file": "(File not included. Change data exporting settings to download.)",
@@ -2949,7 +2949,7 @@
       "date": "2024-11-25T12:50:48",
       "date_unixtime": "1732528248",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Volkov_Alexandr_Vyacheslavovich_Protokol_ot_23_08_2024_2024_10_07.pdf",
       "file_size": 277904,
@@ -2965,7 +2965,7 @@
       "date": "2024-12-11T19:55:43",
       "date_unixtime": "1733936143",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-12-11_16-55-43.jpg",
       "photo_file_size": 82339,
       "width": 576,
@@ -2984,7 +2984,7 @@
       "date": "2024-12-11T19:55:43",
       "date_unixtime": "1733936143",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "photo": "photos/photo_2024-12-11_16-55-43.jpg",
       "photo_file_size": 76034,
       "width": 576,
@@ -2998,9 +2998,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Здравствуйте. Могу предложить работу. Актуально?",
       "text_entities": [
         {
@@ -3015,17 +3015,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Да",
       "text_entities": [
         {
           "type": "plain",
           "text": "Да"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 170,
@@ -3033,17 +3033,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Здравствуйте",
       "text_entities": [
         {
           "type": "plain",
           "text": "Здравствуйте"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 171,
@@ -3051,9 +3051,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Подскажите в каком городе находитесь и сколько вам лет, что-бы понимал какой спектр могу вам предложить",
       "text_entities": [
         {
@@ -3068,17 +3068,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Чебоксары 34 загадки не буду говорю сразу",
       "text_entities": [
         {
           "type": "plain",
           "text": "Чебоксары 34 загадки не буду говорю сразу"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 173,
@@ -3086,17 +3086,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "делать",
       "text_entities": [
         {
           "type": "plain",
           "text": "делать"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 174,
@@ -3104,9 +3104,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "У вас есть водительские права?",
       "text_entities": [
         {
@@ -3121,17 +3121,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Нет",
       "text_entities": [
         {
           "type": "plain",
           "text": "Нет"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 176,
@@ -3139,17 +3139,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Если что-то с перемещением воом нет",
       "text_entities": [
         {
           "type": "plain",
           "text": "Если что-то с перемещением воом нет"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 177,
@@ -3157,9 +3157,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Тогда предложу закладки.\n70-100к в неделю на дороге не валяются брат\nВсе для комфортной, безопасной и прибыльной работы мы тебе предоставим",
       "text_entities": [
         {
@@ -3174,17 +3174,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Класс",
       "text_entities": [
         {
           "type": "plain",
           "text": "Класс"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 179,
@@ -3192,17 +3192,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Мне тупо лень если честно",
       "text_entities": [
         {
           "type": "plain",
           "text": "Мне тупо лень если честно"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 180,
@@ -3210,9 +3210,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Так работа и не сильно энерго затратная",
       "text_entities": [
         {
@@ -3227,9 +3227,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Чуть прогуляешься и все, 10к в день уже в кармане",
       "text_entities": [
         {
@@ -3244,17 +3244,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Да не я уже попадал в наркоконтроль при подъёме",
       "text_entities": [
         {
           "type": "plain",
           "text": "Да не я уже попадал в наркоконтроль при подъёме"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 183,
@@ -3262,9 +3262,9 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Каким образом?",
       "text_entities": [
         {
@@ -3279,17 +3279,17 @@
       "date": "2025-05-29T12:01:38",
       "date_unixtime": "1748509298",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Да баба бывшая сдала ну и я только поднял грамм гаша и из-за угла двое",
       "text_entities": [
         {
           "type": "plain",
           "text": "Да баба бывшая сдала ну и я только поднял грамм гаша и из-за угла двое"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 185,
@@ -3297,9 +3297,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "В курсе что такое фейк подъем и как он делается?",
       "text_entities": [
         {
@@ -3314,17 +3314,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Нет",
       "text_entities": [
         {
           "type": "plain",
           "text": "Нет"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 187,
@@ -3332,9 +3332,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Созвонится можешь? \nОбговорим кое какие моменты, и примешь для себя решение",
       "text_entities": [
         {
@@ -3349,17 +3349,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Прям сейчас",
       "text_entities": [
         {
           "type": "plain",
           "text": "Прям сейчас"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 189,
@@ -3367,9 +3367,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Можем прям сейчас",
       "text_entities": [
         {
@@ -3384,9 +3384,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Можем позже",
       "text_entities": [
         {
@@ -3401,9 +3401,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Просто в тексте это немного долго писать",
       "text_entities": [
         {
@@ -3418,17 +3418,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Да давай в 21 по мск",
       "text_entities": [
         {
           "type": "plain",
           "text": "Да давай в 21 по мск"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 193,
@@ -3436,9 +3436,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Хорошо брат, давай в 21:00",
       "text_entities": [
         {
@@ -3453,17 +3453,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Напиши я номер скину",
       "text_entities": [
         {
           "type": "plain",
           "text": "Напиши я номер скину"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 195,
@@ -3471,9 +3471,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "В телеге созвонимся",
       "text_entities": [
         {
@@ -3488,17 +3488,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ок",
       "text_entities": [
         {
           "type": "plain",
           "text": "Ок"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 197,
@@ -3506,9 +3506,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Такие вещи обсуждать по сотовой связи, так себе идея)",
       "text_entities": [
         {
@@ -3523,17 +3523,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Для кого как)",
       "text_entities": [
         {
           "type": "plain",
           "text": "Для кого как)"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 199,
@@ -3541,17 +3541,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "На вашем месте я бы вообще сигнал предложил",
       "text_entities": [
         {
           "type": "plain",
           "text": "На вашем месте я бы вообще сигнал предложил"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 200,
@@ -3559,9 +3559,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Согнал есть, но это для других позиций в работе используется)",
       "text_entities": [
         {
@@ -3576,17 +3576,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Я считаю если никто не сдавал тебя и никто никогда слушать и читать не будет",
       "text_entities": [
         {
           "type": "plain",
           "text": "Я считаю если никто не сдавал тебя и никто никогда слушать и читать не будет"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 202,
@@ -3594,9 +3594,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Ну брат, сам понимаешь, о том что ты работаешь знать никто не должен, что-бы тебя никто не сдал",
       "text_entities": [
         {
@@ -3611,9 +3611,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Сарафанное радио сильная штука, каждый каждому по \"секрету\"  скажет, и появится наводки",
       "text_entities": [
         {
@@ -3628,17 +3628,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Но это не вожно",
       "text_entities": [
         {
           "type": "plain",
           "text": "Но это не вожно"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 205,
@@ -3646,17 +3646,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Чтобы никто не знал",
       "text_entities": [
         {
           "type": "plain",
           "text": "Чтобы никто не знал"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 206,
@@ -3664,9 +3664,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Важно на самом деле.\nТебя твоя баба сдала же, ибо знала что идешь поднимать вес",
       "text_entities": [
         {
@@ -3681,9 +3681,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "А это типо близкий человек",
       "text_entities": [
         {
@@ -3698,17 +3698,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Бывшая же говорю обиженная",
       "text_entities": [
         {
           "type": "plain",
           "text": "Бывшая же говорю обиженная"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 209,
@@ -3716,17 +3716,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Она не знала она сказала моему директору тот посадил за мной сотрудника следить она всё время пас мой монитор и когда я купил и поехал в обед вот тогда меня и цепанули",
       "text_entities": [
         {
           "type": "plain",
           "text": "Она не знала она сказала моему директору тот посадил за мной сотрудника следить она всё время пас мой монитор и когда я купил и поехал в обед вот тогда меня и цепанули"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 210,
@@ -3734,17 +3734,17 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Скала просто что упртребляю",
       "text_entities": [
         {
           "type": "plain",
           "text": "Скала просто что упртребляю"
         }
-      ]
-      ,"forwarded_from_name": "xelavoklov"
+      ],
+      "forwarded_from_name": "xelavoklov"
     },
     {
       "id": 211,
@@ -3752,9 +3752,9 @@
       "date": "2025-05-29T12:01:39",
       "date_unixtime": "1748509299",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Сейчас употребляешь что-то?",
       "text_entities": [
         {
@@ -3769,9 +3769,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ну да гашиш",
       "text_entities": [
         {
@@ -3786,9 +3786,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Или шишки",
       "text_entities": [
         {
@@ -3803,9 +3803,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Лсд могу ебануль",
       "text_entities": [
         {
@@ -3820,9 +3820,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ну если кто кокаином угостит то без проблем",
       "text_entities": [
         {
@@ -3837,9 +3837,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Окей бро, не проблема. Но ты должен понимать что на работе нужно быть трезвым, вне работы расслабляйся как хочешь",
       "text_entities": [
         {
@@ -3854,9 +3854,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Так мы ещё ничего не обсудили и не о чем не договаривались",
       "text_entities": [
         {
@@ -3871,9 +3871,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Это я на будущее уже говорю)",
       "text_entities": [
         {
@@ -3888,9 +3888,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Лан вечером посмотрим если я очень сильно сомневаюсь что соглашусь",
       "text_entities": [
         {
@@ -3905,9 +3905,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "честно",
       "text_entities": [
         {
@@ -3922,9 +3922,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Поговорим, примешь решение",
       "text_entities": [
         {
@@ -3939,9 +3939,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Ну да",
       "text_entities": [
         {
@@ -3956,9 +3956,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Если чё в 21 15 сразу набери я возьму",
       "text_entities": [
         {
@@ -3973,9 +3973,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Ок",
       "text_entities": [
         {
@@ -3990,9 +3990,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Через 10 минут наберу",
       "text_entities": [
         {
@@ -4007,9 +4007,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ага",
       "text_entities": [
         {
@@ -4024,9 +4024,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "ну че?",
       "text_entities": [
         {
@@ -4041,9 +4041,9 @@
       "date": "2025-05-29T12:01:40",
       "date_unixtime": "1748509300",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": null,
-      "forwarded_from_id": "user7622010700",
+      "forwarded_from_id": "7622010700",
       "text": "Да, сейчас",
       "text_entities": [
         {
@@ -4058,17 +4058,17 @@
       "date": "2025-06-03T17:54:03",
       "date_unixtime": "1748962443",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Барашкин",
-      "forwarded_from_id": "user476733786",
+      "forwarded_from_id": "476733786",
       "text": "Бююбьжь Дж 🚸🚸👘бхб😍🤣💗💗💗💗😘😭😭😭😭😭😭😭😭💗🙏💗🙏💗🥰🥰(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~ᕕ( ᐛ",
       "text_entities": [
         {
           "type": "plain",
           "text": "Бююбьжь Дж 🚸🚸👘бхб😍🤣💗💗💗💗😘😭😭😭😭😭😭😭😭💗🙏💗🙏💗🥰🥰(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~ᕕ( ᐛ"
         }
-      ]
-      ,"forwarded_from_name": ""
+      ],
+      "forwarded_from_name": ""
     },
     {
       "id": 230,
@@ -4076,7 +4076,7 @@
       "date": "2025-06-16T12:55:39",
       "date_unixtime": "1750067739",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_size": 38253101,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4097,7 +4097,7 @@
       "edited": "2025-06-16T20:38:49",
       "edited_unixtime": "1750095529",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Масштабирование_таблицы_PRTG_Network_Monitor_DESKTOP_MVK0VTO.pdf",
       "file_size": 23150210,
@@ -4116,7 +4116,7 @@
       "date": "2025-07-04T23:31:29",
       "date_unixtime": "1751661089",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_size": 17639239,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4135,7 +4135,7 @@
       "date": "2025-07-14T21:07:14",
       "date_unixtime": "1752516434",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "АV",
       "photo": "photos/photo_2025-07-14_18-07-14.jpg",
       "photo_file_size": 70725,
@@ -4150,7 +4150,7 @@
       "date": "2025-07-14T21:11:50",
       "date_unixtime": "1752516710",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_size": 919648,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4169,7 +4169,7 @@
       "date": "2025-07-21T12:18:03",
       "date_unixtime": "1753089483",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": [
         {
           "type": "link",
@@ -4189,7 +4189,7 @@
       "date": "2025-08-01T21:09:50",
       "date_unixtime": "1754071790",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Даниил",
       "text": "Ищет",
       "text_entities": [
@@ -4205,7 +4205,7 @@
       "date": "2025-08-04T23:21:02",
       "date_unixtime": "1754338862",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Кащей_Слово_пацана_Никита_Кологривый.mp4",
       "file_size": 17532370,
@@ -4225,7 +4225,7 @@
       "date": "2025-08-05T00:27:44",
       "date_unixtime": "1754342864",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_size": 52519834,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4255,7 +4255,7 @@
       "date": "2025-08-06T19:37:46",
       "date_unixtime": "1754498266",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": [
         "Microsoft обвинила хакеров ФСБ в атаках на иностранных дипломатов в России. Они используют интернет-провайдеров и выдают свои программы за антивирус «Касперского» — Meduza ",
         {
@@ -4287,7 +4287,7 @@
       "edited": "2025-08-06T20:02:36",
       "edited_unixtime": "1754499756",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "кто такой Евгений Касперский?\n- Евгений Касперский выпускник института криптографии, связи и информатики (ИКСИ) при Высшей школе КГБ СССР на данный момент старший лейтенант запаса бизнесмен выпускает антивирус \nа кто мы?\n- тупые лохи которые и так всё знали и непонятно на что надеялись ещё деньги за это платили\nа и кудрявцев петух естественно",
       "text_entities": [
         {
@@ -4302,7 +4302,7 @@
       "date": "2025-08-15T18:31:12",
       "date_unixtime": "1755271872",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": [
         {
           "type": "link",
@@ -4322,9 +4322,9 @@
       "date": "2025-08-26T13:02:29",
       "date_unixtime": "1756202549",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Забалухина",
-      "forwarded_from_id": "user831871487",
+      "forwarded_from_id": "831871487",
       "text": "Волк 🐺",
       "text_entities": [
         {
@@ -4339,9 +4339,9 @@
       "date": "2025-08-26T13:02:29",
       "date_unixtime": "1756202549",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Забалухина",
-      "forwarded_from_id": "user831871487",
+      "forwarded_from_id": "831871487",
       "text": "Рот",
       "text_entities": [
         {
@@ -4356,9 +4356,9 @@
       "date": "2025-08-26T13:02:29",
       "date_unixtime": "1756202549",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Забалухина",
-      "forwarded_from_id": "user831871487",
+      "forwarded_from_id": "831871487",
       "text": "Ротииище",
       "text_entities": [
         {
@@ -4373,7 +4373,7 @@
       "date": "2025-09-11T21:48:50",
       "date_unixtime": "1757616530",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": [
         {
           "type": "link",
@@ -4406,7 +4406,7 @@
       "date": "2025-09-14T17:47:04",
       "date_unixtime": "1757861224",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-14_14-47-04.mp4",
       "file_size": 15305144,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4425,7 +4425,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58.mp4",
       "file_size": 2020263,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4444,7 +4444,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (1).mp4",
       "file_size": 1241072,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4463,7 +4463,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (2).mp4",
       "file_size": 1856328,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4482,7 +4482,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (3).mp4",
       "file_size": 1983637,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4501,7 +4501,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (4).mp4",
       "file_size": 2220636,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4520,7 +4520,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (5).mp4",
       "file_size": 4303324,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4539,7 +4539,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (6).mp4",
       "file_size": 1219443,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4558,7 +4558,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (7).mp4",
       "file_size": 1749952,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4577,7 +4577,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (8).mp4",
       "file_size": 1618700,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4596,7 +4596,7 @@
       "date": "2025-09-15T19:46:58",
       "date_unixtime": "1757954818",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file_name": "document_2025-09-15_16-46-58 (9).mp4",
       "file_size": 1014460,
       "thumbnail": "(File not included. Change data exporting settings to download.)",
@@ -4615,7 +4615,7 @@
       "date": "2025-09-15T20:01:13",
       "date_unixtime": "1757955673",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Папа(0079051980430)_20250915195711.mp3",
       "file_size": 337440,
@@ -4631,9 +4631,9 @@
       "date": "2025-09-15T20:31:37",
       "date_unixtime": "1757957497",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Мама",
-      "forwarded_from_id": "user6874754120",
+      "forwarded_from_id": "6874754120",
       "text": "Приходи, тебя участковый ждёт.",
       "text_entities": [
         {
@@ -4648,9 +4648,9 @@
       "date": "2025-09-15T20:31:37",
       "date_unixtime": "1757957497",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Мама",
-      "forwarded_from_id": "user6874754120",
+      "forwarded_from_id": "6874754120",
       "text": "Ты же хотел полицию, вот тебе полиция.",
       "text_entities": [
         {
@@ -4665,9 +4665,9 @@
       "date": "2025-09-15T20:31:37",
       "date_unixtime": "1757957497",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Передай ему что я шлю его на хуй",
       "text_entities": [
         {
@@ -4682,9 +4682,9 @@
       "date": "2025-09-15T20:31:37",
       "date_unixtime": "1757957497",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "forwarded_from": "Александр Волков",
-      "forwarded_from_id": "user400860208",
+      "forwarded_from_id": "400860208",
       "text": "Петух ты сука печальный",
       "text_entities": [
         {
@@ -4699,7 +4699,7 @@
       "date": "2025-09-15T20:37:49",
       "date_unixtime": "1757957869",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "Руссов(0079613484749)_20250915203613.mp3",
       "file_size": 66048,
@@ -4715,7 +4715,7 @@
       "date": "2025-09-24T19:51:24",
       "date_unixtime": "1758732684",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": [
         {
           "type": "link",
@@ -4735,7 +4735,7 @@
       "date": "2025-09-24T22:22:46",
       "date_unixtime": "1758741766",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "animation.gif.mp4",
       "file_size": 96315,
@@ -4755,7 +4755,7 @@
       "date": "2025-09-25T11:09:44",
       "date_unixtime": "1758787784",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": [
         {
           "type": "link",
@@ -4775,7 +4775,7 @@
       "date": "2025-09-25T13:15:12",
       "date_unixtime": "1758795312",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_size": 125163,
       "media_type": "voice_message",
@@ -4790,7 +4790,7 @@
       "date": "2025-10-03T22:31:29",
       "date_unixtime": "1759519889",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "1_偖 €.�. 彅� 慝_庒.pdf",
       "file_size": 211291,
@@ -4804,7 +4804,7 @@
       "date": "2025-10-03T22:31:29",
       "date_unixtime": "1759519889",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "3_偖 €.�. 彅� 慝_姰キ鈅彯くㄡ�.p7s",
       "file_size": 5431,
@@ -4818,7 +4818,7 @@
       "date": "2025-10-03T22:31:29",
       "date_unixtime": "1759519889",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "file": "(File not included. Change data exporting settings to download.)",
       "file_name": "2_偖 €.�. 彅� 慝_姰キ�.pdf",
       "file_size": 129752,
@@ -4832,7 +4832,7 @@
       "date": "2025-10-06T09:06:54",
       "date_unixtime": "1759730814",
       "from": "xelavoklovlive",
-      "from_id": "channel2387659347",
+      "from_id": "2387659347",
       "text": "согласен 8 лет это очень много",
       "text_entities": [
         {

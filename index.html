@@ -389,84 +389,64 @@
 
         for (const fname of mediaList) {
           if(!fname) continue;
-          // Поддержка значений вида "photos/xxx.jpg" — если путь содержит папку,
-          // считаем его относительным к /media и кодируем только сегменты пути.
-          let href;
-          if (fname.includes('/')) {
-            const parts = fname.split('/').filter(Boolean);
-            const root = parts[0].toLowerCase();
-            const allowed = ['photos','videos','audio','files','person'];
-            const encoded = parts.map(p => encodeURIComponent(p)).join('/');
-            if (allowed.includes(root)) {
-              href = 'https://aye.monster/media/' + encoded;
+            let localHref;
+            if (fname.includes('/')) {
+              // Если уже указан подкаталог (например, photos/abc.jpg)
+              localHref = 'media/' + fname;
+            } else if (isImage(fname)) {
+              localHref = 'media/photos/' + fname;
+            } else if (/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)) {
+              localHref = 'media/audio/' + fname;
+            } else if (/\.pdf$/i.test(fname)) {
+              localHref = 'media/files/' + fname;
             } else {
-              // если неизвестный префикс — помещаем в files
-              href = 'https://aye.monster/media/files/' + encoded;
+              localHref = 'media/files/' + fname;
             }
-          } else {
-            const enc = encodeURIComponent(fname);
-            if(isImage(fname)){
-              href = 'https://aye.monster/media/photos/' + enc;
-            } else if(/\.(mp4|webm|ogg)$/i.test(fname)){
-              href = 'https://aye.monster/media/videos/' + enc;
-            } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)){
-              href = 'https://aye.monster/media/audio/' + enc;
+            // Видео — по API
+            if(/\.(mp4|webm|ogg)$/i.test(fname)) {
+              const video = document.createElement('video');
+              video.src = `https://movtv.fun/get_url/${p.id}`;
+              video.controls = true;
+              video.style.maxWidth = '100%';
+              video.style.borderRadius = '8px';
+              mediaWrap.appendChild(video);
+            } else if(isImage(fname)) {
+              const img = document.createElement('img'); img.src = localHref; img.alt = fname;
+              mediaWrap.appendChild(img);
+            } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)) {
+              const audioContainer = document.createElement('div');
+              audioContainer.style.display = 'flex';
+              audioContainer.style.alignItems = 'center';
+              audioContainer.style.marginTop = '8px';
+              const audio = document.createElement('audio');
+              audio.src = localHref;
+              audio.controls = true;
+              audio.style.display = 'block';
+              audio.style.marginRight = '12px';
+              const fnameSpan = document.createElement('span');
+              fnameSpan.textContent = fname;
+              fnameSpan.style.fontSize = '13px';
+              fnameSpan.style.color = '#555';
+              fnameSpan.style.wordBreak = 'break-all';
+              audioContainer.appendChild(audio);
+              audioContainer.appendChild(fnameSpan);
+              mediaWrap.appendChild(audioContainer);
+            } else if(/\.pdf$/i.test(fname)) {
+              const pdfFrame = document.createElement('iframe');
+              pdfFrame.src = localHref;
+              pdfFrame.style.width = '100%';
+              pdfFrame.style.height = '480px';
+              pdfFrame.style.border = 'none';
+              pdfFrame.setAttribute('loading','lazy');
+              mediaWrap.appendChild(pdfFrame);
+              const a = document.createElement('a'); a.href = localHref; a.textContent = fname; a.target = '_blank';
+              a.style.display = 'block';
+              a.style.marginTop = '8px';
+              mediaWrap.appendChild(a);
             } else {
-              href = 'https://aye.monster/media/files/' + enc;
+              const a = document.createElement('a'); a.href = localHref; a.textContent = fname; a.target = '_blank';
+              mediaWrap.appendChild(a);
             }
-          }
-
-          // Вставляем соответствующий элемент
-          if(isImage(fname) || href.toLowerCase().includes('/photos/')){
-            const img = document.createElement('img'); img.src = href; img.alt = fname;
-            mediaWrap.appendChild(img);
-          } else if(/\.(mp4|webm|ogg)$/i.test(fname) || href.toLowerCase().includes('/videos/')){
-            const video = document.createElement('video');
-            video.src = href;
-            video.controls = true;
-            video.style.maxWidth = '100%';
-            video.style.borderRadius = '8px';
-            mediaWrap.appendChild(video);
-          } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname) || href.toLowerCase().includes('/audio/')){
-            // Контейнер для аудио и названия файла
-            const audioContainer = document.createElement('div');
-            audioContainer.style.display = 'flex';
-            audioContainer.style.alignItems = 'center';
-            audioContainer.style.marginTop = '8px';
-
-            const audio = document.createElement('audio');
-            audio.src = href;
-            audio.controls = true;
-            audio.style.display = 'block';
-            audio.style.marginRight = '12px';
-
-            const fnameSpan = document.createElement('span');
-            fnameSpan.textContent = fname;
-            fnameSpan.style.fontSize = '13px';
-            fnameSpan.style.color = '#555';
-            fnameSpan.style.wordBreak = 'break-all';
-
-            audioContainer.appendChild(audio);
-            audioContainer.appendChild(fnameSpan);
-            mediaWrap.appendChild(audioContainer);
-          } else if(/\.pdf$/i.test(fname) || href.toLowerCase().includes('.pdf')){
-            // Встраиваем PDF-документ как окно
-            const pdfFrame = document.createElement('iframe');
-            pdfFrame.src = href;
-            pdfFrame.style.width = '100%';
-            pdfFrame.style.height = '480px';
-            pdfFrame.style.border = 'none';
-            pdfFrame.setAttribute('loading','lazy');
-            mediaWrap.appendChild(pdfFrame);
-            // Дополнительно ссылка на файл
-            const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
-            a.style.display = 'block';
-            a.style.marginTop = '8px';
-            mediaWrap.appendChild(a);
-          } else {
-            const a = document.createElement('a'); a.href = href; a.textContent = fname; a.target = '_blank';
-            mediaWrap.appendChild(a);
-          }
         }
         d.appendChild(mediaWrap);
       }
