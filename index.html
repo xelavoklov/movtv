@@ -6,6 +6,11 @@
   <link rel="icon" href="favicon.ico" type="image/x-icon">
   <title>ауе228.рф</title>
   <style>
+      /* Подсветка поста при переходе по id */
+      .highlighted-post {
+        box-shadow: 0 0 0 3px #3390ec,0 1px 2px rgba(0,0,0,.06);
+        transition: box-shadow 0.7s;
+      }
     body{font-family:Helvetica,Arial,sans-serif;background:#f4f6f8;margin:0;padding:20px}
     .container{max-width:800px;margin:0 auto}
     .post{background:#fff;border-radius:12px;padding:12px 14px;margin-bottom:12px;box-shadow:0 1px 2px rgba(0,0,0,.06)}
@@ -259,6 +264,7 @@
     function renderPost(p){
       const d = document.createElement('div');
       d.className = 'post' + (p.id === 666 ? ' post-purple' : '');
+      if (p.id) d.id = 'post-' + p.id;
       // .meta: flex, только два потомка — authorBlock и дата
       const meta = document.createElement('div');
       meta.className = 'meta';
@@ -336,17 +342,14 @@
           tippy(fwdA, {
             allowHTML: true,
             content(reference){
-              const pid = reference.getAttribute('data-person-id');
-              const pname = reference.getAttribute('data-person-name');
-              const pusername = reference.getAttribute('data-person-username') || pname;
-              const forwardedFromName = reference.getAttribute('data-forwarded-from-name');
-              if (pid && pname) {
+              // Используем fwdPersonId и fwdName, которые доступны
+              if (fwdPersonId && fwdName) {
                 const avatarUrl = 'media/person/' + fwdPersonId + '.jpg';
                 return `
                   <div style="display:flex;flex-direction:column;align-items:center;min-width:170px;max-width:240px;padding:8px 0;">
                     <img src="${avatarUrl}" alt="${escapeHtml(fwdName)}" style="width:126px;height:126px;border-radius:50%;object-fit:cover;box-shadow:0 2px 12px #0004;margin-bottom:16px;">
                     <span style="font-weight:bold;font-size:20px;line-height:1.2;margin-bottom:10px;text-align:center;">${escapeHtml(fwdName)}</span> 
-                    <span style="color:#3390ec;font-size:17px;font-family:monospace;">@${escapeHtml(forwardedFromName)}</span>
+                    <span style="color:#3390ec;font-size:17px;font-family:monospace;">@${escapeHtml(fwdFromName)}</span>
                   </div>
                 `;
               }
@@ -465,9 +468,9 @@
               mediaWrap.appendChild(audioContainer);
             } else if(/\.pdf$/i.test(fname)) {
               const pdfFrame = document.createElement('iframe');
-              pdfFrame.src = localHref;
+                pdfFrame.src = localHref + '#page=1&view=FitH';
               pdfFrame.style.width = '100%';
-              pdfFrame.style.height = '480px';
+                pdfFrame.style.height = '700px';
               pdfFrame.style.border = 'none';
               pdfFrame.setAttribute('loading','lazy');
               mediaWrap.appendChild(pdfFrame);
@@ -609,6 +612,38 @@ function restorePostIndex() {
       }
       setTimeout(restoreScroll, 400);
       setTimeout(restorePostIndex, 300);
+      // --- Рендерим до нужного поста по id из pathname ---
+      const pathMatch = window.location.pathname.match(/\/(\d+)$/);
+      const postId = pathMatch && pathMatch[1];
+      if (postId) {
+        feed.innerHTML = '';
+        index = 0;
+        let found = false;
+        for (; index < posts.length; index++) {
+          const el = renderPost(posts[index]);
+          feed.appendChild(el);
+          if (posts[index] && String(posts[index].id) === String(postId)) {
+            el.scrollIntoView({behavior:'auto', block:'start'});
+            found = true;
+            index++;
+            break;
+          }
+        }
+        document.getElementById('count').textContent = index;
+        if (found) {
+          // Подгружаем дальше обычными порциями
+          loadNext();
+        }
+      } else {
+        // Обычная логика восстановления позиции
+        feed.innerHTML = '';
+        index = 0;
+        const n = +localStorage.getItem('postIndex');
+        let target = n > 0 ? n : 0;
+        while(index < posts.length && index < target + 1) {
+          loadNext();
+        }
+      }
     })();
   </script>
 </body>
