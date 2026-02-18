@@ -1,0 +1,650 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <title>ауе228.рф</title>
+  <style>
+      /* Подсветка поста при переходе по id */
+      .highlighted-post {
+        box-shadow: 0 0 0 3px #3390ec,0 1px 2px rgba(0,0,0,.06);
+        transition: box-shadow 0.7s;
+      }
+    body{font-family:Helvetica,Arial,sans-serif;background:#f4f6f8;margin:0;padding:20px}
+    .container{max-width:800px;margin:0 auto}
+    .post{background:#fff;border-radius:12px;padding:12px 14px;margin-bottom:12px;box-shadow:0 1px 2px rgba(0,0,0,.06)}
+    .meta{font-size:12px;color:#666;margin-bottom:8px}
+    .bubble{white-space:pre-wrap;color:#111;font-size:15px;line-height:1.4}
+    .forward{font-size:12px;color:#0b72e6;margin-bottom:6px}
+    .media{margin-top:8px}
+    .media img{max-width:100%;border-radius:8px}
+    .loading{display:flex;align-items:center;justify-content:center;padding:20px;color:#444}
+    #status{font-size:13px;color:#666;margin-bottom:10px}
+    .sender{font-weight:600;color:#1a73e8;margin-right:8px}
+    body {
+  background-color: #fff; /* Белый фон для светлой темы */
+  background-image: none;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
+  padding: 20px 0;
+}
+
+#feed {
+  width: 100%;
+  max-width: 600px; /* Ширина как в десктопном ТГ */
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.post {
+  }
+  .post-purple {
+    background: #b366ff !important;
+    color: #fff !important;
+    border: 1.5px solid #8133b8;
+  }
+  background: #f5f6fa; /* Более светлый фон поста для контраста */
+  border: 1px solid #e5e7eb;
+  padding: 8px 12px;
+  border-radius: 12px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+  position: relative;
+  max-width: 90%;
+  align-self: flex-start;
+  margin: 0 10px;
+}
+.post .meta span:last-child {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  color: #a8a8a8;
+  font-size: 11px;
+  margin: 0;
+  text-align: right;
+  background: transparent;
+  z-index: 2;
+}
+
+/* Мета-данные (Имя отправителя и дата) */
+.meta {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4px;
+}
+.meta span:last-child {
+  color: #a8a8a8;
+  font-size: 11px;
+  margin-left: auto;
+}
+.sender {
+  color: #3390ec; /* Тот самый синий цвет ТГ */
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+/* Пересланные сообщения */
+.forward {
+  border-left: 2px solid #3390ec;
+  padding-left: 8px;
+  margin-bottom: 8px;
+  color: #3390ec;
+  font-size: 13px;
+  font-style: italic;
+}
+
+/* Текст сообщения */
+.bubble {
+  font-size: 15px;
+  line-height: 1.4;
+  color: #222;
+  word-wrap: break-word;
+  white-space: pre-wrap; /* Чтобы сохранялись переносы строк */
+}
+
+/* Медиа-контент */
+.media img {
+  max-width: 100%;
+  border-radius: 8px;
+  margin-top: 8px;
+  display: block;
+}
+
+.media a {
+  display: block;
+  margin-top: 8px;
+  color: #3390ec;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+/* Индикатор загрузки внизу */
+#sentinel {
+  text-align: center;
+  padding: 20px;
+  color: white;
+  font-size: 14px;
+}
+#sentinel.hidden {
+  visibility: hidden;
+  height: 40px;
+}
+#status { display: none; }
+@media (prefers-color-scheme: dark) {
+      /* Тёмная тема: современный стиль */
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #181a20;
+          background-image: none;
+        }
+        .container {
+          background: none;
+        }
+        .post {
+          background: #191b1e;
+          border: 1px solid #2c2f34;
+          color: #ececec;
+        }
+        .bubble, .meta, .forward, .sender {
+          color: #ececec !important;
+        }
+        .forward {
+          border-left: 2px solid #3390ec;
+        }
+        .media img {
+          filter: brightness(0.85);
+        }
+        #sentinel {
+          color: #ececec;
+        }
+          .media span {
+            color: #cccccc !important;
+          }
+      }
+  body {
+    background-color: #111;
+    background-image: none;
+  }
+  .container {
+    background: none;
+  }
+  .post {
+    background: #222;
+    border: 1px solid #2c2f34;
+    color: #fff;
+  }
+  .bubble, .meta, .forward, .sender {
+    color: #fff !important;
+  }
+  .forward {
+    border-left: 2px solid #fff;
+  }
+  #sentinel {
+    color: #fff;
+  }
+}
+  /* Кастомная тема для tippy.js, чтобы pop-up был читаем и в тёмной теме */
+  .tippy-box[data-theme~="light-border"].tippy-box[data-theme~="darkfix"] {
+    background-color: #23272f;
+    color: #fff;
+    border: 1px solid #444;
+  }
+  .tippy-box[data-theme~="light-border"].tippy-box[data-theme~="darkfix"] .tippy-arrow {
+    color: #23272f;
+  }
+  @media (prefers-color-scheme: dark) {
+    .tippy-box[data-theme~="light-border"], .tippy-box[data-theme~="darkfix"] {
+      background-color: #23272f;
+      color: #fff;
+      border: 1px solid #444;
+    }
+    .tippy-box[data-theme~="light-border"] .tippy-arrow, .tippy-box[data-theme~="darkfix"] .tippy-arrow {
+      color: #23272f;
+    }
+  }
+  </style>
+  <!-- Tippy.js CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/tippy.js@6/dist/tippy.css" />
+  <!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=106831120', 'ym');
+
+    ym(106831120, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", referrer: document.referrer, url: location.href, accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/106831120" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+  <!-- Tippy.js и Popper.js -->
+  <script src="https://unpkg.com/@popperjs/core@2"></script>
+  <script src="https://unpkg.com/tippy.js@6"></script>
+  </head>
+<body>
+  <div class="container">
+    <h2>ауе228.рф</h2>
+    <div id="status">Загружено: <span id="count">0</span></div>
+    <div id="feed"></div>
+    <div id="sentinel" class="loading hidden">Загрузка…</div>
+  </div>
+
+  <script>
+    // Параметры
+    const BATCH = 10;
+    let posts = [];
+    let index = 0;
+
+    function escapeHtml(s){
+      if(!s) return '';
+      // support arrays (some messages have text as array) and non-string values
+      if(Array.isArray(s)){
+        s = s.map(it => typeof it === 'string' ? it : (it && it.text) || '').join('');
+      } else if (typeof s !== 'string') {
+        s = String(s);
+      }
+      return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function isImage(name){
+      return /\.(jpg|jpeg|png|gif|webp)$/i.test(name);
+    }
+    function isPlaceholder(name){
+      if(!name) return true;
+      if(typeof name !== 'string') return false;
+      return name.trim().startsWith('(File not included');
+    }
+
+    function renderPost(p){
+      const d = document.createElement('div');
+      d.className = 'post' + (p.id === 666 ? ' post-purple' : '');
+      if (p.id) d.id = 'post-' + p.id;
+      // .meta: flex, только два потомка — authorBlock и дата
+      const meta = document.createElement('div');
+      meta.className = 'meta';
+      let personId = p.person_id || p.sender_id || p.from_id;
+      const authorBlock = document.createElement('span');
+      authorBlock.style.display = 'inline-flex';
+      authorBlock.style.alignItems = 'center';
+      if(personId){
+        const avatar = document.createElement('img');
+        avatar.src = 'media/person/' + personId + '.jpg';
+        avatar.alt = p.person_name || '';
+        avatar.style.width = '28px';
+        avatar.style.height = '28px';
+        avatar.style.borderRadius = '50%';
+        avatar.style.objectFit = 'cover';
+        avatar.style.marginRight = '6px';
+        avatar.style.verticalAlign = 'middle';
+        avatar.style.marginBottom = '0px'; // убираем большой отступ
+        authorBlock.appendChild(avatar);
+      }
+      const sender = document.createElement('a');
+      sender.className = 'sender';
+      const fromDisplay = p.from || p.person_name || p.sender || '';
+      const fromId = p.from_id || p.sender_id || p.person_id || '';
+      sender.textContent = fromDisplay;
+      sender.target = '_blank';
+      if(fromDisplay) {
+        sender.href = 'https://t.me/' + fromDisplay;
+      } else if(fromId) {
+        sender.href = p.link || '#';
+      } else {
+        sender.href = '#';
+      }
+      authorBlock.appendChild(sender);
+      // Только authorBlock и дата!
+      meta.appendChild(authorBlock);
+      const date = document.createElement('span');
+      date.textContent = p.date || '';
+      meta.appendChild(date);
+      d.appendChild(meta);
+
+      // Поддержка пересылок: некоторые экспорты используют `forwarded_from` поля
+      if(p.forward || p.forwarded_from || p.forwarded_from_id){
+        const f = document.createElement('div'); f.className='forward';
+        let fwdPersonId = (p.forward && (p.forward.person_id || p.forward.sender_id || p.forward.from_id)) || p.forwarded_from_id;
+        let fwdName = (p.forward && (p.forward.person_name || p.forward.post_author || p.forward.from)) || p.forwarded_from || '';
+        let fwdFromName = p.forwarded_from_name;
+        const fwdLine = document.createElement('span');
+        fwdLine.style.display = 'inline-flex';
+        fwdLine.style.alignItems = 'center';
+        fwdLine.style.marginLeft = '0';
+        fwdLine.style.marginTop = '0';
+        fwdLine.style.marginBottom = '0';
+        fwdLine.style.padding = '0';
+        fwdLine.appendChild(document.createTextNode('Forwarded from '));
+        if(fwdPersonId){
+          const avatarFwd = document.createElement('img');
+          avatarFwd.src = 'media/person/' + fwdPersonId + '.jpg';
+          avatarFwd.alt = fwdName;
+          avatarFwd.style.width = '20px';
+          avatarFwd.style.height = '20px';
+          avatarFwd.style.borderRadius = '50%';
+          avatarFwd.style.objectFit = 'cover';
+          avatarFwd.style.marginRight = '6px';
+          avatarFwd.style.verticalAlign = 'middle';
+          fwdLine.appendChild(avatarFwd);
+        }
+        if(fwdPersonId && fwdName){
+          const fwdA = document.createElement('a');
+          fwdA.href = 'https://t.me/' + encodeURIComponent(fwdFromName);
+          fwdA.textContent = fwdName;
+          fwdA.target = '_blank';
+          fwdA.style.fontWeight = 'bold';
+          fwdA.style.color = '#3390ec';
+          tippy(fwdA, {
+            allowHTML: true,
+            content(reference){
+              // Используем fwdPersonId и fwdName, которые доступны
+              if (fwdPersonId && fwdName) {
+                const avatarUrl = 'media/person/' + fwdPersonId + '.jpg';
+                return `
+                  <div style="display:flex;flex-direction:column;align-items:center;min-width:170px;max-width:240px;padding:8px 0;">
+                    <img src="${avatarUrl}" alt="${escapeHtml(fwdName)}" style="width:126px;height:126px;border-radius:50%;object-fit:cover;box-shadow:0 2px 12px #0004;margin-bottom:16px;">
+                    <span style="font-weight:bold;font-size:20px;line-height:1.2;margin-bottom:10px;text-align:center;">${escapeHtml(fwdName)}</span> 
+                    <span style="color:#3390ec;font-size:17px;font-family:monospace;">@${escapeHtml(fwdFromName)}</span>
+                  </div>
+                `;
+              }
+              return reference.getAttribute('href') || 'Нет href';
+            },
+            placement: 'top',
+            theme: 'light-border darkfix',
+            delay: [50,0]
+          });
+          fwdLine.appendChild(fwdA);
+        } else if((p.forward && p.forward.link) && fwdName){
+          const fwdA = document.createElement('a');
+          fwdA.href = p.forward.link;
+          fwdA.textContent = fwdName;
+          fwdA.target = '_blank';
+          fwdA.style.fontWeight = 'bold';
+          fwdA.style.color = '#3390ec';
+          fwdLine.appendChild(fwdA);
+        } else {
+          const fwdSpan = document.createElement('span');
+          fwdSpan.textContent = fwdName;
+          fwdSpan.style.fontWeight = 'bold';
+          fwdSpan.style.color = '#3390ec';
+          fwdLine.appendChild(fwdSpan);
+        }
+        if (p.forward_date) {
+          const fdInline = document.createElement('span');
+          let fd = p.forward_date;
+          try {
+            const dt = new Date(fd);
+            if (!isNaN(dt.getTime())) {
+              fd = dt.toLocaleString('ru-RU', {
+                year: 'numeric', month: '2-digit', day: '2-digit',
+                hour: '2-digit', minute: '2-digit', second: '2-digit'
+              });
+            }
+          } catch(e){}
+          fdInline.textContent = ` (${fd})`;
+          fdInline.style.color = '#a8a8a8';
+          fdInline.style.fontSize = '11px';
+          fdInline.style.marginLeft = '6px';
+          fwdLine.appendChild(fdInline);
+        }
+        f.appendChild(fwdLine);
+        d.appendChild(f);
+      }
+
+      const bubble = document.createElement('div'); bubble.className='bubble';
+      bubble.innerHTML = escapeHtml(p.text || '');
+      d.appendChild(bubble);
+
+      if(p.media || (p.file_name && !isPlaceholder(p.file_name)) || (p.photo && !isPlaceholder(p.photo))){
+        const mediaWrap = document.createElement('div'); mediaWrap.className='media';
+        // Формируем список медиа по приоритету: file_name -> real_media_path -> media
+        let mediaList = [];
+        if (p && p.id === 2) console.log('DEBUG renderPost start id=2', p);
+        if (Array.isArray(p.file_name)) {
+          mediaList = p.file_name.filter(x=>!isPlaceholder(x));
+        } else if (typeof p.file_name === 'string' && p.file_name.trim() && !isPlaceholder(p.file_name)) {
+          mediaList = [p.file_name.trim()];
+        } else if (p.photo && typeof p.photo === 'string' && /\.[a-z0-9]{2,6}$/i.test(p.photo)) {
+          if(!isPlaceholder(p.photo)) mediaList = [p.photo.trim()];
+        } else if (Array.isArray(p.real_media_path)) {
+          mediaList = p.real_media_path.filter(x=>!isPlaceholder(x));
+        } else if (typeof p.real_media_path === 'string' && p.real_media_path.trim()) {
+          if(!isPlaceholder(p.real_media_path)) mediaList = [p.real_media_path.trim()];
+        } else if (p.media) {
+          if(!isPlaceholder(p.media)) mediaList = [p.media.trim()];
+        }
+        if (p && p.id === 2) console.log('DEBUG mediaList for id=2', mediaList);
+
+        for (const fname of mediaList) {
+          if(!fname) continue;
+            let localHref;
+            if (fname.includes('/')) {
+              // Если уже указан подкаталог (например, photos/abc.jpg)
+              localHref = 'media/' + fname;
+            } else if (isImage(fname)) {
+              localHref = 'media/photos/' + fname;
+            } else if (/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)) {
+              localHref = 'media/audio/' + fname;
+            } else if (/\.pdf$/i.test(fname)) {
+              localHref = 'media/files/' + fname;
+            } else {
+              localHref = 'media/files/' + fname;
+            }
+            // Видео — по API
+            if(/\.(mp4|webm|ogg)$/i.test(fname)) {
+              // Теперь все видео локальные
+              const video = document.createElement('video');
+              video.controls = true;
+              video.style.maxWidth = '100%';
+              video.style.borderRadius = '8px';
+              video.src = 'https://xn--228-5cdz7f.xn--p1ai/media/videos/' + fname;
+              mediaWrap.appendChild(video);
+            } else if(isImage(fname)) {
+              const img = document.createElement('img'); img.src = localHref; img.alt = fname;
+              mediaWrap.appendChild(img);
+            } else if(/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)) {
+              const audioContainer = document.createElement('div');
+              audioContainer.style.display = 'flex';
+              audioContainer.style.alignItems = 'center';
+              audioContainer.style.marginTop = '8px';
+              const audio = document.createElement('audio');
+              audio.src = localHref;
+              audio.controls = true;
+              audio.style.display = 'block';
+              audio.style.marginRight = '12px';
+              const fnameSpan = document.createElement('span');
+              fnameSpan.textContent = fname;
+              fnameSpan.style.fontSize = '13px';
+              fnameSpan.style.color = '#555';
+              fnameSpan.style.wordBreak = 'break-all';
+              audioContainer.appendChild(audio);
+              audioContainer.appendChild(fnameSpan);
+              mediaWrap.appendChild(audioContainer);
+            } else if(/\.pdf$/i.test(fname)) {
+              const pdfFrame = document.createElement('iframe');
+                pdfFrame.src = localHref + '#page=1&view=FitH';
+              pdfFrame.style.width = '100%';
+                pdfFrame.style.height = '700px';
+              pdfFrame.style.border = 'none';
+              pdfFrame.setAttribute('loading','lazy');
+              mediaWrap.appendChild(pdfFrame);
+              const a = document.createElement('a'); a.href = localHref; a.textContent = fname; a.target = '_blank';
+              a.style.display = 'block';
+              a.style.marginTop = '8px';
+              mediaWrap.appendChild(a);
+            } else {
+              const a = document.createElement('a'); a.href = localHref; a.textContent = fname; a.target = '_blank';
+              mediaWrap.appendChild(a);
+            }
+        }
+        d.appendChild(mediaWrap);
+      }
+
+      return d;
+    }
+
+    async function loadJson(){
+      try{
+        const resp = await fetch('channel.json');
+        if(!resp.ok) throw new Error('HTTP ' + resp.status);
+        const data = await resp.json();
+        // Поддерживаем оба формата: либо файл — массив сообщений, либо объект { messages: [...] }
+        if (Array.isArray(data)) {
+          posts = data;
+        } else if (data && Array.isArray(data.messages)) {
+          posts = data.messages;
+        } else {
+          posts = [];
+          throw new Error('channel.json has no messages array');
+        }
+      }catch(e){
+        document.getElementById('sentinel').textContent = 'Не удалось загрузить channel.json: ' + e.message;
+        console.error(e);
+      }
+    }
+
+    // --- Сохранение индекса последнего видимого поста ---
+function saveVisiblePostIndex() {
+  const postsEls = document.querySelectorAll('.post');
+  let idx = 0;
+  for(let i=0; i<postsEls.length; i++) {
+    const rect = postsEls[i].getBoundingClientRect();
+    if(rect.top >= 0 && rect.bottom <= window.innerHeight) {
+      idx = i;
+    }
+  }
+  localStorage.setItem('postIndex', idx);
+}
+window.addEventListener('scroll', saveVisiblePostIndex);
+
+function restorePostIndex() {
+  const n = +localStorage.getItem('postIndex');
+  if(n > 0) {
+    const postsEls = document.querySelectorAll('.post');
+    if(postsEls[n]) {
+      postsEls[n].scrollIntoView({behavior:'auto',block:'start'});
+    }
+  }
+}
+
+    function loadNext(){
+      if(index >= posts.length) {
+        document.getElementById('sentinel').textContent = 'Все посты загружены';
+        document.getElementById('status').textContent = 'Все посты загружены';
+        console.log('loadNext: nothing to load, index', index, 'posts.length', posts.length);
+        setTimeout(restorePostIndex, 200);
+        return;
+      }
+      const feed = document.getElementById('feed');
+      const to = Math.min(index + BATCH, posts.length);
+      try{console.log('loadNext start', {index, to, total: posts.length, ids: posts.slice(index,to).map(x=>x && x.id)})}catch(e){}
+      for(let i = index; i < to; i++){
+        const el = renderPost(posts[i]);
+        feed.appendChild(el);
+      }
+        // Инициализировать попапы для только что добавленных ссылок
+        try { if (typeof initTippy === 'function') initTippy(); }catch(e){}
+      index = to;
+      document.getElementById('count').textContent = index;
+      if(index >= posts.length){
+        document.getElementById('status').textContent = 'Все посты загружены';
+        setTimeout(restorePostIndex, 200);
+      }
+      try{console.log('loadNext done, new index', index)}catch(e){}
+      if(index >= posts.length){
+        document.getElementById('sentinel').textContent = 'Все посты загружены';
+        setTimeout(restorePostIndex, 200);
+      }
+    }
+
+    // IntersectionObserver для подгрузки
+    let loading = false;
+    const observer = new IntersectionObserver((entries)=>{
+      entries.forEach(ent=>{
+        if(ent.isIntersecting){
+          if(loading) return;
+          if(index >= posts.length) {
+            const s = document.getElementById('sentinel');
+            observer.unobserve(s);
+            s.textContent = 'Все посты загружены';
+            return;
+          }
+          loading = true;
+          try{
+            loadNext();
+          }catch(e){
+            console.error(e);
+          }
+          loading = false;
+        }
+      });
+    },{root:null,rootMargin:'0px',threshold:0.1});
+
+    (async function(){
+      await loadJson();
+      // Подгружаем пачки до нужного поста только после полной очистки ленты
+      const feed = document.getElementById('feed');
+      feed.innerHTML = '';
+      index = 0;
+      const n = +localStorage.getItem('postIndex');
+      let target = n > 0 ? n : 0;
+      while(index < posts.length && index < target + 1) {
+        loadNext();
+      }
+      // наблюдаем sentinel
+      const s = document.getElementById('sentinel');
+      observer.observe(s);
+      // --- Сохранение позиции скролла ---
+      window.addEventListener('scroll', function() {
+        localStorage.setItem('scrollY', window.scrollY);
+      });
+      function restoreScroll() {
+        const y = +localStorage.getItem('scrollY');
+        if (y > 0) {
+          window.scrollTo(0, y);
+        }
+      }
+      setTimeout(restoreScroll, 400);
+      setTimeout(restorePostIndex, 300);
+      // --- Рендерим до нужного поста по id из pathname ---
+      const pathMatch = window.location.pathname.match(/\/(\d+)$/);
+      const postId = pathMatch && pathMatch[1];
+      if (postId) {
+        feed.innerHTML = '';
+        index = 0;
+        let found = false;
+        for (; index < posts.length; index++) {
+          const el = renderPost(posts[index]);
+          feed.appendChild(el);
+          if (posts[index] && String(posts[index].id) === String(postId)) {
+            el.scrollIntoView({behavior:'auto', block:'start'});
+            found = true;
+            index++;
+            break;
+          }
+        }
+        document.getElementById('count').textContent = index;
+        if (found) {
+          // Подгружаем дальше обычными порциями
+          loadNext();
+        }
+      } else {
+        // Обычная логика восстановления позиции
+        feed.innerHTML = '';
+        index = 0;
+        const n = +localStorage.getItem('postIndex');
+        let target = n > 0 ? n : 0;
+        while(index < posts.length && index < target + 1) {
+          loadNext();
+        }
+      }
+    })();
+  </script>
+</body>
+</html>
