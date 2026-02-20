@@ -33,41 +33,43 @@
   padding: 20px 0;
 }
 
+/* --- Telegram bubble style --- */
 #feed {
   width: 100%;
-  max-width: 600px; /* Ширина как в десктопном ТГ */
+  max-width: 600px;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   gap: 8px;
 }
 
 .post {
-  }
-  .post-purple {
-    background: #b366ff !important;
-    color: #fff !important;
-    border: 1.5px solid #8133b8;
-  }
-  background: #f5f6fa; /* Более светлый фон поста для контраста */
+  display: inline-block;
+  min-width: 80px;
+  max-width: 100%;
+  width: auto;
+  background: #f5f6fa;
   border: 1px solid #e5e7eb;
   padding: 8px 12px;
   border-radius: 12px;
   box-shadow: 0 1px 2px rgba(0,0,0,0.03);
-  position: relative;
+  margin: 0 0 0 0;
+  word-break: break-word;
+  /* Telegram-like width: clamp(120px, content, 90%) */
+  width: fit-content;
   max-width: 90%;
-  align-self: flex-start;
-  margin: 0 10px;
+}
+.post-purple {
+  background: #b366ff !important;
+  color: #fff !important;
+  border: 1.5px solid #8133b8;
 }
 .post .meta span:last-child {
-  position: absolute;
-  top: 8px;
-  right: 16px;
   color: #a8a8a8;
   font-size: 11px;
-  margin: 0;
+  margin-left: auto;
   text-align: right;
   background: transparent;
-  z-index: 2;
 }
 
 /* Мета-данные (Имя отправителя и дата) */
