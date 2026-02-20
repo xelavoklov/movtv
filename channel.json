@@ -4324,84 +4324,6 @@
       "text_entities": []
     },
     {
-      "id": 241,
-      "type": "service",
-      "date": "2025-08-05T20:05:22",
-      "date_unixtime": "1754413522",
-      "actor": "xelavoklovlive",
-      "actor_id": "channel2387659347",
-      "action": "group_call",
-      "text": "",
-      "text_entities": []
-    },
-    {
-      "id": 244,
-      "type": "message",
-      "date": "2025-08-06T19:37:46",
-      "date_unixtime": "1754498266",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "text": [
-        "Microsoft обвинила хакеров ФСБ в атаках на иностранных дипломатов в России. Они используют интернет-провайдеров и выдают свои программы за антивирус «Касперского» — Meduza ",
-        {
-          "type": "link",
-          "text": "https://meduza.io/news/2025/08/01/microsoft-obvinila-hakerov-fsb-v-atakah-na-inostrannyh-diplomatov-v-rossii-oni-ispolzuyut-internet-provayderov-i-vydayut-svoi-programmy-za-antivirus-kasperskogo"
-        },
-        ""
-      ],
-      "text_entities": [
-        {
-          "type": "plain",
-          "text": "Microsoft обвинила хакеров ФСБ в атаках на иностранных дипломатов в России. Они используют интернет-провайдеров и выдают свои программы за антивирус «Касперского» — Meduza "
-        },
-        {
-          "type": "link",
-          "text": "https://meduza.io/news/2025/08/01/microsoft-obvinila-hakerov-fsb-v-atakah-na-inostrannyh-diplomatov-v-rossii-oni-ispolzuyut-internet-provayderov-i-vydayut-svoi-programmy-za-antivirus-kasperskogo"
-        },
-        {
-          "type": "plain",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "id": 245,
-      "type": "message",
-      "date": "2025-08-06T19:37:46",
-      "date_unixtime": "1754498266",
-      "edited": "2025-08-06T20:02:36",
-      "edited_unixtime": "1754499756",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "text": "кто такой Евгений Касперский?\n- Евгений Касперский выпускник института криптографии, связи и информатики (ИКСИ) при Высшей школе КГБ СССР на данный момент старший лейтенант запаса бизнесмен выпускает антивирус \nа кто мы?\n- тупые лохи которые и так всё знали и непонятно на что надеялись ещё деньги за это платили\nа и кудрявцев петух естественно",
-      "text_entities": [
-        {
-          "type": "plain",
-          "text": "кто такой Евгений Касперский?\n- Евгений Касперский выпускник института криптографии, связи и информатики (ИКСИ) при Высшей школе КГБ СССР на данный момент старший лейтенант запаса бизнесмен выпускает антивирус \nа кто мы?\n- тупые лохи которые и так всё знали и непонятно на что надеялись ещё деньги за это платили\nа и кудрявцев петух естественно"
-        }
-      ]
-    },
-    {
-      "id": 246,
-      "type": "message",
-      "date": "2025-08-15T18:31:12",
-      "date_unixtime": "1755271872",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "text": [
-        {
-          "type": "link",
-          "text": "https://github.com/D4n13l3k00/21/issues/1"
-        }
-      ],
-      "text_entities": [
-        {
-          "type": "link",
-          "text": "https://github.com/D4n13l3k00/21/issues/1"
-        }
-      ]
-    },
-    {
       "id": 249,
       "type": "message",
       "date": "2025-08-26T13:02:29",
@@ -4797,66 +4719,6 @@
       "text_entities": []
     },
     {
-      "id": 270,
-      "type": "message",
-      "date": "2025-09-24T19:51:24",
-      "date_unixtime": "1758732684",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "text": [
-        {
-          "type": "link",
-          "text": "https://movtv.fun/"
-        }
-      ],
-      "text_entities": [
-        {
-          "type": "link",
-          "text": "https://movtv.fun/"
-        }
-      ]
-    },
-    {
-      "id": 271,
-      "type": "message",
-      "date": "2025-09-24T22:22:46",
-      "date_unixtime": "1758741766",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "file": "(File not included. Change data exporting settings to download.)",
-      "file_name": "animation.gif.mp4",
-      "file_size": 96315,
-      "thumbnail": "(File not included. Change data exporting settings to download.)",
-      "thumbnail_file_size": 5504,
-      "media_type": "animation",
-      "mime_type": "video/mp4",
-      "duration_seconds": 6,
-      "width": 156,
-      "height": 320,
-      "text": "",
-      "text_entities": []
-    },
-    {
-      "id": 272,
-      "type": "message",
-      "date": "2025-09-25T11:09:44",
-      "date_unixtime": "1758787784",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "text": [
-        {
-          "type": "link",
-          "text": "https://t.me/xelavoklov/s/6"
-        }
-      ],
-      "text_entities": [
-        {
-          "type": "link",
-          "text": "https://t.me/xelavoklov/s/6"
-        }
-      ]
-    },
-    {
       "id": 273,
       "type": "message",
       "date": "2025-09-25T13:15:12",
@@ -4912,21 +4774,6 @@
       "mime_type": "application/pdf",
       "text": "Это тот же документ только уже подписанный я не помню конкретную причтну но не проходит короче подпись можете сами проверить",
       "text_entities": []
-    },
-    {
-      "id": 277,
-      "type": "message",
-      "date": "2025-10-06T09:06:54",
-      "date_unixtime": "1759730814",
-      "from": "xelavoklovlive",
-      "from_id": "2387659347",
-      "text": "согласен 8 лет это очень много",
-      "text_entities": [
-        {
-          "type": "plain",
-          "text": "согласен 8 лет это очень много"
-        }
-      ]
     }
   ]
 }
