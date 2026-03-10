@@ -426,17 +426,18 @@
         for (const fname of mediaList) {
           if(!fname) continue;
             let localHref;
+            const baseUrl = 'https://xelavoklov.github.io/movtv/media/';
             if (fname.includes('/')) {
               // Если уже указан подкаталог (например, photos/abc.jpg)
-              localHref = 'media/' + fname;
+              localHref = baseUrl + fname;
             } else if (isImage(fname)) {
-              localHref = 'media/photos/' + fname;
+              localHref = baseUrl + 'photos/' + fname;
             } else if (/\.(mp3|wav|ogg|m4a|oga)$/i.test(fname)) {
-              localHref = 'media/audio/' + fname;
+              localHref = baseUrl + 'audio/' + fname;
             } else if (/\.pdf$/i.test(fname)) {
-              localHref = 'media/files/' + fname;
+              localHref = baseUrl + 'files/' + fname;
             } else {
-              localHref = 'media/files/' + fname;
+              localHref = baseUrl + 'files/' + fname;
             }
             // Видео — по API
             if(/\.(mp4|webm|ogg)$/i.test(fname)) {
@@ -445,7 +446,7 @@
               video.controls = true;
               video.style.maxWidth = '100%';
               video.style.borderRadius = '8px';
-              video.src = 'https://xn--228-5cdz7f.xn--p1ai/media/videos/' + fname;
+              video.src = 'https://xelavoklov.github.io/movtv/media/videos/' + fname;
               mediaWrap.appendChild(video);
             } else if(isImage(fname)) {
               const img = document.createElement('img'); img.src = localHref; img.alt = fname;
