@@ -1,0 +1,115 @@
+.feed-hero,
+.post-hero {
+  padding: 20px;
+  border-radius: 20px;
+  color: #fff;
+  background:
+    radial-gradient(circle at top left, rgba(78, 129, 255, 0.35), transparent 36%),
+    linear-gradient(135deg, #1d2433 0%, #29344a 46%, #0f1117 100%);
+}
+
+.feed-hero__eyebrow,
+.post-hero__eyebrow {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.72;
+}
+
+.feed-hero__title,
+.post-hero__title {
+  margin-top: 10px;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: 700;
+}
+
+.feed-hero__text,
+.post-hero__text {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.45;
+  opacity: 0.92;
+}
+
+.feed-card {
+  overflow: hidden;
+}
+
+.feed-card__button {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  text-align: left;
+  color: inherit;
+  background: transparent;
+  cursor: pointer;
+}
+
+.feed-card__cover {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: #dfe6f1;
+}
+
+.feed-card__text {
+  display: -webkit-box;
+  overflow: hidden;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--vkui--color_text_primary);
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+}
+
+.feed-card__badge {
+  display: inline-flex;
+  margin-top: 14px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 13px;
+  background: var(--vkui--color_background_secondary_alpha);
+}
+
+.feed-footer {
+  color: var(--vkui--color_text_secondary);
+}
+
+.post-text {
+  white-space: pre-wrap;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+.post-media {
+  display: grid;
+  gap: 12px;
+}
+
+.post-media__image,
+.post-media__video {
+  display: block;
+  width: 100%;
+  border-radius: 16px;
+  background: #dfe6f1;
+}
+
+.post-media__file {
+  display: grid;
+  gap: 10px;
+  padding: 14px;
+  border-radius: 16px;
+  background: var(--vkui--color_background_secondary);
+}
+
+.post-media__label {
+  font-size: 13px;
+  color: var(--vkui--color_text_secondary);
+}
+
+.post-media__link {
+  color: var(--vkui--color_text_link);
+  text-decoration: none;
+}

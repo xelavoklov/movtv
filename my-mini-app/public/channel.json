@@ -1,0 +1,4779 @@
+{
+  "name": "xelavoklovlive",
+  "type": "public_channel",
+  "id": 2387659347,
+  "messages": [
+    {
+      "id": 2,
+      "type": "message",
+      "date": "2024-10-01T20:42:35",
+      "date_unixtime": "1727804555",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-01_17-42-35.jpg",
+      "photo_file_size": 61015,
+      "width": 830,
+      "height": 484,
+      "text": "Всем привет. Этот канал создан как площадка, где я открыто и последовательно выкладываю всю информацию, которой располагаю в отношении Павла Ивановича Кудрявцева, директора ООО „Фастек“. Здесь я фиксирую факты, документы, переписку и обстоятельства, которые напрямую затронули меня — Волкова Александра Вячеславовича — как его бывшего и фактического нынешнего подчинённого. Все материалы основаны на реальных данных, находящихся у меня на руках, и отражают ту картину происходящего, которую невозможно игнорировать. Я собираю и публикую всё, что проливает свет на действия и решения, повлиявшие на мою жизнь и работу. Этот канал — не эмоции, а систематизированные сведения, которые каждый может оценить самостоятельно.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Всем привет. Этот канал создан как площадка, где я открыто и последовательно выкладываю всю информацию, которой располагаю в отношении Павла Ивановича Кудрявцева, директора ООО „Фастек“. Здесь я фиксирую факты, документы, переписку и обстоятельства, которые напрямую затронули меня — Волкова Александра Вячеславовича — как его бывшего и фактического нынешнего подчинённого. Все материалы основаны на реальных данных, находящихся у меня на руках, и отражают ту картину происходящего, которую невозможно игнорировать. Я собираю и публикую всё, что проливает свет на действия и решения, повлиявшие на мою жизнь и работу. Этот канал — не эмоции, а систематизированные сведения, которые каждый может оценить самостоятельно."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "type": "message",
+      "date": "2024-10-01T20:55:30",
+      "date_unixtime": "1727805330",
+      "edited": "2024-10-04T09:46:34",
+      "edited_unixtime": "1728024394",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Для меня всё началось 18 марта 2019 года, когда во время моей работы в ООО „Фастек“ ко мне прямо среди рабочего дня подошли сотрудники управления по контролю за оборотом наркотиков, провели разговор и отпустили, однако уже 5 апреля того же года ситуация повторилась — на остановке ко мне подошли представители следственного комитета, также пообщались, отпустили и даже оставили номер телефона +7 967 472‑88‑20, представившись Ромой, майором.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Для меня всё началось 18 марта 2019 года, когда во время моей работы в ООО „Фастек“ ко мне прямо среди рабочего дня подошли сотрудники управления по контролю за оборотом наркотиков, провели разговор и отпустили, однако уже 5 апреля того же года ситуация повторилась — на остановке ко мне подошли представители следственного комитета, также пообщались, отпустили и даже оставили номер телефона +7 967 472‑88‑20, представившись Ромой, майором."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "type": "message",
+      "date": "2024-10-01T21:08:32",
+      "date_unixtime": "1727806112",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "После долгих размышлений — а если честно, мне просто прямо намекнули — я, от злости и тупости, начал в ответ троллить Кудрявцева, и дальше идёт наша переписка с ним за период с 9 апреля по 27 мая 2019 года.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "После долгих размышлений — а если честно, мне просто прямо намекнули — я, от злости и тупости, начал в ответ троллить Кудрявцева, и дальше идёт наша переписка с ним за период с 9 апреля по 27 мая 2019 года."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Павел Иванович, как будет время, сообщите пожалуйста, я подойду",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Павел Иванович, как будет время, сообщите пожалуйста, я подойду"
+        }
+      ],
+      "forward_date": "2019-04-09T10:03:31"
+    },
+    {
+      "id": 6,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "угу",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "угу"
+        }
+      ],
+      "forward_date": "2019-04-09T10:16:42"
+    },
+    {
+      "id": 7,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "освободился",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "освободился"
+        }
+      ],
+      "forward_date": "2019-04-09T10:26:38"
+    },
+    {
+      "id": 8,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Павел Иванович, заранее извините за не скромный вопрос да и самому стыдно, можете денег занять?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Павел Иванович, заранее извините за не скромный вопрос да и самому стыдно, можете денег занять?"
+        }
+      ],
+      "forward_date": "2019-04-29T11:09:29"
+    },
+    {
+      "id": 9,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "можете Павел Иванович?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "можете Павел Иванович?"
+        }
+      ],
+      "forward_date": "2019-04-29T12:47:52"
+    },
+    {
+      "id": 10,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Видишь ли, Саш\nтеоретически то я могу, да\nно не считаю это правильным\nу меня почему то с тобой, как с сотрудником, наибольшее количество проблем\nне хочется добавлять ещё одну",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Видишь ли, Саш\nтеоретически то я могу, да\nно не считаю это правильным\nу меня почему то с тобой, как с сотрудником, наибольшее количество проблем\nне хочется добавлять ещё одну"
+        }
+      ],
+      "forward_date": "2019-04-29T13:51:12"
+    },
+    {
+      "id": 11,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Нет у меня проблем",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Нет у меня проблем"
+        }
+      ],
+      "forward_date": "2019-04-29T15:00:40"
+    },
+    {
+      "id": 12,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Павел Иванович, увеличьте пожалуйста мне зарплату. Я как никак сделал валидную подпись смев3 алгоритмом ГОСТ 2012. Может я и самый проблемный, зато самый талантливый",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Павел Иванович, увеличьте пожалуйста мне зарплату. Я как никак сделал валидную подпись смев3 алгоритмом ГОСТ 2012. Может я и самый проблемный, зато самый талантливый"
+        }
+      ],
+      "forward_date": "2019-05-24T12:15:20"
+    },
+    {
+      "id": 13,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Саш, у нас, насколько я знаю, все выполняют какие-то задачи\n\nкто-то побыстрее - тот зарабатывает больше\nкто-то помедленнее - тот меньше\nнадеюсь, что у нас нет таких людей, которые получают зарплату за факт своего присутствия\nпоэтому размер зарплаты зависит от скорости/качества написания кода\n\nтак вот, твой уровень зарплаты сильно превышает количество/качества/сложности решённых задач относительно других разработчиков\nещё раз скажу, что для тебя повысить уровень заработной платы реально сменой места работы",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Саш, у нас, насколько я знаю, все выполняют какие-то задачи\n\nкто-то побыстрее - тот зарабатывает больше\nкто-то помедленнее - тот меньше\nнадеюсь, что у нас нет таких людей, которые получают зарплату за факт своего присутствия\nпоэтому размер зарплаты зависит от скорости/качества написания кода\n\nтак вот, твой уровень зарплаты сильно превышает количество/качества/сложности решённых задач относительно других разработчиков\nещё раз скажу, что для тебя повысить уровень заработной платы реально сменой места работы"
+        }
+      ],
+      "forward_date": "2019-05-24T12:51:05"
+    },
+    {
+      "id": 14,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Да на этом заработаете",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да на этом заработаете"
+        }
+      ],
+      "forward_date": "2019-05-24T12:51:45"
+    },
+    {
+      "id": 15,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "ну если ты знаешь как заработать, то для тебя было бы эффективнее открыть собственную компанию\nтам размер заработка неограничен\nно это не точно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ну если ты знаешь как заработать, то для тебя было бы эффективнее открыть собственную компанию\nтам размер заработка неограничен\nно это не точно"
+        }
+      ],
+      "forward_date": "2019-05-24T12:52:55"
+    },
+    {
+      "id": 16,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Можете у Насти урезать",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Можете у Насти урезать"
+        }
+      ],
+      "forward_date": "2019-05-24T12:53:15"
+    },
+    {
+      "id": 17,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "тот же совет\nбудешь устанавливать уровень зарплаты своих сотрудников по своему желанию",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "тот же совет\nбудешь устанавливать уровень зарплаты своих сотрудников по своему желанию"
+        }
+      ],
+      "forward_date": "2019-05-24T12:53:42"
+    },
+    {
+      "id": 18,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Я честный",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я честный"
+        }
+      ],
+      "forward_date": "2019-05-24T12:54:03"
+    },
+    {
+      "id": 19,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "и компания будет самая честная и успешная",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "и компания будет самая честная и успешная"
+        }
+      ],
+      "forward_date": "2019-05-24T12:54:17"
+    },
+    {
+      "id": 20,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ну так деньги нужны на компанию",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну так деньги нужны на компанию"
+        }
+      ],
+      "forward_date": "2019-05-24T12:54:56"
+    },
+    {
+      "id": 21,
+      "type": "message",
+      "date": "2024-10-01T21:10:12",
+      "date_unixtime": "1727806212",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "у меня их не было на старте\nсначала один программил, потом начал нанимать сотрудников потихоньку",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "у меня их не было на старте\nсначала один программил, потом начал нанимать сотрудников потихоньку"
+        }
+      ],
+      "forward_date": "2019-05-24T12:55:43"
+    },
+    {
+      "id": 22,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "В любом случае я достоин большего и вы это знаете",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В любом случае я достоин большего и вы это знаете"
+        }
+      ],
+      "forward_date": "2019-05-24T12:56:52"
+    },
+    {
+      "id": 23,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "так ещё раз - это же легко доказуемо\nты открываешь компанию и зарабатываешь существенно больше, чем сейчас",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "так ещё раз - это же легко доказуемо\nты открываешь компанию и зарабатываешь существенно больше, чем сейчас"
+        }
+      ],
+      "forward_date": "2019-05-24T12:57:38"
+    },
+    {
+      "id": 24,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Я сейчас должен больше зарабатывать",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я сейчас должен больше зарабатывать"
+        }
+      ],
+      "forward_date": "2019-05-24T12:58:13"
+    },
+    {
+      "id": 25,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Настя только в зеркало и телефон смотрела давай не будем",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Настя только в зеркало и телефон смотрела давай не будем"
+        }
+      ],
+      "forward_date": "2019-05-24T12:58:39"
+    },
+    {
+      "id": 26,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Давайте",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Давайте"
+        }
+      ],
+      "forward_date": "2019-05-24T12:58:50"
+    },
+    {
+      "id": 27,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Извините",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Извините"
+        }
+      ],
+      "forward_date": "2019-05-24T12:58:54"
+    },
+    {
+      "id": 28,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Т9",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Т9"
+        }
+      ],
+      "forward_date": "2019-05-24T12:58:56"
+    },
+    {
+      "id": 29,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "И вы ей платили",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "И вы ей платили"
+        }
+      ],
+      "forward_date": "2019-05-24T12:59:07"
+    },
+    {
+      "id": 30,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "ну слушай, если твоя уверенность небезосновательна, и причиной низкой зарплаты являюсь я один, то в соседней компании ты легко докажешь как я ошибался",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ну слушай, если твоя уверенность небезосновательна, и причиной низкой зарплаты являюсь я один, то в соседней компании ты легко докажешь как я ошибался"
+        }
+      ],
+      "forward_date": "2019-05-24T12:59:31"
+    },
+    {
+      "id": 31,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Я не могу уйти без своего",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я не могу уйти без своего"
+        }
+      ],
+      "forward_date": "2019-05-24T12:59:58"
+    },
+    {
+      "id": 32,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Т.к честный",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Т.к честный"
+        }
+      ],
+      "forward_date": "2019-05-24T13:01:23"
+    },
+    {
+      "id": 33,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "я сейчас запросил статистику твоих входов-выходов на проходной\nэто ни разу не показатель качества твоей работы, но показатель исполнения трудовой дисциплины\nнадеюсь там подтвердится, что ты честный и согласно трудовому договору отрабатывал по 8 часов",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "я сейчас запросил статистику твоих входов-выходов на проходной\nэто ни разу не показатель качества твоей работы, но показатель исполнения трудовой дисциплины\nнадеюсь там подтвердится, что ты честный и согласно трудовому договору отрабатывал по 8 часов"
+        }
+      ],
+      "forward_date": "2019-05-24T13:01:40"
+    },
+    {
+      "id": 34,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ну вы же знаете что даже эта разработа много вам принесет",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну вы же знаете что даже эта разработа много вам принесет"
+        }
+      ],
+      "forward_date": "2019-05-24T13:02:30"
+    },
+    {
+      "id": 35,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Это мой стиль",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Это мой стиль"
+        }
+      ],
+      "forward_date": "2019-05-24T13:02:53"
+    },
+    {
+      "id": 36,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Хотите чтобы я вам в ноги кланялся? Скажите, буду",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Хотите чтобы я вам в ноги кланялся? Скажите, буду"
+        }
+      ],
+      "forward_date": "2019-05-24T13:03:44"
+    },
+    {
+      "id": 37,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Ну приведи расчёт то..\nэта разработка - один из винтиков большой системы\nЯ не говорю, что он не важный, но тем не менее\nИ я не уверен, что другой разработчик сделал бы этот винтик медленнее, чем ты",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну приведи расчёт то..\nэта разработка - один из винтиков большой системы\nЯ не говорю, что он не важный, но тем не менее\nИ я не уверен, что другой разработчик сделал бы этот винтик медленнее, чем ты"
+        }
+      ],
+      "forward_date": "2019-05-24T13:04:05"
+    },
+    {
+      "id": 38,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "reply_to_message_id": 36,
+      "text": "никто из зарабатывающих больше тебя не кланяется\nты меня не слышишь\nзарплата зависит только от объёма/сложности/качества кода",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "никто из зарабатывающих больше тебя не кланяется\nты меня не слышишь\nзарплата зависит только от объёма/сложности/качества кода"
+        }
+      ],
+      "forward_date": "2019-05-24T13:04:33"
+    },
+    {
+      "id": 39,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "никто не приходит ко мне с вопросом - я написал фичу, вы на ней много заработаете, повысьте мне зарплату\nэто какой то твой фирменный стиль\nи он не работает",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "никто не приходит ко мне с вопросом - я написал фичу, вы на ней много заработаете, повысьте мне зарплату\nэто какой то твой фирменный стиль\nи он не работает"
+        }
+      ],
+      "forward_date": "2019-05-24T13:05:03"
+    },
+    {
+      "id": 40,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Могу приходить к 8 и тупо втыкать в монитор 8 часов",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Могу приходить к 8 и тупо втыкать в монитор 8 часов"
+        }
+      ],
+      "forward_date": "2019-05-24T13:05:05"
+    },
+    {
+      "id": 41,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Я делаю реальные вещи",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я делаю реальные вещи"
+        }
+      ],
+      "forward_date": "2019-05-24T13:05:48"
+    },
+    {
+      "id": 42,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "если почитать трудовой договор, то там написано, что сотрудник выполняет поручения\nневыполнение трудового договора - это прямой путь к увольнению",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "если почитать трудовой договор, то там написано, что сотрудник выполняет поручения\nневыполнение трудового договора - это прямой путь к увольнению"
+        }
+      ],
+      "forward_date": "2019-05-24T13:06:20"
+    },
+    {
+      "id": 43,
+      "type": "message",
+      "date": "2024-10-01T21:10:13",
+      "date_unixtime": "1727806213",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Павел Иванович извините, давайте закончим. Ну серьезно ну не я же это все начал.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Павел Иванович извините, давайте закончим. Ну серьезно ну не я же это все начал."
+        }
+      ],
+      "forward_date": "2019-05-24T13:26:21"
+    },
+    {
+      "id": 44,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Саш, ты белый и пушистый, способный и производительный\nя эти качества оцениваю в гораздо меньшую сумму, чем ты сейчас зарабатываешь\nпоэтому давай действительно на этом закончим",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Саш, ты белый и пушистый, способный и производительный\nя эти качества оцениваю в гораздо меньшую сумму, чем ты сейчас зарабатываешь\nпоэтому давай действительно на этом закончим"
+        }
+      ],
+      "forward_date": "2019-05-24T13:27:32"
+    },
+    {
+      "id": 45,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Волков 1.xls",
+      "file_size": 90624,
+      "mime_type": "application/vnd.ms-excel",
+      "text": "Ну чтож, честный человек\nобъясни твоё не соблюдение условий трудового договора?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну чтож, честный человек\nобъясни твоё не соблюдение условий трудового договора?"
+        }
+      ],
+      "forward_date": "2019-05-27T14:44:41"
+    },
+    {
+      "id": 46,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "что мне сделать чотбы вы меня простили? могу выходить по выходным",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "что мне сделать чотбы вы меня простили? могу выходить по выходным"
+        }
+      ],
+      "forward_date": "2019-05-27T14:46:25"
+    },
+    {
+      "id": 47,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "я всё же настоятельно тебе рекомендую поискать другую работу",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "я всё же настоятельно тебе рекомендую поискать другую работу"
+        }
+      ],
+      "forward_date": "2019-05-27T14:46:47"
+    },
+    {
+      "id": 48,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ясно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ясно"
+        }
+      ],
+      "forward_date": "2019-05-27T14:47:23"
+    },
+    {
+      "id": 49,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "трудишься, стараешься... а когда цель достигнута выбрасывают как расходный материал",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "трудишься, стараешься... а когда цель достигнута выбрасывают как расходный материал"
+        }
+      ],
+      "forward_date": "2019-05-27T14:50:04"
+    },
+    {
+      "id": 50,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Саш, не надо испытывать мои нервы",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Саш, не надо испытывать мои нервы"
+        }
+      ],
+      "forward_date": "2019-05-27T14:50:59"
+    },
+    {
+      "id": 51,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ну хоть выходное дайте тогда за подпись",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ну хоть выходное дайте тогда за подпись"
+        }
+      ],
+      "forward_date": "2019-05-27T14:51:34"
+    },
+    {
+      "id": 52,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "всё по честному же",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "всё по честному же"
+        }
+      ],
+      "forward_date": "2019-05-27T14:51:43"
+    },
+    {
+      "id": 53,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "я тебя по статье уволю, если по честному хочешь",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "я тебя по статье уволю, если по честному хочешь"
+        }
+      ],
+      "forward_date": "2019-05-27T14:51:55"
+    },
+    {
+      "id": 54,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "я тут просто так перед тобой распинаюсь чтоли? ты пытаешься хоть что-то извлечь из моих слов?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "я тут просто так перед тобой распинаюсь чтоли? ты пытаешься хоть что-то извлечь из моих слов?"
+        }
+      ],
+      "forward_date": "2019-05-27T14:52:25"
+    },
+    {
+      "id": 55,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "попробуй почитать и понять, что я тебе пишу",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "попробуй почитать и понять, что я тебе пишу"
+        }
+      ],
+      "forward_date": "2019-05-27T14:52:36"
+    },
+    {
+      "id": 56,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "мне в любом случае нужно посоветоваться",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "мне в любом случае нужно посоветоваться"
+        }
+      ],
+      "forward_date": "2019-05-27T14:53:17"
+    },
+    {
+      "id": 57,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "и да, если бы я был настроен персонально против твоей личности, я бы не глядя уволил тебя\nа я тут няньчусь с тобой, что-то пытаюсь до тебя донести",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "и да, если бы я был настроен персонально против твоей личности, я бы не глядя уволил тебя\nа я тут няньчусь с тобой, что-то пытаюсь до тебя донести"
+        }
+      ],
+      "forward_date": "2019-05-27T14:53:36"
+    },
+    {
+      "id": 58,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "хорошо, что мне нужно сделать?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "хорошо, что мне нужно сделать?"
+        }
+      ],
+      "forward_date": "2019-05-27T14:54:04"
+    },
+    {
+      "id": 59,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "работу искать",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "работу искать"
+        }
+      ],
+      "forward_date": "2019-05-27T14:54:11"
+    },
+    {
+      "id": 60,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "и потом увольняться, я серьезно не разбираюсь в этих вопросах",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "и потом увольняться, я серьезно не разбираюсь в этих вопросах"
+        }
+      ],
+      "forward_date": "2019-05-27T14:54:54"
+    },
+    {
+      "id": 61,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "либо ты продолжаешь делать поставленные задачи, ищешь работу и как найдёшь увольняешься\nлибо, если ты больше не намерен писать, то можешь сразу заявление писать",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "либо ты продолжаешь делать поставленные задачи, ищешь работу и как найдёшь увольняешься\nлибо, если ты больше не намерен писать, то можешь сразу заявление писать"
+        }
+      ],
+      "forward_date": "2019-05-27T14:55:49"
+    },
+    {
+      "id": 62,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "давайте начну искать работу, пока продолжу делать задачи",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "давайте начну искать работу, пока продолжу делать задачи"
+        }
+      ],
+      "forward_date": "2019-05-27T14:56:52"
+    },
+    {
+      "id": 63,
+      "type": "message",
+      "date": "2024-10-01T21:10:14",
+      "date_unixtime": "1727806214",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "давай",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "давай"
+        }
+      ],
+      "forward_date": "2019-05-27T14:57:00"
+    },
+    {
+      "id": 64,
+      "type": "message",
+      "date": "2024-10-01T21:15:50",
+      "date_unixtime": "1727806550",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "а с 28 мая того же 2019 я вообще перестал ходить на работу",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "а с 28 мая того же 2019 я вообще перестал ходить на работу"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "type": "message",
+      "date": "2024-10-01T21:15:50",
+      "date_unixtime": "1727806550",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Привет\nА не подскажешь, с чем связано твоё отсутствие?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Привет\nА не подскажешь, с чем связано твоё отсутствие?"
+        }
+      ],
+      "forward_date": "2019-05-28T14:27:30"
+    },
+    {
+      "id": 66,
+      "type": "message",
+      "date": "2024-10-01T21:15:50",
+      "date_unixtime": "1727806550",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "Але, гараж",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Але, гараж"
+        }
+      ],
+      "forward_date": "2019-05-29T13:18:16"
+    },
+    {
+      "id": 67,
+      "type": "message",
+      "date": "2024-10-01T21:17:00",
+      "date_unixtime": "1727806620",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-01_18-17-00.jpg",
+      "photo_file_size": 174733,
+      "width": 960,
+      "height": 1280,
+      "text": "В итоге 3-го июня 2019 написал объяснительную и вроде на следующий день уволился",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В итоге 3-го июня 2019 написал объяснительную и вроде на следующий день уволился"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "type": "message",
+      "date": "2024-10-01T21:27:22",
+      "date_unixtime": "1727807242",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Я сразу начал искать работу, но особо не шло: сходил на несколько собеседований, везде оказывался “не тем”, и так продолжалось до середины июля 2019 года, пока в компании „Алькона“ мне наконец не дали задание, которое я выполнил, а 18 июля пришёл на собеседование, где разговор, разумеется, снова свёлся к Кудрявцеву, и мне тогда было абсолютно без разницы, причастен он ко всему этому или нет — и вот наши последние на сегодняшний день сообщения с ним.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я сразу начал искать работу, но особо не шло: сходил на несколько собеседований, везде оказывался “не тем”, и так продолжалось до середины июля 2019 года, пока в компании „Алькона“ мне наконец не дали задание, которое я выполнил, а 18 июля пришёл на собеседование, где разговор, разумеется, снова свёлся к Кудрявцеву, и мне тогда было абсолютно без разницы, причастен он ко всему этому или нет — и вот наши последние на сегодняшний день сообщения с ним."
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "type": "message",
+      "date": "2024-10-01T21:27:37",
+      "date_unixtime": "1727807257",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Гараж, будешь про меня чето кукарекать не по делу подам на тебя в суд",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Гараж, будешь про меня чето кукарекать не по делу подам на тебя в суд"
+        }
+      ],
+      "forward_date": "2019-07-18T14:55:52"
+    },
+    {
+      "id": 70,
+      "type": "message",
+      "date": "2024-10-01T21:27:37",
+      "date_unixtime": "1727807257",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Понял?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Понял?"
+        }
+      ],
+      "forward_date": "2019-07-18T14:56:03"
+    },
+    {
+      "id": 71,
+      "type": "message",
+      "date": "2024-10-01T21:27:37",
+      "date_unixtime": "1727807257",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Кудрявцев",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "169517314",
+      "text": "You are wellcome!",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "You are wellcome!"
+        }
+      ],
+      "forward_date": "2019-07-18T14:56:30"
+    },
+    {
+      "id": 72,
+      "type": "message",
+      "date": "2024-10-01T21:27:37",
+      "date_unixtime": "1727807257",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ясно не умеешь ты по-другому)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ясно не умеешь ты по-другому)"
+        }
+      ],
+      "forward_date": "2019-07-18T14:57:09"
+    },
+    {
+      "id": 73,
+      "type": "message",
+      "date": "2024-10-01T21:27:37",
+      "date_unixtime": "1727807257",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Хотя чёрт с тобой кукарекай",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Хотя чёрт с тобой кукарекай"
+        }
+      ],
+      "forward_date": "2019-07-18T14:57:48"
+    },
+    {
+      "id": 74,
+      "type": "message",
+      "date": "2024-10-01T21:27:37",
+      "date_unixtime": "1727807257",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ты сам знаешь как в госсекторе любят шум",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ты сам знаешь как в госсекторе любят шум"
+        }
+      ],
+      "forward_date": "2019-07-18T15:13:11"
+    },
+    {
+      "id": 75,
+      "type": "message",
+      "date": "2024-10-01T21:46:36",
+      "date_unixtime": "1727808396",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "5 августа 2019 года, когда отец уехал на север, а мать — в деревню в Ульяновской области, в соседнюю квартиру №17 пришла тётя Сорокина Людмила, они с бабушкой что‑то приготовили — какую‑то картошку с добавками — я поел, поехал в бассейн и прямо в душевой мне стало настолько плохо, что я рухнул на пол, в глазах потемнело и на секунду реально подумал, что это конец, но через пару минут смог собраться и доползти до туалета.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "5 августа 2019 года, когда отец уехал на север, а мать — в деревню в Ульяновской области, в соседнюю квартиру №17 пришла тётя Сорокина Людмила, они с бабушкой что‑то приготовили — какую‑то картошку с добавками — я поел, поехал в бассейн и прямо в душевой мне стало настолько плохо, что я рухнул на пол, в глазах потемнело и на секунду реально подумал, что это конец, но через пару минут смог собраться и доползти до туалета."
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "type": "message",
+      "date": "2024-10-01T21:52:57",
+      "date_unixtime": "1727808777",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-01_18-52-57.jpg",
+      "photo_file_size": 79496,
+      "width": 576,
+      "height": 1280,
+      "text": "Конечно, у меня даже мысли не было, что меня могли намеренно травануть, но игнорировать изменения вокруг уже было невозможно, и 25 октября 2019 года меня будто молнией ударило — я понял, что все эти сообщения пишет один и тот же человек, и 26 октября пошёл в 5‑й отдел полиции, где написал заявление на тётю и Кудрявцева, попросив проверить её звонки за тот день, но через пару недель забрал заявление, потому что сомнения всё равно оставались и, типа, родственница.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Конечно, у меня даже мысли не было, что меня могли намеренно травануть, но игнорировать изменения вокруг уже было невозможно, и 25 октября 2019 года меня будто молнией ударило — я понял, что все эти сообщения пишет один и тот же человек, и 26 октября пошёл в 5‑й отдел полиции, где написал заявление на тётю и Кудрявцева, попросив проверить её звонки за тот день, но через пару недель забрал заявление, потому что сомнения всё равно оставались и, типа, родственница."
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Но вот 21 ноября Паша Алехин пишет мне следующее, если вчитаетесь то поймете что я тогда уже всё понимал",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Но вот 21 ноября Паша Алехин пишет мне следующее, если вчитаетесь то поймете что я тогда уже всё понимал"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Саня, ты счастливчик",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Саня, ты счастливчик"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Джокер в качестве вышел",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Джокер в качестве вышел"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "я принципиально не буду его смотреть",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "я принципиально не буду его смотреть"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:24:00"
+    },
+    {
+      "id": 81,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Ты ебанутый?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ты ебанутый?"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:27:21"
+    },
+    {
+      "id": 82,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ну как бы да",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ну как бы да"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:28:54"
+    },
+    {
+      "id": 83,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Я его пересматривать буду",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я его пересматривать буду"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:31:12"
+    },
+    {
+      "id": 84,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Ещё пару раз наверное",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ещё пару раз наверное"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:34:15"
+    },
+    {
+      "id": 85,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "это тож погятно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "это тож погятно"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:37:53"
+    },
+    {
+      "id": 86,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Бля, ты там вообще все мозги скурил?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Бля, ты там вообще все мозги скурил?"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:39:05"
+    },
+    {
+      "id": 87,
+      "type": "message",
+      "date": "2024-10-01T22:01:01",
+      "date_unixtime": "1727809261",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "у меня ты есть че переживать то об этом",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "у меня ты есть че переживать то об этом"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:41:31"
+    },
+    {
+      "id": 88,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Че?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Че?"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:44:00"
+    },
+    {
+      "id": 89,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ты же не куришь и не скуришь значит",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ты же не куришь и не скуришь значит"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:45:36"
+    },
+    {
+      "id": 90,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "логика еб",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "логика еб"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:47:04"
+    },
+    {
+      "id": 91,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Ну так то да",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну так то да"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:50:30"
+    },
+    {
+      "id": 92,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Но бля, это же джокер",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Но бля, это же джокер"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:52:15"
+    },
+    {
+      "id": 93,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Как ты можешь держаться?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Как ты можешь держаться?"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:56:04"
+    },
+    {
+      "id": 94,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Павел Алехин",
+      "forwarded_from_name": "paulalekhin",
+      "forwarded_from_id": "174188214",
+      "text": "Я наверное даже в оригинале буду его смотреть",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я наверное даже в оригинале буду его смотреть"
+        }
+      ],
+      "forwarded_date": "2020-11-21T11:57:13"
+    },
+    {
+      "id": 95,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "как от дрочки держусь постоянно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "как от дрочки держусь постоянно"
+        }
+      ],
+      "forwarded_date": "2020-11-21T12:01:01"
+    },
+    {
+      "id": 96,
+      "type": "message",
+      "date": "2024-10-01T22:01:02",
+      "date_unixtime": "1727809262",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "закалка еб",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "закалка еб"
+        }
+      ],
+      "forwarded_date": "2020-11-21T12:05:00"
+    },
+    {
+      "id": 97,
+      "type": "message",
+      "date": "2024-10-01T22:04:12",
+      "date_unixtime": "1727809452",
+      "edited": "2024-10-04T10:20:10",
+      "edited_unixtime": "1728026410",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Вроде ничего такого да? Да только как он собрался смотреть Джокера в оригинале если он элементарно не знает английский т.к. учил немецкий, я даже не говорю насколько надменным стал стиль его письма",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Вроде ничего такого да? Да только как он собрался смотреть Джокера в оригинале если он элементарно не знает английский т.к. учил немецкий, я даже не говорю насколько надменным стал стиль его письма"
+        }
+      ],
+      "forwarded_date": "2020-11-21T12:06:12"
+    },
+    {
+      "id": 98,
+      "type": "message",
+      "date": "2024-10-01T22:06:38",
+      "date_unixtime": "1727809598",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-01_19-06-38.jpg",
+      "photo_file_size": 149680,
+      "width": 960,
+      "height": 1280,
+      "text": "Кудрявцев становился всё наглее, втягивая всё больше людей в свою компанию, и 9 февраля 2020 года я не выдержал и снова подал заявление в тот же 5‑й отдел полиции с просьбой проверить совпадения IP‑адресов за период с сентября по декабрь между его страницей https://vk.com/id45807189  и вот этими аккаунтами: https://vk.com/id2732917,  https://vk.com/id14222545,  https://vk.com/id6882548. . Ответа я так и не получил и в итоге оставил ситуацию как есть.",
+      "forwarded_date": "2020-11-21T12:10:06"
+    },
+    {
+      "id": 99,
+      "type": "message",
+      "date": "2024-10-02T04:45:25",
+      "date_unixtime": "1727833525",
+      "edited": "2024-10-02T04:47:56",
+      "edited_unixtime": "1727833676",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_01-45-25.jpg",
+      "photo_file_size": 157673,
+      "width": 960,
+      "height": 1280,
+      "text": "Он продолжал писать мне с разных аккаунтов, включая те, что я уже упоминал, позже к этому подключили и Кононова, но всё это меня уже почти не задевало; при этом было очевидно, что цель всего происходящего — максимально выбить меня из равновесия, и долго они не сидели на месте: 11 мая 2020 года на улице ко мне обратился мужчина, крикнув “подойди”, я подошёл, он спросил: “ты думаешь, ты из протезов, что ли?”, я переспросил, он попросил дать руку “посмотреть”, я уточнил зачем, он настоял, я протянул ладонь, он посмотрел на неё как гадалка, покачал головой, сказал “извини” и ушёл; два дня я не мог понять, что это было, пока не вспомнил, что это был лейтенант, который принимал у меня заявление в феврале; сейчас я не считаю, что он действовал по чьей‑то инициативе, но тогда мне это показалось именно так, и, вспомнив февральское заявление, 15 мая того же года я написал новое — эмоциональное, растерянное, в попытке понять, что вообще происходит.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Он продолжал писать мне с разных аккаунтов, включая те, что я уже упоминал, позже к этому подключили и Кононова, но всё это меня уже почти не задевало; при этом было очевидно, что цель всего происходящего — максимально выбить меня из равновесия, и долго они не сидели на месте: 11 мая 2020 года на улице ко мне обратился мужчина, крикнув “подойди”, я подошёл, он спросил: “ты думаешь, ты из протезов, что ли?”, я переспросил, он попросил дать руку “посмотреть”, я уточнил зачем, он настоял, я протянул ладонь, он посмотрел на неё как гадалка, покачал головой, сказал “извини” и ушёл; два дня я не мог понять, что это было, пока не вспомнил, что это был лейтенант, который принимал у меня заявление в феврале; сейчас я не считаю, что он действовал по чьей‑то инициативе, но тогда мне это показалось именно так, и, вспомнив февральское заявление, 15 мая того же года я написал новое — эмоциональное, растерянное, в попытке понять, что вообще происходит."
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "type": "message",
+      "date": "2024-10-02T05:04:20",
+      "date_unixtime": "1727834660",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_02-04-20.jpg",
+      "photo_file_size": 90229,
+      "width": 750,
+      "height": 1025,
+      "text": "Сначала они прислали мне стандартный формальный ответ, который по опыту ясно показывает, что реальной помощи от них ждать не приходится.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Сначала они прислали мне стандартный формальный ответ, который по опыту ясно показывает, что реальной помощи от них ждать не приходится."
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "type": "message",
+      "date": "2024-10-02T05:12:34",
+      "date_unixtime": "1727835154",
+      "edited": "2024-10-02T05:31:38",
+      "edited_unixtime": "1727836298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_02-12-34.jpg",
+      "photo_file_size": 140125,
+      "width": 724,
+      "height": 803,
+      "text": "Позже Акимов А.А. прислал мне ответ уже в бумажном виде, но все документы у меня исчезли после первой госпитализации; суть была проста — нарушений в действиях сотрудника не выявлено, а действия Кудрявцева, на которого я жалуюсь, преступлением не считаются, а моё заявление перенаправлено в 4‑й отдел полиции. 25 мая я написал возражение, и чуть позже в тот же день впервые увидел за окном коптер, тогда не придав этому никакого значения.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Позже Акимов А.А. прислал мне ответ уже в бумажном виде, но все документы у меня исчезли после первой госпитализации; суть была проста — нарушений в действиях сотрудника не выявлено, а действия Кудрявцева, на которого я жалуюсь, преступлением не считаются, а моё заявление перенаправлено в 4‑й отдел полиции. 25 мая я написал возражение, и чуть позже в тот же день впервые увидел за окном коптер, тогда не придав этому никакого значения."
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "type": "message",
+      "date": "2024-10-02T05:23:04",
+      "date_unixtime": "1727835784",
+      "edited": "2024-10-02T05:40:05",
+      "edited_unixtime": "1727836805",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_02-23-04.jpg",
+      "photo_file_size": 131243,
+      "width": 745,
+      "height": 1071,
+      "text": "И уже на следующий день, 26 мая 2020 года, они прислали ответ, который даже не выглядел раздражённым — могли бы и откровенно отмахнуться, но ограничились формальной отпиской; я и на это направил возражение одним предложением: что в случае отказа исполнять Конституцию обращусь к гаранту.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "И уже на следующий день, 26 мая 2020 года, они прислали ответ, который даже не выглядел раздражённым — могли бы и откровенно отмахнуться, но ограничились формальной отпиской; я и на это направил возражение одним предложением: что в случае отказа исполнять Конституцию обращусь к гаранту."
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "type": "message",
+      "date": "2024-10-02T05:45:08",
+      "date_unixtime": "1727837108",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_02-45-08.jpg",
+      "photo_file_size": 82013,
+      "width": 725,
+      "height": 885,
+      "text": "В итоге они прислали очередной ответ, который кому‑то со стороны мог бы показаться признаком того, что они действительно занялись вопросом, но по сути это была такая же стандартная формальная отписка, фактически означающая отказ что‑то делать.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В итоге они прислали очередной ответ, который кому‑то со стороны мог бы показаться признаком того, что они действительно занялись вопросом, но по сути это была такая же стандартная формальная отписка, фактически означающая отказ что‑то делать."
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "type": "message",
+      "date": "2024-10-02T09:06:28",
+      "date_unixtime": "1727849188",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_06-06-28.jpg",
+      "photo_file_size": 82472,
+      "width": 747,
+      "height": 1065,
+      "text": "Понимая, что в прокуратуре рассчитывать на реальную помощь не приходится, 30 мая 2020 года я написал обращение в службу собственной безопасности МВД, потому что тогда казалось, что если кто‑то и способен разобраться, то именно они. Думаю, именно это стало для Кудрявцева последней точкой, после которой он решил добиться моей госпитализации. Ответ от СБ, насколько помню, всё‑таки был — он пришёл уже тогда, когда я находился в больнице, но найти его сейчас я почему‑то не могу.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Понимая, что в прокуратуре рассчитывать на реальную помощь не приходится, 30 мая 2020 года я написал обращение в службу собственной безопасности МВД, потому что тогда казалось, что если кто‑то и способен разобраться, то именно они. Думаю, именно это стало для Кудрявцева последней точкой, после которой он решил добиться моей госпитализации. Ответ от СБ, насколько помню, всё‑таки был — он пришёл уже тогда, когда я находился в больнице, но найти его сейчас я почему‑то не могу."
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "type": "message",
+      "date": "2024-10-02T09:06:28",
+      "date_unixtime": "1727849188",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_06-06-28.jpg",
+      "photo_file_size": 147610,
+      "width": 750,
+      "height": 1070,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 106,
+      "type": "message",
+      "date": "2024-10-02T09:32:45",
+      "date_unixtime": "1727850765",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "VID_20200605_132003.mp4",
+      "file_size": 197970007,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 9741,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 78,
+      "width": 1920,
+      "height": 1080,
+      "text": "«И вот 5 июня 2020 года, совершенно без всякой причины, примерно в 5:30 утра сверху раздалось резкое и настойчивое стукотение в потолок — серия ударов, от которых я просто опешил; так продолжалось весь день, с разными интервалами — то через час, то через полчаса, и часть этого я даже успел записать.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "«И вот 5 июня 2020 года, совершенно без всякой причины, примерно в 5:30 утра сверху раздалось резкое и настойчивое стукотение в потолок — серия ударов, от которых я просто опешил; так продолжалось весь день, с разными интервалами — то через час, то через полчаса, и часть этого я даже успел записать."
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "type": "message",
+      "date": "2024-10-02T09:52:39",
+      "date_unixtime": "1727851959",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@007 908 302-(0079083028270)_20200605163221.mp3",
+      "file_size": 362400,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 90,
+      "text": "На следующий день всё повторилось с самого утра, и я поднялся к нему, постучал — никто не открыл. Тогда я узнал его номер через ТСЖ, вернулся к себе, и прямо во время очередного стука набрал его; услышал, как у него в квартире зазвонил телефон, он сразу прекратил шум, взял трубку, и состоялся разговор. Его зовут Валентин Гусарин, работает в компании “Бреслер”.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "На следующий день всё повторилось с самого утра, и я поднялся к нему, постучал — никто не открыл. Тогда я узнал его номер через ТСЖ, вернулся к себе, и прямо во время очередного стука набрал его; услышал, как у него в квартире зазвонил телефон, он сразу прекратил шум, взял трубку, и состоялся разговор. Его зовут Валентин Гусарин, работает в компании “Бреслер”."
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "type": "message",
+      "date": "2024-10-02T09:58:16",
+      "date_unixtime": "1727852296",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@Валя(0079083028270)_20200606155446 (1).mp3",
+      "file_size": 3947040,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 986,
+      "text": "Он продолжал стучать так же настойчиво, и я, не выдержав, взял баллончик, написал ему на двери оскорбление и отправил сообщение со своего Skype, передав в нём, что за каждый его стук я намерен добиваться для него последствий. Почему он после этого решил позвонить именно мне — до сих пор не понимаю; разговор можно даже не слушать — сплошное враньё, и удивительно, какой актёрский талант у человека пропадает.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Он продолжал стучать так же настойчиво, и я, не выдержав, взял баллончик, написал ему на двери оскорбление и отправил сообщение со своего Skype, передав в нём, что за каждый его стук я намерен добиваться для него последствий. Почему он после этого решил позвонить именно мне — до сих пор не понимаю; разговор можно даже не слушать — сплошное враньё, и удивительно, какой актёрский талант у человека пропадает."
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "type": "message",
+      "date": "2024-10-02T10:12:01",
+      "date_unixtime": "1727853121",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "VID_20200613_075040.mp4",
+      "file_size": 341951519,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 5086,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 135,
+      "width": 1920,
+      "height": 1080,
+      "text": "13 июня 2020 года долбёжка продолжалась, и именно тогда он подал заявление, после чего с номера 7 987 664‑18‑45 позвонил участковый Андреев Вячеслав, вызвал меня к себе и начал объяснять, что за такую ситуацию меня могут привлечь, что это “не шутки”. Чуть позже вечером отец принёс мне свой ноутбук, попросив закинуть любые фильмы “на мой вкус”, и тогда я окончательно понял, что несмотря на всё происходящее, я до последнего старался вести себя максимально корректно.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "13 июня 2020 года долбёжка продолжалась, и именно тогда он подал заявление, после чего с номера 7 987 664‑18‑45 позвонил участковый Андреев Вячеслав, вызвал меня к себе и начал объяснять, что за такую ситуацию меня могут привлечь, что это “не шутки”. Чуть позже вечером отец принёс мне свой ноутбук, попросив закинуть любые фильмы “на мой вкус”, и тогда я окончательно понял, что несмотря на всё происходящее, я до последнего старался вести себя максимально корректно."
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "type": "message",
+      "date": "2024-10-02T10:35:37",
+      "date_unixtime": "1727854537",
+      "edited": "2024-10-02T10:40:29",
+      "edited_unixtime": "1727854829",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "VID_20200614_080039.mp4",
+      "file_size": 190304386,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 9012,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 75,
+      "width": 1920,
+      "height": 1080,
+      "text": "14 июня 2020 года всё это окончательно меня вымотало. Тогда, как и сейчас, я не мог понять, что именно я сделал и кому, особенно родителям. Через час приехала бригада, и меня задержали прямо в квартире; я не сдержался — мне было тяжело, а родители просто стояли и смотрели. В больнице мать написала, что я перестал ухаживать за собой, что у меня появились галлюцинации, что я вижу за окном несуществующие вещи и постоянно говорю о каком‑то Кудрявцеве. Главврач Русов, который, как известно, учился вместе с одним из их знакомых, на осмотре спросил, не кажется ли мне, что кто‑то управляет мной через компьютер. Я ответил, что это абсурд, и спросил, действительно ли он врач. Он подтвердил, я сказал, что не верю, и меня увели.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "14 июня 2020 года всё это окончательно меня вымотало. Тогда, как и сейчас, я не мог понять, что именно я сделал и кому, особенно родителям. Через час приехала бригада, и меня задержали прямо в квартире; я не сдержался — мне было тяжело, а родители просто стояли и смотрели. В больнице мать написала, что я перестал ухаживать за собой, что у меня появились галлюцинации, что я вижу за окном несуществующие вещи и постоянно говорю о каком‑то Кудрявцеве. Главврач Русов, который, как известно, учился вместе с одним из их знакомых, на осмотре спросил, не кажется ли мне, что кто‑то управляет мной через компьютер. Я ответил, что это абсурд, и спросил, действительно ли он врач. Он подтвердил, я сказал, что не верю, и меня увели."
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "type": "message",
+      "date": "2024-10-02T10:46:35",
+      "date_unixtime": "1727855195",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_07-46-35.jpg",
+      "photo_file_size": 124513,
+      "width": 1280,
+      "height": 960,
+      "text": "Вот справка о моём пребывании там — сразу видно, что в ней уже есть информация и о втором моём попадании, но до этого мы ещё дойдём. Относились ко мне хорошо, даже лучше, чем к другим, но тогда я на это не обращал внимания: под действием таблеток и в общем состоянии мой примитивный, заторможенный мозг не позволял допустить мысль, что родители действительно могут быть в чём‑то замешаны. И постепенно я сам начал думать, что, возможно, проблема действительно во мне.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Вот справка о моём пребывании там — сразу видно, что в ней уже есть информация и о втором моём попадании, но до этого мы ещё дойдём. Относились ко мне хорошо, даже лучше, чем к другим, но тогда я на это не обращал внимания: под действием таблеток и в общем состоянии мой примитивный, заторможенный мозг не позволял допустить мысль, что родители действительно могут быть в чём‑то замешаны. И постепенно я сам начал думать, что, возможно, проблема действительно во мне."
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "type": "message",
+      "date": "2024-10-02T12:10:50",
+      "date_unixtime": "1727860250",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "VID_20200816_230107 - Trim.mp4",
+      "file_size": 1709902208,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 1844,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 793,
+      "width": 1080,
+      "height": 1920,
+      "text": "Да я бы, наверное, так и продолжал думать, что у меня просто слегка поехала крыша, если бы Павел Иванович на этом остановился. Но уже 16 августа 2020 года я снова увидел то же самое. И если это действительно был не он, то пусть скажет — сколько лет я уже ошибочно обвиняю его? Но всё указывает на то, что это именно он.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да я бы, наверное, так и продолжал думать, что у меня просто слегка поехала крыша, если бы Павел Иванович на этом остановился. Но уже 16 августа 2020 года я снова увидел то же самое. И если это действительно был не он, то пусть скажет — сколько лет я уже ошибочно обвиняю его? Но всё указывает на то, что это именно он."
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "type": "message",
+      "date": "2024-10-02T12:30:17",
+      "date_unixtime": "1727861417",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "коптер_стэйбл.mp4",
+      "file_size": 90013847,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 7771,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 64,
+      "width": 1920,
+      "height": 1080,
+      "text": "18 сентября 2020 года всё продолжалось в том же духе, и это я ещё не говорю о том, что он продолжал писать мне с аккаунтов моих “друзей”, прекрасно понимая, что я всё вижу и всё понимаю. Ему, похоже, даже нравилось, что я вынужден поддерживать с ним более‑менее нормальный тон, чтобы эти же “друзья” не начали пересылать мои сообщения и не говорить: вот, смотрите, он не в себе — такое уже бывало.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "18 сентября 2020 года всё продолжалось в том же духе, и это я ещё не говорю о том, что он продолжал писать мне с аккаунтов моих “друзей”, прекрасно понимая, что я всё вижу и всё понимаю. Ему, похоже, даже нравилось, что я вынужден поддерживать с ним более‑менее нормальный тон, чтобы эти же “друзья” не начали пересылать мои сообщения и не говорить: вот, смотрите, он не в себе — такое уже бывало."
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "type": "message",
+      "date": "2024-10-02T12:57:23",
+      "date_unixtime": "1727863043",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "звонотцунараб.mp4",
+      "file_size": 95586205,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 7399,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 160,
+      "width": 1920,
+      "height": 1080,
+      "text": "9 октября 2020 года отец принёс ноутбук, якобы “с работы”, хотя я прекрасно понимал, что он не оттуда — это была очередная попытка вмешаться. Я надеялся, что хотя бы так удастся разорвать их связку, но ничего не вышло. Тактика Кудрявцева проста, но работает: игнорировать любые аргументы, зная, что финансовые возможности позволяют ему перекрывать любые последствия.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "9 октября 2020 года отец принёс ноутбук, якобы “с работы”, хотя я прекрасно понимал, что он не оттуда — это была очередная попытка вмешаться. Я надеялся, что хотя бы так удастся разорвать их связку, но ничего не вышло. Тактика Кудрявцева проста, но работает: игнорировать любые аргументы, зная, что финансовые возможности позволяют ему перекрывать любые последствия."
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "type": "message",
+      "date": "2024-10-02T13:11:27",
+      "date_unixtime": "1727863887",
+      "edited": "2024-10-02T13:12:30",
+      "edited_unixtime": "1727863950",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "А, да — я пропустил. Параллельно всему этому, с начала сентября, я начал резко высказываться в адрес Ниночки Скляр — той самой, которая придумала историю с \"наркоконтролем\", после того как я позволил себе отправить ей сообщение, где сказал, что для неё важнее отношения, чем человек. И это не мои фантазии — всё взято из её собственных разговоров, которые она годами вела за моей спиной. Меня поразил масштаб её самоуверенности, и я не смог сдержаться: написал её мужу, её матери, рассказал, кто она на самом деле, написал об этом у себя во ВКонтакте. Получилась грязная история, поэтому без изображений.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "А, да — я пропустил. Параллельно всему этому, с начала сентября, я начал резко высказываться в адрес Ниночки Скляр — той самой, которая придумала историю с \"наркоконтролем\", после того как я позволил себе отправить ей сообщение, где сказал, что для неё важнее отношения, чем человек. И это не мои фантазии — всё взято из её собственных разговоров, которые она годами вела за моей спиной. Меня поразил масштаб её самоуверенности, и я не смог сдержаться: написал её мужу, её матери, рассказал, кто она на самом деле, написал об этом у себя во ВКонтакте. Получилась грязная история, поэтому без изображений."
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "type": "message",
+      "date": "2024-10-02T15:44:23",
+      "date_unixtime": "1727873063",
+      "edited": "2024-10-02T16:31:44",
+      "edited_unixtime": "1727875904",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_12-44-23.jpg",
+      "photo_file_size": 60690,
+      "width": 931,
+      "height": 781,
+      "text": "Оказывается, я ещё успел подать заявление в Генеральную прокуратуру. Помню только, что просил возбудить уголовное дело по статье 127 — незаконное лишение свободы — из‑за моего первого помещения в больницу. К сожалению, ответ найти не могу, но суть была в том, что обращение передали в МВД. Я сначала пошёл прямо в МВД, там отправили в УМВД, где тоже никто не знал, кто занимается моим заявлением. В итоге, как и следовало ожидать, направили в 5‑е отделение полиции — самое “оперативное” отделение на свете.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Оказывается, я ещё успел подать заявление в Генеральную прокуратуру. Помню только, что просил возбудить уголовное дело по статье 127 — незаконное лишение свободы — из‑за моего первого помещения в больницу. К сожалению, ответ найти не могу, но суть была в том, что обращение передали в МВД. Я сначала пошёл прямо в МВД, там отправили в УМВД, где тоже никто не знал, кто занимается моим заявлением. В итоге, как и следовало ожидать, направили в 5‑е отделение полиции — самое “оперативное” отделение на свете."
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "type": "message",
+      "date": "2024-10-02T16:37:12",
+      "date_unixtime": "1727876232",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@Андреев_Вяч0079876641845_20201103140614.mp3",
+      "file_size": 246528,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 61,
+      "text": "И вот наступает 3 ноября 2020 года. Я прихожу в 5‑е отделение полиции, и мне сообщают, что моим заявлением занимается тот самый “легендарный” участковый, о котором я уже говорил, — капитан Вячеслав Андреев, который почему‑то предпочитает, чтобы его называли Валдис. Ладно, я иду туда, где сидят участковые, на Миттова. Было около одиннадцати утра, но помещение оказалось закрыто. На двери висел номер. Я вернулся домой и набрал его. Дальше — просто послушайте.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "И вот наступает 3 ноября 2020 года. Я прихожу в 5‑е отделение полиции, и мне сообщают, что моим заявлением занимается тот самый “легендарный” участковый, о котором я уже говорил, — капитан Вячеслав Андреев, который почему‑то предпочитает, чтобы его называли Валдис. Ладно, я иду туда, где сидят участковые, на Миттова. Было около одиннадцати утра, но помещение оказалось закрыто. На двери висел номер. Я вернулся домой и набрал его. Дальше — просто послушайте."
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "type": "message",
+      "date": "2024-10-02T16:44:37",
+      "date_unixtime": "1727876677",
+      "edited": "2024-10-02T16:45:42",
+      "edited_unixtime": "1727876742",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@8(800)100-84(88001008402)_20201103141234.mp3",
+      "file_size": 1345440,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 336,
+      "text": "Прикол в том, что этот “супер‑участковый”, которому поручили моё заявление, фигурировал там же — и далеко не в положительном ключе. После разговора с ним я сразу позвонил на горячую линию МВД по вопросам нарушений со стороны сотрудников.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Прикол в том, что этот “супер‑участковый”, которому поручили моё заявление, фигурировал там же — и далеко не в положительном ключе. После разговора с ним я сразу позвонил на горячую линию МВД по вопросам нарушений со стороны сотрудников."
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "type": "message",
+      "date": "2024-10-02T17:00:08",
+      "date_unixtime": "1727877608",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "А дальше в этот же день начинается что‑то действительно странное. Мать заходит ко мне в квартиру — у неё соседняя — и приносит торт и пакет с творожными сырками. Говорит: “Это тебе”. Я отвечаю: “Оставь”. Уже уходя, она добавляет: сегодня день Казанской иконы Божией Матери, поэтому обязательно нужно поесть. Я сказал, что хорошо, поем. Подхожу к окну — и прямо на глазах весь город начинает затягивать туманом. Я впадаю в ступор, забываю и про торт, и про сырки, и в итоге просто ложусь спать.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "А дальше в этот же день начинается что‑то действительно странное. Мать заходит ко мне в квартиру — у неё соседняя — и приносит торт и пакет с творожными сырками. Говорит: “Это тебе”. Я отвечаю: “Оставь”. Уже уходя, она добавляет: сегодня день Казанской иконы Божией Матери, поэтому обязательно нужно поесть. Я сказал, что хорошо, поем. Подхожу к окну — и прямо на глазах весь город начинает затягивать туманом. Я впадаю в ступор, забываю и про торт, и про сырки, и в итоге просто ложусь спать."
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "type": "message",
+      "date": "2024-10-02T17:11:03",
+      "date_unixtime": "1727878263",
+      "edited": "2024-10-02T17:12:01",
+      "edited_unixtime": "1727878321",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Наступает 4 ноября 2020 года. Я просыпаюсь и думаю, что бы поесть — конечно, сырки. Открываю пакет, достаю один, хочу распечатать, а он уже приоткрыт. Думаю: ладно, беру другой — то же самое. Проверяю остальные — все приоткрытые. Я захожу в интернет, смотрю, когда день Казанской иконы Божией Матери, и вижу, что он сегодня, а не вчера, как сказала мать. Кажется, это все звонки, которые я сделал в тот день, пока её не было дома. Никто так и не приехал.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Наступает 4 ноября 2020 года. Я просыпаюсь и думаю, что бы поесть — конечно, сырки. Открываю пакет, достаю один, хочу распечатать, а он уже приоткрыт. Думаю: ладно, беру другой — то же самое. Проверяю остальные — все приоткрытые. Я захожу в интернет, смотрю, когда день Казанской иконы Божией Матери, и вижу, что он сегодня, а не вчера, как сказала мать. Кажется, это все звонки, которые я сделал в тот день, пока её не было дома. Никто так и не приехал."
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@8495667-74-4(84956677447)_20201104151324.mp3",
+      "file_size": 439776,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 109,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 122,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@8(800)100-84(88001008402)_20201104151553.mp3",
+      "file_size": 523680,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 130,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 123,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@8(800)100-84(88001008402)_20201104151819.mp3",
+      "file_size": 592128,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 148,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 124,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@8(800)100-84(88001008402)_20201104171314.mp3",
+      "file_size": 962688,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 240,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 125,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@102(102)_20201104143123.mp3",
+      "file_size": 241440,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 60,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 126,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@102(102)_20201104152202.mp3",
+      "file_size": 644640,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 161,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 127,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@102(102)_20201104162613.mp3",
+      "file_size": 837888,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 209,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 128,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@112Экстренный_номер_20201104131706.mp3",
+      "file_size": 552480,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 138,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 129,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@112Экстренный_номер_20201104134843.mp3",
+      "file_size": 334176,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 83,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 130,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@112Экстренный_номер_20201104140736.mp3",
+      "file_size": 233088,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 58,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 131,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@222-41-1(222411)_20201104160148.mp3",
+      "file_size": 422496,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 105,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 132,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@392-05-8(392058)_20201104141221.mp3",
+      "file_size": 386688,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 96,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 133,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@620-47-6(620476)_20201104143911.mp3",
+      "file_size": 473088,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 118,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 134,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@620-47-6(620476)_20201104160504.mp3",
+      "file_size": 255456,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 63,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 135,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@621-50-0(621500)_20201104142751.mp3",
+      "file_size": 470496,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 117,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 136,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@624-65-8(624658)_20201104142122.mp3",
+      "file_size": 9696,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 2,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 137,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@624-65-8(624658)_20201104142204.mp3",
+      "file_size": 781536,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 195,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 138,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@620476(620476)_20201104160749.mp3",
+      "file_size": 928800,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 232,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 139,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@007835224-20(0078352242005)_20201104132153.mp3",
+      "file_size": 443040,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 110,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 140,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@007835224-38(0078352243890)_20201104152812.mp3",
+      "file_size": 252288,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 63,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 141,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@007835224-38(0078352243890)_20201104153022.mp3",
+      "file_size": 178080,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 44,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 142,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@007903358-10(0079033581015)_20201104163918.mp3",
+      "file_size": 171648,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 42,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 143,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@007927667-40(0079276674086)_20201104144140.mp3",
+      "file_size": 218400,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 54,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 144,
+      "type": "message",
+      "date": "2024-10-02T17:11:22",
+      "date_unixtime": "1727878282",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@8495667-74-4(84956677447)_20201104145458.mp3",
+      "file_size": 620256,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 155,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 145,
+      "type": "message",
+      "date": "2024-10-02T17:23:23",
+      "date_unixtime": "1727879003",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "index-f5-v1-a1.mp4",
+      "file_size": 25225212,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 6740,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 59,
+      "width": 1080,
+      "height": 1920,
+      "text": "Когда мать вернулась, я никак не показывал, что что‑то заметил — просто спокойно сидел. Минут через пятнадцать после её прихода кто‑то постучал, и они вдвоём зашли ко мне в квартиру. Мать сказала: “Ты вызывал полицию? Вот полиция приехала”. Это оказался помощник участкового. Он начал расспрашивать, не кажется ли мне, что кто‑то пытается причинить мне вред. Я ответил, что не уверен. Он попросил отдать ему продукты, но я отказался. Тогда он повернулся к матери и сказал вызвать ещё кого‑то, и она пошла за телефоном. Я взял торт и сырки, ушёл в ванную и заперся. Снова начал звонить в полицию — там, как и раньше, обещали приехать. Когда приехала бригада, я включил трансляцию во “ВКонтакте”. Финал того дня многие уже видели.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Когда мать вернулась, я никак не показывал, что что‑то заметил — просто спокойно сидел. Минут через пятнадцать после её прихода кто‑то постучал, и они вдвоём зашли ко мне в квартиру. Мать сказала: “Ты вызывал полицию? Вот полиция приехала”. Это оказался помощник участкового. Он начал расспрашивать, не кажется ли мне, что кто‑то пытается причинить мне вред. Я ответил, что не уверен. Он попросил отдать ему продукты, но я отказался. Тогда он повернулся к матери и сказал вызвать ещё кого‑то, и она пошла за телефоном. Я взял торт и сырки, ушёл в ванную и заперся. Снова начал звонить в полицию — там, как и раньше, обещали приехать. Когда приехала бригада, я включил трансляцию во “ВКонтакте”. Финал того дня многие уже видели."
+        }
+      ]
+    },
+    {
+      "id": 146,
+      "type": "message",
+      "date": "2024-10-02T17:36:03",
+      "date_unixtime": "1727879763",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Вызов@Кудрявцев0079176578762_20201104155659_1.mp3",
+      "file_size": 135168,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 33,
+      "text": "И только потом до меня дошло: первым делом я вообще позвонил не в полицию, а Кудрявцеву.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "И только потом до меня дошло: первым делом я вообще позвонил не в полицию, а Кудрявцеву."
+        }
+      ]
+    },
+    {
+      "id": 147,
+      "type": "message",
+      "date": "2024-10-02T17:51:52",
+      "date_unixtime": "1727880712",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-10-02_14-51-52.jpg",
+      "photo_file_size": 74750,
+      "width": 982,
+      "height": 777,
+      "text": "Меня держали там примерно месяц, выпустили в конце декабря. В этот раз я и лежал тяжело, и вышел в ещё более тяжёлом состоянии: почти ничего не соображал, еле смог выйти на работу, сидел как выжатый. Тогда мне поставили диагноз параноидальная шизофрения. Я понимаю, что кому‑то это удобно, но моё состояние со временем начало восстанавливаться, и это не что‑то, в чём я виноват. Уже в конце января 2021 года я написал обращение в больницу на имя Руссова, близкого знакомого Кудрявцева, с простым запросом. Ответа, разумеется, не получил.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Меня держали там примерно месяц, выпустили в конце декабря. В этот раз я и лежал тяжело, и вышел в ещё более тяжёлом состоянии: почти ничего не соображал, еле смог выйти на работу, сидел как выжатый. Тогда мне поставили диагноз параноидальная шизофрения. Я понимаю, что кому‑то это удобно, но моё состояние со временем начало восстанавливаться, и это не что‑то, в чём я виноват. Уже в конце января 2021 года я написал обращение в больницу на имя Руссова, близкого знакомого Кудрявцева, с простым запросом. Ответа, разумеется, не получил."
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "type": "message",
+      "date": "2024-10-02T18:06:33",
+      "date_unixtime": "1727881593",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Примерно первого марта 2021 года я решил обратиться к юристам, чтобы они помогли разобраться во всей этой истории: открыл первую попавшуюся ссылку в поиске и позвонил — это оказался “Единый центр защиты”, куда я в итоге заплатил 110 тысяч. К этому времени со мной уже почти никто не общался, разве что Кудрявцев периодически писал с чужих страниц — скорее ради того, чтобы понять, как я себя чувствую и что думаю, в своей обычной надменной манере. Я уже устал от всего происходящего и хотел спокойной нормальной жизни, поэтому на время перестал думать и о полиции, и о больнице, и о юристах, просто ходил на работу. Но ощущения, что меня действительно оставили в покое, всё равно почему‑то не было.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Примерно первого марта 2021 года я решил обратиться к юристам, чтобы они помогли разобраться во всей этой истории: открыл первую попавшуюся ссылку в поиске и позвонил — это оказался “Единый центр защиты”, куда я в итоге заплатил 110 тысяч. К этому времени со мной уже почти никто не общался, разве что Кудрявцев периодически писал с чужих страниц — скорее ради того, чтобы понять, как я себя чувствую и что думаю, в своей обычной надменной манере. Я уже устал от всего происходящего и хотел спокойной нормальной жизни, поэтому на время перестал думать и о полиции, и о больнице, и о юристах, просто ходил на работу. Но ощущения, что меня действительно оставили в покое, всё равно почему‑то не было."
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "type": "message",
+      "date": "2024-11-25T00:49:54",
+      "date_unixtime": "1732484994",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "В октябре 2021 года юристы сообщили, что по договору им всё равно нужно что‑то сделать, и я предложил начать с запроса в МВД о том, почему никто не приехал; позже они ответили, что МВД сообщило лишь о визите помощника участкового. Я сказал разбираться тогда с моим диагнозом, и после долгих обсуждений они решили, что нужна независимая экспертиза, чтобы хотя бы появился шанс выйти в суд. Я прошёл её почти за сорок тысяч: короткая беседа, несколько строк от руки — и заключение, что у меня нет шизофрении. Юристы начали запрашивать документы из больницы, на каждый запрос уходил месяц. В итоге только 14 января 2022 года я вместе с “юристом” Сапожниковой Яной Владимировной получил разрешение на проведение комиссии; там точно был Сафронов, остальных я не знаю. Мы предоставили заключение независимой экспертизы, и комиссия за несколько минут сказала, что диагноза у меня нет. И да, пока мы ждали в коридоре, я сказал этой “юристу”, что оцениваю свои моральные страдания в миллион.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В октябре 2021 года юристы сообщили, что по договору им всё равно нужно что‑то сделать, и я предложил начать с запроса в МВД о том, почему никто не приехал; позже они ответили, что МВД сообщило лишь о визите помощника участкового. Я сказал разбираться тогда с моим диагнозом, и после долгих обсуждений они решили, что нужна независимая экспертиза, чтобы хотя бы появился шанс выйти в суд. Я прошёл её почти за сорок тысяч: короткая беседа, несколько строк от руки — и заключение, что у меня нет шизофрении. Юристы начали запрашивать документы из больницы, на каждый запрос уходил месяц. В итоге только 14 января 2022 года я вместе с “юристом” Сапожниковой Яной Владимировной получил разрешение на проведение комиссии; там точно был Сафронов, остальных я не знаю. Мы предоставили заключение независимой экспертизы, и комиссия за несколько минут сказала, что диагноза у меня нет. И да, пока мы ждали в коридоре, я сказал этой “юристу”, что оцениваю свои моральные страдания в миллион."
+        }
+      ]
+    },
+    {
+      "id": 150,
+      "type": "message",
+      "date": "2024-11-25T01:06:35",
+      "date_unixtime": "1732485995",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Проходит примерно неделя: сначала звонит бабушка и спрашивает, что за миллион я собираюсь взыскать с больницы — я не придал этому значения. Примерно в те же дни один коллега по рабочим вопросам внезапно пишет резкое сообщение и блокирует меня, а позже на фуршете он с техническим руководителем что‑то обсуждают, поглядывая на меня, и я слышу слово “кокаин”. Наступает 30 января 2022 года, воскресенье: дома находиться было крайне некомфортно из‑за поведения родителей, и я решил поехать в офис, посидеть там и заказать еду. По приезде охранник заметно нервничал, говорил о каком‑то “режимном объекте”, но в итоге меня пропустили. Подхожу к своему компьютеру — и вижу, что открыта моя страница ВКонтакте, хотя я точно помнил, что так её не оставлял. 31 января я сначала звоню юристам и говорю, что приеду к ним днём, затем прихожу в офис и прошу записи с камеры, направленной на мой компьютер; мне отвечают, что подготовят. Через пару часов ко мне подходит начальник службы охраны и просит пройти поговорить, ведёт в помещение без камер, где оказываются мои родители и они вместе с охрпнником меня скручивают и что то вкалывают, сажают в машину и после этого я чувствую себя настолько плохо, что по приезде в район прошу выйти “за сигаретами” и пытаюсь уйти. Мать бежит за мной и кричит, что я вор; я пробегаю немного, падаю, с трудом поднимаюсь, добираюсь до магазина, вызываю такси и уезжаю в гостиницу, где два дня просто лежу, не в состоянии что‑либо делать, а потом возвращаюсь домой.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Проходит примерно неделя: сначала звонит бабушка и спрашивает, что за миллион я собираюсь взыскать с больницы — я не придал этому значения. Примерно в те же дни один коллега по рабочим вопросам внезапно пишет резкое сообщение и блокирует меня, а позже на фуршете он с техническим руководителем что‑то обсуждают, поглядывая на меня, и я слышу слово “кокаин”. Наступает 30 января 2022 года, воскресенье: дома находиться было крайне некомфортно из‑за поведения родителей, и я решил поехать в офис, посидеть там и заказать еду. По приезде охранник заметно нервничал, говорил о каком‑то “режимном объекте”, но в итоге меня пропустили. Подхожу к своему компьютеру — и вижу, что открыта моя страница ВКонтакте, хотя я точно помнил, что так её не оставлял. 31 января я сначала звоню юристам и говорю, что приеду к ним днём, затем прихожу в офис и прошу записи с камеры, направленной на мой компьютер; мне отвечают, что подготовят. Через пару часов ко мне подходит начальник службы охраны и просит пройти поговорить, ведёт в помещение без камер, где оказываются мои родители и они вместе с охрпнником меня скручивают и что то вкалывают, сажают в машину и после этого я чувствую себя настолько плохо, что по приезде в район прошу выйти “за сигаретами” и пытаюсь уйти. Мать бежит за мной и кричит, что я вор; я пробегаю немного, падаю, с трудом поднимаюсь, добираюсь до магазина, вызываю такси и уезжаю в гостиницу, где два дня просто лежу, не в состоянии что‑либо делать, а потом возвращаюсь домой."
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "type": "message",
+      "date": "2024-11-25T01:09:22",
+      "date_unixtime": "1732486162",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": " ту же неделю мне позвонили из уголовного розыска по поводу моего последнего заявления — звонил Тимур Аверин; я тогда находился в полном тумане, приехал, но почти не мог связать двух слов. Ему, похоже, было всё равно, он уже прекрасно знал, кто я, потому что я раньше приходил к ним с просьбой проверить ноутбук, который они формально “проверили”. Впечатление от работы уголовного розыска было удручающим — ощущение, что там никто не собирается действительно разбираться.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": " ту же неделю мне позвонили из уголовного розыска по поводу моего последнего заявления — звонил Тимур Аверин; я тогда находился в полном тумане, приехал, но почти не мог связать двух слов. Ему, похоже, было всё равно, он уже прекрасно знал, кто я, потому что я раньше приходил к ним с просьбой проверить ноутбук, который они формально “проверили”. Впечатление от работы уголовного розыска было удручающим — ощущение, что там никто не собирается действительно разбираться."
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "type": "message",
+      "date": "2024-11-25T01:31:05",
+      "date_unixtime": "1732487465",
+      "edited": "2024-11-25T14:15:26",
+      "edited_unixtime": "1732533326",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "Проходит месяц, и 3 марта 2022 года вечером я наконец начинаю приходить в себя и осознавать, что произошло. Мать закрывает дверь в свою квартиру, и у меня поднимается сильное чувство злости; я вызываю полицию и скорую, говоря, что она закрылась и не открывает. Они приезжают, формально разговаривают с ней, и я понимаю, что это ни к чему хорошему не приведёт, поэтому ухожу из дома, еду в первый отдел полиции и пишу заявление с просьбой проверить те самые камеры, после событий вокруг которых я месяц не мог прийти в себя. Возвращаюсь домой уже 4 марта около часа ночи и ложусь спать. Минут через двадцать слышу, как мать выходит из своей квартиры, открывает общую дверь, и ко мне заходят двое сотрудников; меня быстро прямо в трусах волокут вниз и помещают в машину скорой помощи, после чего меня снова увозят в больницу почти на четыре с половиной месяца. Тогда я полностью смирился с мыслью, что со мной что‑то не так, и решил, что всё происходившее — это результат моего собственного искажённого восприятия.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Проходит месяц, и 3 марта 2022 года вечером я наконец начинаю приходить в себя и осознавать, что произошло. Мать закрывает дверь в свою квартиру, и у меня поднимается сильное чувство злости; я вызываю полицию и скорую, говоря, что она закрылась и не открывает. Они приезжают, формально разговаривают с ней, и я понимаю, что это ни к чему хорошему не приведёт, поэтому ухожу из дома, еду в первый отдел полиции и пишу заявление с просьбой проверить те самые камеры, после событий вокруг которых я месяц не мог прийти в себя. Возвращаюсь домой уже 4 марта около часа ночи и ложусь спать. Минут через двадцать слышу, как мать выходит из своей квартиры, открывает общую дверь, и ко мне заходят двое сотрудников; меня быстро прямо в трусах волокут вниз и помещают в машину скорой помощи, после чего меня снова увозят в больницу почти на четыре с половиной месяца. Тогда я полностью смирился с мыслью, что со мной что‑то не так, и решил, что всё происходившее — это результат моего собственного искажённого восприятия."
+        }
+      ]
+    },
+    {
+      "id": 153,
+      "type": "message",
+      "date": "2024-11-25T01:46:29",
+      "date_unixtime": "1732488389",
+      "edited": "2024-11-25T01:48:44",
+      "edited_unixtime": "1732488524",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "В середине лета 2022 года меня выпустили, я принимал таблетки, мать делала уколы, и я устроился в НПП “Динамика”, куда меня взяли после звонка Павлу Ивановичу, о котором на собеседовании спрашивали больше, чем обо мне; тогда я был в тяжёлом состоянии и почти не соображал. В мае 2023 года мне показалось, что наконец повезло: я устроился в Роснефть на хорошую зарплату, отказался от таблеток и уколов и спокойно работал. В ноябре 2023 мне сообщили, что на моём рабочем компьютере обнаружен вирус, попросили отправить его обратно и заявили, что я якобы подхватил его на порносайте, что является нарушением требований информационной безопасности; я написал заявление, но потом забрал его, потому что это показалось мне абсурдным. Через несколько дней позвонил человек, которого я раньше не знал, представился начальником и сказал, что “расшифровали мой телеграм” и что я там покупал запрещённые вещества. Я признал, что когда‑то покупал гашиш и марихуану, но объяснил, что не делал этого через телеграм и ничего писать не собираюсь; он сказал, что дальше работать будет невозможно, и я в итоге согласился написать заявление.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В середине лета 2022 года меня выпустили, я принимал таблетки, мать делала уколы, и я устроился в НПП “Динамика”, куда меня взяли после звонка Павлу Ивановичу, о котором на собеседовании спрашивали больше, чем обо мне; тогда я был в тяжёлом состоянии и почти не соображал. В мае 2023 года мне показалось, что наконец повезло: я устроился в Роснефть на хорошую зарплату, отказался от таблеток и уколов и спокойно работал. В ноябре 2023 мне сообщили, что на моём рабочем компьютере обнаружен вирус, попросили отправить его обратно и заявили, что я якобы подхватил его на порносайте, что является нарушением требований информационной безопасности; я написал заявление, но потом забрал его, потому что это показалось мне абсурдным. Через несколько дней позвонил человек, которого я раньше не знал, представился начальником и сказал, что “расшифровали мой телеграм” и что я там покупал запрещённые вещества. Я признал, что когда‑то покупал гашиш и марихуану, но объяснил, что не делал этого через телеграм и ничего писать не собираюсь; он сказал, что дальше работать будет невозможно, и я в итоге согласился написать заявление."
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "type": "message",
+      "date": "2024-11-25T01:52:50",
+      "date_unixtime": "1732488770",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "27 декабря 2023 года у меня заканчиваются деньги, и я принимаю не самое разумное решение — поехать в ту юридическую фирму, которая когда‑то взяла с меня крупную сумму, и попытаться что‑то вернуть; естественно, ничего не выходит, и в порыве эмоций я повреждаю у них стекло. Позже мне звонят из полиции и предлагают приехать дать объяснение; я приезжаю в первый отдел, рассказываю, что произошло, и вскоре туда приезжает бригада, после чего меня снова увозят в больницу — уже в четвёртый раз.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "27 декабря 2023 года у меня заканчиваются деньги, и я принимаю не самое разумное решение — поехать в ту юридическую фирму, которая когда‑то взяла с меня крупную сумму, и попытаться что‑то вернуть; естественно, ничего не выходит, и в порыве эмоций я повреждаю у них стекло. Позже мне звонят из полиции и предлагают приехать дать объяснение; я приезжаю в первый отдел, рассказываю, что произошло, и вскоре туда приезжает бригада, после чего меня снова увозят в больницу — уже в четвёртый раз."
+        }
+      ]
+    },
+    {
+      "id": 155,
+      "type": "message",
+      "date": "2024-11-25T02:36:46",
+      "date_unixtime": "1732491406",
+      "edited": "2025-09-15T23:05:46",
+      "edited_unixtime": "1757966746",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": "16 февраля 2024 года я снова выхожу, всё ещё считая себя нездоровым из‑за действия таблеток, но после выписки довольно быстро прихожу в себя и 25 марта 2024 года отправляю заявление на имя министра МВД Чувашии Шметкова. В заявлении я использовал резкие выражения и фактически предъявил претензии, связанные с ситуацией вокруг Кудрявцева. Сейчас понимаю, что выглядело это импульсивно. 1 апреля мне становится плохо, и я начинаю звонить в МВД по всем доступным номерам, включая горячую линию в Москве, но трубку нигде не берут; с моих номеров они и сейчас не отвечают — ни МВД, ни прокуратура, обычно просто сбрасывают. Все отправленные мной обращения я могу подтвердить: на почте сохранились официальные письма о принятии заявлений.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "16 февраля 2024 года я снова выхожу, всё ещё считая себя нездоровым из‑за действия таблеток, но после выписки довольно быстро прихожу в себя и 25 марта 2024 года отправляю заявление на имя министра МВД Чувашии Шметкова. В заявлении я использовал резкие выражения и фактически предъявил претензии, связанные с ситуацией вокруг Кудрявцева. Сейчас понимаю, что выглядело это импульсивно. 1 апреля мне становится плохо, и я начинаю звонить в МВД по всем доступным номерам, включая горячую линию в Москве, но трубку нигде не берут; с моих номеров они и сейчас не отвечают — ни МВД, ни прокуратура, обычно просто сбрасывают. Все отправленные мной обращения я могу подтвердить: на почте сохранились официальные письма о принятии заявлений."
+        }
+      ],
+      "reactions": [
+        {
+          "type": "emoji",
+          "count": 1,
+          "emoji": "❤"
+        }
+      ]
+    },
+    {
+      "id": 666,
+      "type": "message",
+      "date": "1969-12-31T02:55:26",
+      "date_unixtime": "1732492526",
+      "edited": "1969-12-31T03:01:14",
+      "edited_unixtime": "1734825674",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "14099026.pdf",
+      "media_type": "document",
+      "mime_type": "application/pdf",
+      "duration_seconds": 82,
+      "width": 726,
+      "height": 1280,
+      "text": "А вот этого поста вы не видели а он посути не о чем и не говорит вообще он просто тут для сохрания хронологического порядка документов а именно тут документЪ из кремля и я не в коем слуа не намекаю что это как то связанно с следующим событием Хосподи не дай боже вы что такого не может быть",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "А вот этого поста вы не видели а он посути не о чем и не говорит вообще он просто тут для сохрания хронологического порядка документов а именно тут документЪ из кремля и я не в коем слуа не намекаю что это как то связанно с следующим событием Хосподи не дай боже вы что такого не может быть"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "type": "message",
+      "date": "2024-11-25T02:55:26",
+      "date_unixtime": "1732492526",
+      "edited": "2024-12-22T03:01:14",
+      "edited_unixtime": "1734825674",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_size": 33999875,
+            "file_name": "video_2026-02-17_23-15-02.mp4",
+
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 10765,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 82,
+      "width": 726,
+      "height": 1280,
+      "text": "4 апреля 2024 года я разместил у себя на странице ВКонтакте провокационный пост, связанный с семьёй Кудрявцева; сейчас понимаю, что это было эмоциональное и резкое действие. Дальнейшее развитие событий видно на видео, которое у меня сохранилось.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "4 апреля 2024 года я разместил у себя на странице ВКонтакте провокационный пост, связанный с семьёй Кудрявцева; сейчас понимаю, что это было эмоциональное и резкое действие. Дальнейшее развитие событий видно на видео, которое у меня сохранилось."
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "type": "message",
+      "date": "2024-11-25T02:56:34",
+      "date_unixtime": "1732492594",
+      "edited": "2024-12-11T19:47:12",
+      "edited_unixtime": "1733935632",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-11-24_23-56-34.jpg",
+      "photo_file_size": 199820,
+      "width": 960,
+      "height": 1280,
+      "text": "после чего я решаю залечь на дно и вот это",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "после чего я решаю залечь на дно и вот это"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "type": "message",
+      "date": "2024-11-25T02:56:34",
+      "date_unixtime": "1732492594",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Сердитая Чувашия",
+      "forwarded_from_id": "1129711355",
+      "forwarded_from_name": "ChuvashiaDream",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "ауе.mp4",
+      "file_size": 27809633,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 13495,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 40,
+      "width": 1920,
+      "height": 1080,
+      "text": [
+        {
+          "type": "custom_emoji",
+          "text": "🔴",
+          "document_id": "stickers/sticker.webp"
+        },
+        " ",
+        {
+          "type": "bold",
+          "text": "Чебоксарца задержали и отправили в психбольницу за надпись «АУЕ» у здания МВД"
+        },
+        "\n\nДнём 25 апреля 34-летний чебоксарец попытался нанести аэрозольной краской аббревиатуру «АУЕ» на асфальте напротив здания министерства внутренних дел. На вопрос о том, для чего он это сделал, мужчина ответил: «Для привлечения внимания». Кадры с преступлением и наказанием публикует МВД по Чувашии. В ведомстве также сообщили, что задержанного поместили в психиатрическую больницу.  \n\nАУЕ — это субкультура, пропагандирующая криминальный образ жизни, так называемые «воровские понятия». Аббревиатура расшифровывается как «арестантский уклад един» или «арестантско-уркаганское единство». В 2020 году Верховный суд РФ признал движение АУЕ экстремистским.\n\nКакая именно статья грозит задержанному, пока неизвестно. Это запросто может быть уголовный срок за участие в деятельности экстремистской организации. Возможно, дело ограничится несколькими сутками ареста за демонстрацию запрещённой символики. Пожелаем чебоксарцу фарту масти."
+      ],
+      "text_entities": [
+        {
+          "type": "custom_emoji",
+          "text": "🔴",
+          "document_id": "stickers/sticker.webp"
+        },
+        {
+          "type": "plain",
+          "text": " "
+        },
+        {
+          "type": "bold",
+          "text": "Чебоксарца задержали и отправили в психбольницу за надпись «АУЕ» у здания МВД"
+        },
+        {
+          "type": "plain",
+          "text": "\n\nДнём 25 апреля 34-летний чебоксарец попытался нанести аэрозольной краской аббревиатуру «АУЕ» на асфальте напротив здания министерства внутренних дел. На вопрос о том, для чего он это сделал, мужчина ответил: «Для привлечения внимания». Кадры с преступлением и наказанием публикует МВД по Чувашии. В ведомстве также сообщили, что задержанного поместили в психиатрическую больницу.  \n\nАУЕ — это субкультура, пропагандирующая криминальный образ жизни, так называемые «воровские понятия». Аббревиатура расшифровывается как «арестантский уклад един» или «арестантско-уркаганское единство». В 2020 году Верховный суд РФ признал движение АУЕ экстремистским.\n\nКакая именно статья грозит задержанному, пока неизвестно. Это запросто может быть уголовный срок за участие в деятельности экстремистской организации. Возможно, дело ограничится несколькими сутками ареста за демонстрацию запрещённой символики. Пожелаем чебоксарцу фарту масти."
+        }
+      ]
+    },
+    {
+      "id": 159,
+      "type": "message",
+      "date": "2024-11-25T12:50:48",
+      "date_unixtime": "1732528248",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Volkov_Alexandr_Vyacheslavovich_Protokol_ot_23_08_2024_2024_10_07.pdf",
+      "file_size": 277904,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 16222,
+      "mime_type": "application/pdf",
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 165,
+      "type": "message",
+      "date": "2024-12-11T19:55:43",
+      "date_unixtime": "1733936143",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-12-11_16-55-43.jpg",
+      "photo_file_size": 82339,
+      "width": 576,
+      "height": 1280,
+      "text": "вот что полиция в итоге мне ответила",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "вот что полиция в итоге мне ответила"
+        }
+      ]
+    },
+    {
+      "id": 166,
+      "type": "message",
+      "date": "2024-12-11T19:55:43",
+      "date_unixtime": "1733936143",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "photo": "photos/photo_2024-12-11_16-55-43.jpg",
+      "photo_file_size": 76034,
+      "width": 576,
+      "height": 1280,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 168,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Здравствуйте. Могу предложить работу. Актуально?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Здравствуйте. Могу предложить работу. Актуально?"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Да",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Здравствуйте",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Здравствуйте"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Подскажите в каком городе находитесь и сколько вам лет, что-бы понимал какой спектр могу вам предложить",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Подскажите в каком городе находитесь и сколько вам лет, что-бы понимал какой спектр могу вам предложить"
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Чебоксары 34 загадки не буду говорю сразу",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Чебоксары 34 загадки не буду говорю сразу"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "делать",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "делать"
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "У вас есть водительские права?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "У вас есть водительские права?"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Нет",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Нет"
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Если что-то с перемещением воом нет",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Если что-то с перемещением воом нет"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Тогда предложу закладки.\n70-100к в неделю на дороге не валяются брат\nВсе для комфортной, безопасной и прибыльной работы мы тебе предоставим",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Тогда предложу закладки.\n70-100к в неделю на дороге не валяются брат\nВсе для комфортной, безопасной и прибыльной работы мы тебе предоставим"
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Класс",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Класс"
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Мне тупо лень если честно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Мне тупо лень если честно"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Так работа и не сильно энерго затратная",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Так работа и не сильно энерго затратная"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Чуть прогуляешься и все, 10к в день уже в кармане",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Чуть прогуляешься и все, 10к в день уже в кармане"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Да не я уже попадал в наркоконтроль при подъёме",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да не я уже попадал в наркоконтроль при подъёме"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Каким образом?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Каким образом?"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "type": "message",
+      "date": "2025-05-29T12:01:38",
+      "date_unixtime": "1748509298",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Да баба бывшая сдала ну и я только поднял грамм гаша и из-за угла двое",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да баба бывшая сдала ну и я только поднял грамм гаша и из-за угла двое"
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "В курсе что такое фейк подъем и как он делается?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В курсе что такое фейк подъем и как он делается?"
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Нет",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Нет"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Созвонится можешь? \nОбговорим кое какие моменты, и примешь для себя решение",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Созвонится можешь? \nОбговорим кое какие моменты, и примешь для себя решение"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Прям сейчас",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Прям сейчас"
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Можем прям сейчас",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Можем прям сейчас"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Можем позже",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Можем позже"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Просто в тексте это немного долго писать",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Просто в тексте это немного долго писать"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Да давай в 21 по мск",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да давай в 21 по мск"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Хорошо брат, давай в 21:00",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Хорошо брат, давай в 21:00"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Напиши я номер скину",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Напиши я номер скину"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "В телеге созвонимся",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "В телеге созвонимся"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ок",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ок"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Такие вещи обсуждать по сотовой связи, так себе идея)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Такие вещи обсуждать по сотовой связи, так себе идея)"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Для кого как)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Для кого как)"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "На вашем месте я бы вообще сигнал предложил",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "На вашем месте я бы вообще сигнал предложил"
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Согнал есть, но это для других позиций в работе используется)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Согнал есть, но это для других позиций в работе используется)"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Я считаю если никто не сдавал тебя и никто никогда слушать и читать не будет",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Я считаю если никто не сдавал тебя и никто никогда слушать и читать не будет"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Ну брат, сам понимаешь, о том что ты работаешь знать никто не должен, что-бы тебя никто не сдал",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну брат, сам понимаешь, о том что ты работаешь знать никто не должен, что-бы тебя никто не сдал"
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Сарафанное радио сильная штука, каждый каждому по \"секрету\"  скажет, и появится наводки",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Сарафанное радио сильная штука, каждый каждому по \"секрету\"  скажет, и появится наводки"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Но это не вожно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Но это не вожно"
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Чтобы никто не знал",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Чтобы никто не знал"
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Важно на самом деле.\nТебя твоя баба сдала же, ибо знала что идешь поднимать вес",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Важно на самом деле.\nТебя твоя баба сдала же, ибо знала что идешь поднимать вес"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "А это типо близкий человек",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "А это типо близкий человек"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Бывшая же говорю обиженная",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Бывшая же говорю обиженная"
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Она не знала она сказала моему директору тот посадил за мной сотрудника следить она всё время пас мой монитор и когда я купил и поехал в обед вот тогда меня и цепанули",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Она не знала она сказала моему директору тот посадил за мной сотрудника следить она всё время пас мой монитор и когда я купил и поехал в обед вот тогда меня и цепанули"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Скала просто что упртребляю",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Скала просто что упртребляю"
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "type": "message",
+      "date": "2025-05-29T12:01:39",
+      "date_unixtime": "1748509299",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Сейчас употребляешь что-то?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Сейчас употребляешь что-то?"
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ну да гашиш",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну да гашиш"
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Или шишки",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Или шишки"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Лсд могу ебануль",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Лсд могу ебануль"
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ну если кто кокаином угостит то без проблем",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну если кто кокаином угостит то без проблем"
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Окей бро, не проблема. Но ты должен понимать что на работе нужно быть трезвым, вне работы расслабляйся как хочешь",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Окей бро, не проблема. Но ты должен понимать что на работе нужно быть трезвым, вне работы расслабляйся как хочешь"
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Так мы ещё ничего не обсудили и не о чем не договаривались",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Так мы ещё ничего не обсудили и не о чем не договаривались"
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Это я на будущее уже говорю)",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Это я на будущее уже говорю)"
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Лан вечером посмотрим если я очень сильно сомневаюсь что соглашусь",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Лан вечером посмотрим если я очень сильно сомневаюсь что соглашусь"
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "честно",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "честно"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Поговорим, примешь решение",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Поговорим, примешь решение"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Ну да",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ну да"
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Если чё в 21 15 сразу набери я возьму",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Если чё в 21 15 сразу набери я возьму"
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Ок",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ок"
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Через 10 минут наберу",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Через 10 минут наберу"
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ага",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ага"
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "ну че?",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "ну че?"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "type": "message",
+      "date": "2025-05-29T12:01:40",
+      "date_unixtime": "1748509300",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+       "forwarded_from": "Кудрявцев(7622010700)",
+      "forwarded_from_name": "pkudriavtsev",
+      "forwarded_from_id": "7622010700",
+      "text": "Да, сейчас",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Да, сейчас"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "type": "message",
+      "date": "2025-06-03T17:54:03",
+      "date_unixtime": "1748962443",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Барашкин",
+      "forwarded_from_id": "476733786",
+      "text": "Бююбьжь Дж 🚸🚸👘бхб😍🤣💗💗💗💗😘😭😭😭😭😭😭😭😭💗🙏💗🙏💗🥰🥰(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~ᕕ( ᐛ",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Бююбьжь Дж 🚸🚸👘бхб😍🤣💗💗💗💗😘😭😭😭😭😭😭😭😭💗🙏💗🙏💗🥰🥰(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~(~˘▾˘)~ᕕ( ᐛ"
+        }
+      ],
+      "forwarded_from_name": ""
+    },
+    {
+      "id": 230,
+      "type": "message",
+      "date": "2025-06-16T12:55:39",
+      "date_unixtime": "1750067739",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_size": 38253101,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 11353,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 314,
+      "width": 576,
+      "height": 1280,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 232,
+      "type": "message",
+      "date": "2025-06-16T20:34:14",
+      "date_unixtime": "1750095254",
+      "edited": "2025-06-16T20:38:49",
+      "edited_unixtime": "1750095529",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Масштабирование_таблицы_PRTG_Network_Monitor_DESKTOP_MVK0VTO.pdf",
+      "file_size": 23150210,
+      "mime_type": "application/pdf",
+      "text": "последняя тысяча записей лога моей локальной сети записана естественно не роутера а с компьютера и когда запускал программу если честно я сам там мало что понимаю но саму задумку примерно понимаю и считаю что гораздо проще эффективнее и безопаснее было бы просто меня отпиздить и выбить все пороли и доступы а потом случае чего сказать типа ты сам виноват за языком следить не умеешь и этот если я че ваш роутер заменил уже просто ваш мак адрес туда вбил",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "последняя тысяча записей лога моей локальной сети записана естественно не роутера а с компьютера и когда запускал программу если честно я сам там мало что понимаю но саму задумку примерно понимаю и считаю что гораздо проще эффективнее и безопаснее было бы просто меня отпиздить и выбить все пороли и доступы а потом случае чего сказать типа ты сам виноват за языком следить не умеешь и этот если я че ваш роутер заменил уже просто ваш мак адрес туда вбил"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "type": "message",
+      "date": "2025-07-04T23:31:29",
+      "date_unixtime": "1751661089",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_size": 17639239,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 10827,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 107,
+      "width": 576,
+      "height": 1280,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 234,
+      "type": "message",
+      "date": "2025-07-14T21:07:14",
+      "date_unixtime": "1752516434",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "АV",
+      "photo": "photos/photo_2025-07-14_18-07-14.jpg",
+      "photo_file_size": 70725,
+      "width": 570,
+      "height": 604,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 235,
+      "type": "message",
+      "date": "2025-07-14T21:11:50",
+      "date_unixtime": "1752516710",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_size": 919648,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 17005,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 10,
+      "width": 640,
+      "height": 480,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 236,
+      "type": "message",
+      "date": "2025-07-21T12:18:03",
+      "date_unixtime": "1753089483",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": [
+        {
+          "type": "link",
+          "text": "https://copilot.microsoft.com/shares/QQqoGtZMs5cNNethpeCQ6"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "https://copilot.microsoft.com/shares/QQqoGtZMs5cNNethpeCQ6"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "type": "message",
+      "date": "2025-08-01T21:09:50",
+      "date_unixtime": "1754071790",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Даниил",
+      "text": "Ищет",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ищет"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "type": "message",
+      "date": "2025-08-04T23:21:02",
+      "date_unixtime": "1754338862",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Кащей_Слово_пацана_Никита_Кологривый.mp4",
+      "file_size": 17532370,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 6344,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 86,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 240,
+      "type": "message",
+      "date": "2025-08-05T00:27:44",
+      "date_unixtime": "1754342864",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_size": 52519834,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 1118,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 262,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 249,
+      "type": "message",
+      "date": "2025-08-26T13:02:29",
+      "date_unixtime": "1756202549",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Забалухина",
+      "forwarded_from_id": "831871487",
+      "text": "Волк 🐺",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Волк 🐺"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "type": "message",
+      "date": "2025-08-26T13:02:29",
+      "date_unixtime": "1756202549",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Забалухина",
+      "forwarded_from_id": "831871487",
+      "text": "Рот",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Рот"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "type": "message",
+      "date": "2025-08-26T13:02:29",
+      "date_unixtime": "1756202549",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Забалухина",
+      "forwarded_from_id": "831871487",
+      "text": "Ротииище",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ротииище"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "type": "message",
+      "date": "2025-09-11T21:48:50",
+      "date_unixtime": "1757616530",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "text": [
+        {
+          "type": "link",
+          "text": "tverigrad.ru"
+        },
+        " ",
+        {
+          "type": "link",
+          "text": "https://share.google/5d2JphOHQZHIF5o0Y"
+        }
+      ],
+      "text_entities": [
+        {
+          "type": "link",
+          "text": "tverigrad.ru"
+        },
+        {
+          "type": "plain",
+          "text": " "
+        },
+        {
+          "type": "link",
+          "text": "https://share.google/5d2JphOHQZHIF5o0Y"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "type": "message",
+      "date": "2025-09-14T17:47:04",
+      "date_unixtime": "1757861224",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-14_14-47-04.mp4",
+      "file_size": 15305144,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 1340,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 85,
+      "width": 720,
+      "height": 1280,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 254,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58.mp4",
+      "file_size": 2020263,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 8189,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 24,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 255,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (1).mp4",
+      "file_size": 1241072,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 9722,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 19,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 256,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (2).mp4",
+      "file_size": 1856328,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 10401,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 27,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 257,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (3).mp4",
+      "file_size": 1983637,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 11431,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 27,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 258,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (4).mp4",
+      "file_size": 2220636,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 11291,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 29,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 259,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (5).mp4",
+      "file_size": 4303324,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 11381,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 52,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 260,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (6).mp4",
+      "file_size": 1219443,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 10737,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 18,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 261,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (7).mp4",
+      "file_size": 1749952,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 9981,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 19,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 262,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (8).mp4",
+      "file_size": 1618700,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 11596,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 28,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 263,
+      "type": "message",
+      "date": "2025-09-15T19:46:58",
+      "date_unixtime": "1757954818",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file_name": "document_2025-09-15_16-46-58 (9).mp4",
+      "file_size": 1014460,
+      "thumbnail": "(File not included. Change data exporting settings to download.)",
+      "thumbnail_file_size": 7436,
+      "media_type": "video_file",
+      "mime_type": "video/mp4",
+      "duration_seconds": 16,
+      "width": 1280,
+      "height": 720,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 264,
+      "type": "message",
+      "date": "2025-09-15T20:01:13",
+      "date_unixtime": "1757955673",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Папа(0079051980430)_20250915195711.mp3",
+      "file_size": 337440,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 84,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 265,
+      "type": "message",
+      "date": "2025-09-15T20:31:37",
+      "date_unixtime": "1757957497",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Мама",
+      "forwarded_from_id": "6874754120",
+      "text": "Приходи, тебя участковый ждёт.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Приходи, тебя участковый ждёт."
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "type": "message",
+      "date": "2025-09-15T20:31:37",
+      "date_unixtime": "1757957497",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Мама",
+      "forwarded_from_id": "6874754120",
+      "text": "Ты же хотел полицию, вот тебе полиция.",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Ты же хотел полицию, вот тебе полиция."
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "type": "message",
+      "date": "2025-09-15T20:31:37",
+      "date_unixtime": "1757957497",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Передай ему что я шлю его на хуй",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Передай ему что я шлю его на хуй"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "type": "message",
+      "date": "2025-09-15T20:31:37",
+      "date_unixtime": "1757957497",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "forwarded_from": "Александр Волков",
+      "forwarded_from_name": "xelavoklov",
+      "forwarded_from_id": "400860208",
+      "text": "Петух ты сука печальный",
+      "text_entities": [
+        {
+          "type": "plain",
+          "text": "Петух ты сука печальный"
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "type": "message",
+      "date": "2025-09-15T20:37:49",
+      "date_unixtime": "1757957869",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "Руссов(0079613484749)_20250915203613.mp3",
+      "file_size": 66048,
+      "media_type": "audio_file",
+      "mime_type": "audio/mpeg",
+      "duration_seconds": 16,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 273,
+      "type": "message",
+      "date": "2025-09-25T13:15:12",
+      "date_unixtime": "1758795312",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_size": 125163,
+      "media_type": "voice_message",
+      "mime_type": "audio/ogg",
+      "duration_seconds": 6,
+      "text": "",
+      "text_entities": []
+    },
+    {
+      "id": 274,
+      "type": "message",
+      "date": "2025-10-03T22:31:29",
+      "date_unixtime": "1759519889",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "FSFM_wo_sig.pdf",
+      "file_size": 211291,
+      "mime_type": "application/pdf",
+      "text": "Это документ который мне прислало отделение росфинмониторинга по ПФО на запрос о том что кудрявцев через свю фирму финансирует терроризм ну по сути же так и есть он без электронной подписи",
+      "text_entities": []
+    },
+    {
+      "id": 275,
+      "type": "message",
+      "date": "2025-10-03T22:31:29",
+      "date_unixtime": "1759519889",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "FSFM.p7s",
+      "file_size": 5431,
+      "mime_type": "application/pkcs7-signature",
+      "text": "Это их отпечаток подписи",
+      "text_entities": []
+    },
+    {
+      "id": 276,
+      "type": "message",
+      "date": "2025-10-03T22:31:29",
+      "date_unixtime": "1759519889",
+      "from": "xelavoklovlive",
+      "from_id": "2387659347",
+      "file": "(File not included. Change data exporting settings to download.)",
+      "file_name": "FSFM_w_sig.pdf",
+      "file_size": 129752,
+      "mime_type": "application/pdf",
+      "text": "Это тот же документ только уже подписанный я не помню конкретную причтну но не проходит короче подпись можете сами проверить",
+      "text_entities": []
+    }
+  ]
+}
