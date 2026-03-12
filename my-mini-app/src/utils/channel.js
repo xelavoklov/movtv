@@ -6,6 +6,10 @@ const VIDEO_EXTENSIONS = /\.(mp4|webm|mov|m4v|ogg)$/i;
 const AUDIO_EXTENSIONS = /\.(mp3|wav|ogg|m4a|oga)$/i;
 const PDF_EXTENSION = /\.pdf$/i;
 
+function buildPublicMediaUrl(path) {
+  return encodeURI(`${MEDIA_BASE_URL}/${path}`);
+}
+
 function isPlaceholder(value) {
   return typeof value === 'string' && value.trim().startsWith('(File not included');
 }
@@ -161,7 +165,13 @@ export function buildPersonAvatarUrl(personId) {
     return '';
   }
 
-  return `${MEDIA_BASE_URL}/person/${personId}.jpg`;
+  return buildPublicMediaUrl(`person/${personId}.jpg`);
+}
+
+export function getPostAvatarUrl(post) {
+  return buildPersonAvatarUrl(
+    post?.forwarded_from_id || post?.person_id || post?.sender_id || post?.from_id,
+  );
 }
 
 export function getPostMedia(post) {
@@ -193,7 +203,7 @@ export function getPostMedia(post) {
               : kind === 'pdf'
                 ? 'PDF'
                 : 'Файл',
-      url: `${MEDIA_BASE_URL}/${path}`,
+      url: buildPublicMediaUrl(path),
     };
   });
 }

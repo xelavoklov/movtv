@@ -15,9 +15,9 @@ import { useParams, useRouteNavigator } from '@vkontakte/vk-mini-apps-router';
 import PropTypes from 'prop-types';
 
 import {
-  buildPersonAvatarUrl,
   formatPostDate,
   getPostForwardInfo,
+  getPostAvatarUrl,
   getPostMedia,
   getPostSenderLabel,
   getPostText,
@@ -89,7 +89,7 @@ export const Post = ({ id, posts, isLoading, error }) => {
   const text = getPostText(post);
   const media = getPostMedia(post);
   const forwardInfo = getPostForwardInfo(post);
-  const avatarUrl = buildPersonAvatarUrl(post.person_id || post.sender_id || post.from_id);
+  const avatarUrl = getPostAvatarUrl(post);
 
   return (
     <Panel id={id}>

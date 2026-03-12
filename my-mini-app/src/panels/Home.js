@@ -21,9 +21,9 @@ import { useRouteNavigator } from '@vkontakte/vk-mini-apps-router';
 import PropTypes from 'prop-types';
 
 import {
-  buildPersonAvatarUrl,
   formatPostDate,
   getPostForwardInfo,
+  getPostAvatarUrl,
   getPostMedia,
   getPostSenderLabel,
   getPostText,
@@ -141,7 +141,7 @@ export const Home = ({ id, posts, isLoading, error }) => {
               const media = getPostMedia(post);
               const forwardInfo = getPostForwardInfo(post);
               const cover = media[0];
-              const avatarUrl = buildPersonAvatarUrl(post.person_id || post.sender_id || post.from_id);
+              const avatarUrl = getPostAvatarUrl(post);
 
               return (
                 <Card key={post.id} mode="shadow" className="feed-card">
@@ -155,10 +155,29 @@ export const Home = ({ id, posts, isLoading, error }) => {
                       />
                     ) : null}
 
+                    {cover && cover.kind === 'video' ? (
+                      <div className="feed-card__cover-shell">
+                        <video
+                          className="feed-card__cover"
+                          src={cover.url}
+                          preload="metadata"
+                          muted
+                          playsInline
+                        />
+                        <div className="feed-card__badge feed-card__badge--overlay">Видео</div>
+                      </div>
+                    ) : null}
+
                     <Div>
                       <RichCell
                         disabled
-                        before={avatarUrl ? <Avatar size={40} src={avatarUrl} /> : <Avatar size={40}>{senderLabel[0]}</Avatar>}
+                        before={
+                          avatarUrl ? (
+                            <Avatar size={40} src={avatarUrl} />
+                          ) : (
+                            <Avatar size={40}>{senderLabel[0]}</Avatar>
+                          )
+                        }
                         caption={`ID ${post.id}`}
                         subhead={formatPostDate(post.date)}
                         after={media.length ? `${media.length} медиа` : null}
@@ -174,7 +193,7 @@ export const Home = ({ id, posts, isLoading, error }) => {
 
                       <div className="feed-card__text">{text || 'Без текста'}</div>
 
-                      {cover && cover.kind !== 'image' ? (
+                      {cover && cover.kind !== 'image' && cover.kind !== 'video' ? (
                         <div className="feed-card__badge">{cover.label}</div>
                       ) : null}
                     </Div>
