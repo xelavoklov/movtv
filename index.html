@@ -238,6 +238,84 @@
   </div>
 
   <script>
+    const VIEW_API_BASE = 'https://movtv.fun/api/v1';
+    const VIEW_EVENT_KEY = 'movtv-viewer-id';
+    const VIEW_DELAY_MS = 1200;
+    const VIEW_RATIO = 0.6;
+
+    function getVisitorId() {
+      let visitorId = localStorage.getItem(VIEW_EVENT_KEY);
+      if (!visitorId) {
+        visitorId = (crypto && crypto.randomUUID) ? crypto.randomUUID() : String(Date.now()) + '-' + Math.random().toString(16).slice(2);
+        localStorage.setItem(VIEW_EVENT_KEY, visitorId);
+      }
+      return visitorId;
+    }
+
+    async function sendViewEvent(postId, eventType = 'visible') {
+      const visitorId = getVisitorId();
+      const url = new URL(`${VIEW_API_BASE}/posts/${postId}/view-event`);
+      url.searchParams.set('visitor_id', visitorId);
+      url.searchParams.set('event_type', eventType);
+
+      try {
+        await fetch(url.toString(), { method: 'POST', keepalive: true });
+      } catch (error) {
+        console.warn('view-event failed', error);
+      }
+    }
+
+    const viewTimers = new Map();
+    const sentViewEvents = new Set();
+
+    function trackPostVisibility(postEl) {
+      const postId = postEl && postEl.dataset ? postEl.dataset.postId : null;
+      if (!postId || sentViewEvents.has(postId)) {
+        return;
+      }
+
+      const rect = postEl.getBoundingClientRect();
+      const viewportHeight = window.innerHeight || document.documentElement.clientHeight || 0;
+      const visibleHeight = Math.max(0, Math.min(rect.bottom, viewportHeight) - Math.max(rect.top, 0));
+      const visibleRatio = rect.height > 0 ? visibleHeight / rect.height : 0;
+
+      if (visibleRatio >= VIEW_RATIO) {
+        if (!viewTimers.has(postId)) {
+          viewTimers.set(postId, setTimeout(() => {
+            sentViewEvents.add(postId);
+            viewTimers.delete(postId);
+            sendViewEvent(postId, 'visible');
+          }, VIEW_DELAY_MS));
+        }
+      } else {
+        const timer = viewTimers.get(postId);
+        if (timer) {
+          clearTimeout(timer);
+          viewTimers.delete(postId);
+        }
+      }
+    }
+
+    function initViewTracking() {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            trackPostVisibility(entry.target);
+          }
+        });
+      }, { threshold: [0, 0.25, 0.5, 0.75, 1] });
+
+      document.querySelectorAll('.post').forEach((postEl) => observer.observe(postEl));
+
+      window.addEventListener('scroll', () => {
+        document.querySelectorAll('.post').forEach(trackPostVisibility);
+      }, { passive: true });
+
+      window.addEventListener('beforeunload', () => {
+        viewTimers.forEach((timer) => clearTimeout(timer));
+        viewTimers.clear();
+      });
+    }
     // Параметры
     const BATCH = 10;
     let posts = [];
@@ -549,6 +627,9 @@ function restorePostIndex() {
       try{console.log('loadNext start', {index, to, total: posts.length, ids: posts.slice(index,to).map(x=>x && x.id)})}catch(e){}
       for(let i = index; i < to; i++){
         const el = renderPost(posts[i]);
+        if (el && posts[i] && posts[i].id != null) {
+          el.dataset.postId = String(posts[i].id);
+        }
         feed.appendChild(el);
       }
         // Инициализировать попапы для только что добавленных ссылок
@@ -624,6 +705,9 @@ function restorePostIndex() {
         let found = false;
         for (; index < posts.length; index++) {
           const el = renderPost(posts[index]);
+          if (el && posts[index] && posts[index].id != null) {
+            el.dataset.postId = String(posts[index].id);
+          }
           feed.appendChild(el);
           if (posts[index] && String(posts[index].id) === String(postId)) {
             el.scrollIntoView({behavior:'auto', block:'start'});
@@ -647,6 +731,7 @@ function restorePostIndex() {
           loadNext();
         }
       }
+      initViewTracking();
     })();
   </script>
 </body>
