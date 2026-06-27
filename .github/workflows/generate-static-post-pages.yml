@@ -1,0 +1,46 @@
+name: Generate Static Post Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - channel.json
+      - scripts/generate-static-post-pages.ps1
+      - .github/workflows/generate-static-post-pages.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate static pages
+        shell: powershell
+        run: |
+          powershell -NoProfile -ExecutionPolicy Bypass -File "scripts/generate-static-post-pages.ps1" -SiteDir "." -BaseUrl "https://xelavoklov.ru"
+
+      - name: Commit generated files
+        shell: powershell
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add posts sitemap.xml robots.txt
+
+          $status = git status --porcelain
+          if (-not $status) {
+            Write-Host "No changes to commit."
+            exit 0
+          }
+
+          git commit -m "chore: regenerate static post pages"
+          git push
